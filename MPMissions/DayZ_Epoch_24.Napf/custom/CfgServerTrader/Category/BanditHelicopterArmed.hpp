@@ -34,17 +34,17 @@ class Category_512 {
 		buy[] = {3,"ItemBriefcase100oz"};
 		sell[] = {2,"ItemBriefcase100oz"};
 	};
-	class MV22 {
+	class MV22_DZ {
 		type = "trade_any_vehicle";
 		buy[] = {5,"ItemBriefcase100oz"};
 		sell[] = {4,"ItemBriefcase100oz"};
 	};
-	class AH1Z	 {
+	class AH64D_EP1 {
 		type = "trade_any_vehicle";
 		buy[] = {10,"ItemBriefcase100oz"};
 		sell[] = {5,"ItemBriefcase100oz"};
 	};
-	class Mi24_P {
+	class Mi24_D {
 		type = "trade_any_vehicle";
 		buy[] = {10,"ItemBriefcase100oz"};
 		sell[] = {5,"ItemBriefcase100oz"};
