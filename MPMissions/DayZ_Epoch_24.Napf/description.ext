@@ -42,7 +42,7 @@ class CfgSounds
 			titles[] = {};
 		};
 	};
-//#include "\z\addons\dayz_code\gui\description.hpp"
+#include "\z\addons\dayz_code\gui\description.hpp"
 #include "dayz_code\gui\description.hpp"
 #include "rlnt\dialogs\rlnt_defines.hpp"			/*		RLNT - WeaponHUD		*/
 class RscTitles {
