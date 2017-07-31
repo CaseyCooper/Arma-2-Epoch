@@ -65,6 +65,8 @@ DZE_PlotPole = [30,45]; // Radius owned by plot pole [Regular objects,Other plot
 DZE_BuildingLimit = 350; // Max number of built objects allowed in DZE_PlotPole radius
 DZE_SelfTransfuse = true; // Allow players to bloodbag themselves
 DZE_selfTransfuse_Values = [12000,15,120]; // [blood amount given, infection chance %, cooldown in seconds]
+DZE_TwoPrimaries = 2;	
+DZE_weaponHUD = true;	/*		RLNT - WeaponHUD		*/
 MaxDynamicDebris = 500; // Max number of random road blocks to spawn around the map
 MaxVehicleLimit = 450; // Max number of random vehicles to spawn around the map
 spawnArea = 1400; // Distance around markers to find a safe spawn position
@@ -128,6 +130,7 @@ progressLoadingScreen 0.1;
 call compile preprocessFileLineNumbers "\z\addons\dayz_code\medical\setup_functions_med.sqf";
 progressLoadingScreen 0.15;
 call compile preprocessFileLineNumbers "\z\addons\dayz_code\init\compiles.sqf";
+call compile preprocessFileLineNumbers "rlnt\client\init\compiles.sqf";		/*		RLNT - Relentless		*/
 if (_verCheck) then {
 	#include "DZE_Hotfix_1.0.6.1A\init\compiles.sqf"
 };
@@ -152,6 +155,11 @@ if (isServer) then {
 	
 	// Lootable objects from CfgTownGeneratorDefault.hpp
 	if (dayz_townGenerator) then { execVM "\z\addons\dayz_code\system\mission\chernarus\MainLootableObjects.sqf"; };
+};
+
+if (!isServer) then {
+//RLNT - Relentless
+	execVM "rlnt\scripts\Weapon HUD\weaponhud_init.sqf";		/*		RLNT - WeaponHUD		*/
 };
 
 if (!isDedicated) then {
