@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Scheduler>
+<job id='0'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>000600</start>
+	<runtime>000600</runtime>
+	<loop>-1</loop>
+	<cmd>say -1 CRFT Survival Servers</cmd>
+</job>
+
+<job id='1'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>000600</start>
+	<runtime>000600</runtime>
+	<loop>-1</loop>
+	<cmd>say -1 Epoch Napf Veteran </cmd>
+</job>
+
+<!-- 06:00 AM restart -->
+<job id='2'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>05:45:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 15 minutes</cmd>
+</job>
+
+<job id='3'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>05:55:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 5 minute, log out now to prevent item loss!</cmd>
+</job>
+
+<job id='4'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>05:59:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 1 minute, Log out now!</cmd>
+</job>
+
+<job id='5'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>06:00:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>#shutdown</cmd>
+</job>
+
+<job id='6'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>06:00:10</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>C:\Users\Administrator\Desktop\Epoch Server\restart.bat</cmd>
+</job>
+<!-- End 06:00 AM restart -->
+
+<!-- 09:00 AM restart -->
+<job id='7'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>08:45:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 15 minutes</cmd>
+</job>
+
+<job id='8'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>08:55:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 5 minute, log out now to prevent item loss!</cmd>
+</job>
+
+<job id='9'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>08:59:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 1 minute, Log out now!</cmd>
+</job>
+
+<job id='10'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>09:00:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>#shutdown</cmd>
+</job>
+
+<job id='11'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>09:00:10</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>C:\Users\Administrator\Desktop\Epoch Server\restart.bat</cmd>
+</job>
+<!-- End 09:00 AM restart -->
+
+<!-- 12:00 PM restart -->
+<job id='12'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>11:45:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 15 minutes</cmd>
+</job>
+
+<job id='13'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>11:55:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 5 minute, log out now to prevent item loss!</cmd>
+</job>
+
+<job id='14'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>11:59:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 1 minute, Log out now!</cmd>
+</job>
+
+<job id='15'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>12:00:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>#shutdown</cmd>
+</job>
+
+<job id='16'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>12:00:10</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>C:\Users\Administrator\Desktop\Epoch Server\restart.bat</cmd>
+</job>
+<!-- End 12:00 PM restart -->
+
+<!-- 03:00 PM restart -->
+<job id='17'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>14:45:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 15 minutes</cmd>
+</job>
+
+<job id='18'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>14:55:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 5 minute, log out now to prevent item loss!</cmd>
+</job>
+
+<job id='19'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>14:59:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 1 minute, Log out now!</cmd>
+</job>
+
+<job id='20'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>15:00:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>#shutdown</cmd>
+</job>
+
+<job id='21'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>15:00:10</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>C:\Users\Administrator\Desktop\Epoch Server\restart.bat</cmd>
+</job>
+<!-- End 03:00 PM restart -->
+
+<!-- 06:00 PM restart -->
+<job id='22'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>17:45:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 15 minutes</cmd>
+</job>
+
+<job id='23'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>17:55:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 5 minute, log out now to prevent item loss!</cmd>
+</job>
+
+<job id='24'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>17:59:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 1 minute, Log out now!</cmd>
+</job>
+
+<job id='25'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>18:00:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>#shutdown</cmd>
+</job>
+
+<job id='26'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>18:00:10</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>C:\Users\Administrator\Desktop\Epoch Server\restart.bat</cmd>
+</job>
+<!-- End 06:00 PM restart -->
+
+<!-- 09:00 PM restart -->
+<job id='27'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>20:45:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 15 minutes</cmd>
+</job>
+
+<job id='28'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>20:55:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 5 minute, log out now to prevent item loss!</cmd>
+</job>
+
+<job id='29'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>20:59:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 1 minute, Log out now!</cmd>
+</job>
+
+<job id='30'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>21:00:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>#shutdown</cmd>
+</job>
+
+<job id='31'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>21:00:10</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>C:\Users\Administrator\Desktop\Epoch Server\restart.bat</cmd>
+</job>
+<!-- End 09:00 PM restart -->
+
+<!-- 12:00 AM restart -->
+<job id='32'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>23:45:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 15 minutes</cmd>
+</job>
+
+<job id='33'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>23:55:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 5 minute, log out now to prevent item loss!</cmd>
+</job>
+
+<job id='34'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>23:59:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 1 minute, Log out now!</cmd>
+</job>
+
+<job id='35'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>00:00:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>#shutdown</cmd>
+</job>
+
+<job id='36'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>00:00:10</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>C:\Users\Administrator\Desktop\Epoch Server\restart.bat</cmd>
+</job>
+<!-- End 12:00 AM restart -->
+
+<!-- 03:00 AM restart -->
+<job id='37'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>02:45:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 15 minutes</cmd>
+</job>
+
+<job id='38'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>02:55:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 5 minute, log out now to prevent item loss!</cmd>
+</job>
+
+<job id='39'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>02:59:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>say -1 This server will restart in 1 minute, Log out now!</cmd>
+</job>
+
+<job id='40'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>03:00:00</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>#shutdown</cmd>
+</job>
+
+<job id='41'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>03:00:10</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>C:\Users\Administrator\Desktop\Epoch Server\restart.bat</cmd>
+</job>
+<!-- End 03:00 AM restart -->
+
+</Scheduler>
