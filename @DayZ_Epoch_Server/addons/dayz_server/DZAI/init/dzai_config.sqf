@@ -133,7 +133,7 @@ DZAI_maxSpawnTime = 2700;
 DZAI_keepMaxSpawnTime = 1200;
 
 //Probability for dynamic AI to actively hunt a targeted player. If probability check fails, dynamic AI will patrol the area instead of hunting (Default: 0.50)
-DZAI_huntingChance = 0..30;
+DZAI_huntingChance = 0.30;
 
 //Probability to send first available AI helicopter to reinforce dynamic AI group. No effect if DZAI_maxHeliPatrols is set to zero. (Default: 0.50)
 DZAI_heliReinforceChance = 0.50;
