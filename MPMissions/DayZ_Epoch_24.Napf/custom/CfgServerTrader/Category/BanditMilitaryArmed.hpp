@@ -29,4 +29,35 @@ class Category_569 {
 		buy[] = {4,"ItemBriefcase100oz"};
 		sell[] = {1,"ItemBriefcase100oz"};
 	};
+	class HMMWV_Armored {
+		type = "trade_any_vehicle";
+		buy[] = {4,"ItemBriefcase100oz"};
+		sell[] = {1,"ItemBriefcase100oz"};
+	};
+	class BRDM2_HQ_TK_GUE_EP1 {
+		type = "trade_any_vehicle";
+		buy[] = {4,"ItemBriefcase100oz"};
+		sell[] = {2,"ItemBriefcase100oz"};
+	};	
+	class BTR90_HQ {
+		type = "trade_any_vehicle";
+		buy[] = {8,"ItemBriefcase100oz"};
+		sell[] = {4,"ItemBriefcase100oz"};
+	};	
+	class  BTR90 {
+		type = "trade_any_vehicle";
+		buy[] = {10,"ItemBriefcase100oz"};
+		sell[] = {5,"ItemBriefcase100oz"};
+	};	
+	class  LAV25_HQ {
+		type = "trade_any_vehicle";
+		buy[] = {8,"ItemBriefcase100oz"};
+		sell[] = {4,"ItemBriefcase100oz"};
+	};	
+	class  LAV25 {
+		type = "trade_any_vehicle";
+		buy[] = {10,"ItemBriefcase100oz"};
+		sell[] = {5,"ItemBriefcase100oz"};
+	};	
+
 };

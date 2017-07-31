@@ -6,7 +6,7 @@ class Category_487 {
 	};
 	class M14_DZ {
 		type = "trade_weapons";
-		buy[] = {2,"ItemGoldBar10oz"};
+		buy[] = {3,"ItemGoldBar10oz"};
 		sell[] = {1,"ItemGoldBar10oz"};
 	};
 	class CZ550_DZ {

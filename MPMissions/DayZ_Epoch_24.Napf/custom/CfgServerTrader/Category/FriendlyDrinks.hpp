@@ -1,18 +1,18 @@
 class Category_601 {
 	class ItemWaterbottleUnfilled {
 		type = "trade_items";
-		buy[] = {3,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {3,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
 	};
 	class ItemSodaCoke {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {2,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
 	};
 	class ItemSodaPepsi {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
-		sell[] = {1,"ItemSilverBar"};
+		buy[] = {2,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
 	};
 	class ItemSodaMdew {
 		type = "trade_items";
