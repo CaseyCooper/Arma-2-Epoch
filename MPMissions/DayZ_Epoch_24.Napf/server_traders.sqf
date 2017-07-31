@@ -1,1 +1,1 @@
-#include "\z\addons\dayz_code\system\mission\server_traders\napf.sqf"
+#include "custom\CfgServerTrader\napf.sqf"
