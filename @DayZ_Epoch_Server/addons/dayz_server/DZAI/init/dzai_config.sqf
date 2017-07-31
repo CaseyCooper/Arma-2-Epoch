@@ -127,13 +127,13 @@ DZAI_spawnChance3 = 0.90;	//Spawn chance for expert-level AI found in areas with
 DZAI_dynAISpawns = true;
 
 //Time (seconds) required to reach maximum spawn probability per player, after which the probability is reset to 0%. Lower number = More frequent spawns, Higher Number = Less frequent. (Recommended range: 1200-2700, Default: 1200)
-DZAI_maxSpawnTime = 1200;
+DZAI_maxSpawnTime = 2700;
 
 //Time (seconds) to allow each player to retain maximum spawn probability. (Default: 1200).
 DZAI_keepMaxSpawnTime = 1200;
 
 //Probability for dynamic AI to actively hunt a targeted player. If probability check fails, dynamic AI will patrol the area instead of hunting (Default: 0.50)
-DZAI_huntingChance = 0.50;
+DZAI_huntingChance = 0..30;
 
 //Probability to send first available AI helicopter to reinforce dynamic AI group. No effect if DZAI_maxHeliPatrols is set to zero. (Default: 0.50)
 DZAI_heliReinforceChance = 0.50;
