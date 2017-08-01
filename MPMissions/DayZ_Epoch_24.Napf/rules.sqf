@@ -2,13 +2,19 @@ private ["_messages","_timeout"];
 
 _messages = [
 	["DayZ Epoch", "Welcome "+(name player)],
-	["World", worldName],
-	["Teamspeak", "some TS info"],
-	["Website/Forums", "some website info"],
+	["World", "Napf Veteran"],
+	//["Teamspeak", "some TS info"],
+	//["Website/Forums", "some website info"],
 	["Server Rules", "Duping, glitching or using any<br />exploit will result in a<br />permanent ban."],
-	["Server Rules", "No talking in side."],
+	["Server Rules", "PVE Only"],
 	["Server Rules", "Hackers will be banned permanently<br />Respect others"],
-	["News", "Some random new info!<br />Random news<br />"]
+	["Server Features","Indestructable Bases"],
+	["Server Features","Adjusted Traders - They Pay More!!!"],
+	["Server Features","WAI DZAI DZMS"],
+	["Server Features","Old Style Tow And Lift"],
+	["Server Features","No Plot Pole Required To Build"],
+	["Server Features","Remember Have Fun And Enjoy Your Time On Beautiful Napf Island"]
+	
 ];
  
 _timeout = 5;
