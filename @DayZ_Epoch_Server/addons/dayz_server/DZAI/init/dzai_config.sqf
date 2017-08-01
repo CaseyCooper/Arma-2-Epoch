@@ -59,7 +59,7 @@ DZAI_lowBloodLevel = 5000;
 
 //Enable or disable zombie attraction to AI weapon sounds. No effect if DZAI_zombieEnemy is set to false. Enabling this option may impact server performance as a script is run for each AI bullet fired.
 //Note: AI cannot be attacked or damaged by zombies.(Default: false)		
-DZAI_weaponNoise = false;
+DZAI_weaponNoise = true;
 
 //If enabled, AI group will attempt to track down player responsible for killing a group member. Players with radios will be given text warnings if they are being pursued (Default: true)
 DZAI_findKiller = true;	
@@ -153,7 +153,7 @@ DZAI_freshSpawnSafeArea = false;
 --------------------------------------------------------------------------------------------------------------------*/		
 
 //Maximum number of placed random spawns on map
-DZAI_maxRandomSpawns = 10;
+DZAI_maxRandomSpawns = 6;
 
 //Time to wait before despawning all AI units in random spawn area when no players are present. (Default: 120)
 DZAI_randDespawnWait = 120;
@@ -176,8 +176,7 @@ DZAI_respawnTMaxA = 900;
 
 //Classnames of air vehicle types to use, with the maximum amount of each type to spawn.
 DZAI_heliList = [
-	["UH1H_DZ",2],
-	["Mi17_DZ",2]
+	["UH1H_DZ",4]
 ];
 
 //Difficulty level of air vehicle patrol units. Difficulty level also affects unit loadout and loot. Possible values: 0 to 3 (Default: 3)
@@ -210,10 +209,10 @@ DZAI_respawnTMaxL = 900;
 
 //Classnames of land vehicle types to use, with the maximum amount of each type to spawn.
 DZAI_vehList = [
-	["Offroad_DSHKM_Gue",1],
+	["LandRover_CZ_EP1",1],
 	["BTR40_MG_TK_GUE_EP1",1],
 	["UAZ_MG_TK_EP1",1],
-	["LandRover_MG_TK_EP1",2]
+	["GAZ_Vodnick_MedEvac",2]
 ];
 
 //Difficulty level of land vehicle patrol units. Difficulty level also affects unit loadout and loot. Possible values: 0 to 3 (Default: 3)
