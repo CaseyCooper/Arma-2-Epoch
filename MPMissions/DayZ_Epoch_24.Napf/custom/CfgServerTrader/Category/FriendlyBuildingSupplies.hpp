@@ -16,13 +16,13 @@ class Category_678 {
 	};
 	class CinderBlocks {
 		type = "trade_items";
-		buy[] = {1,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {5,"ItemSilverBar"};
+		sell[] = {5,"ItemSilverBar"};
 	};
 	class MortarBucket {
 		type = "trade_items";
-		buy[] = {1,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {5,"ItemSilverBar"};
+		sell[] = {5,"ItemSilverBar"};
 	};
 	class ItemLightBulb {
 		type = "trade_items";
@@ -123,6 +123,16 @@ class Category_678 {
 		type = "trade_items";
 		buy[] = {1,"ItemBriefcase100oz"};
 		sell[] = {1,"ItemBriefcase100oz"};
+	};
+	class ItemFuelBarrelEmpty {
+		type = "trade_items";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
+	};
+	class ItemFuelBarrel {
+		type = "trade_items";
+		buy[] = {2,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
 	};
 	class ItemMixOil {
 		type = "trade_items";

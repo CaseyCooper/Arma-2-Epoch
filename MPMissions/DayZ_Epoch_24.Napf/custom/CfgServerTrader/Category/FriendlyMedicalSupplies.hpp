@@ -52,7 +52,7 @@ class Category_541 {
 	};
 	class bloodBagOPOS {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
+		buy[] = {1,"ItemSilverBar"};
 		sell[] = {1,"ItemSilverBar"};
 	};
 	class bloodTester {
@@ -62,12 +62,12 @@ class Category_541 {
 	};
 	class transfusionKit {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
+		buy[] = {1,"ItemSilverBar"};
 		sell[] = {1,"ItemSilverBar"};
 	};
 	class emptyBloodBag {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar"};
+		buy[] = {1,"ItemSilverBar"};
 		sell[] = {1,"ItemSilverBar"};
 	};
 	class ItemEpinephrine {

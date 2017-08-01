@@ -26,8 +26,8 @@ class Category_630 {
 	};
 	class FoodrabbitCooked {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar10oz"};
-		sell[] = {1,"ItemGoldBar10oz"};
+		buy[] = {5,"ItemGoldBar"};
+		sell[] = {5,"ItemGoldBar"};
 	};
 	class FishCookedTrout { // most common
 		type = "trade_items";
@@ -36,8 +36,8 @@ class Category_630 {
 	};
 	class FishCookedSeaBass { // less common
 		type = "trade_items";
-		buy[] = {3,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {2,"ItemGoldBar10oz"};
+		sell[] = {1,"ItemGoldBar10oz"};
 	};
 	class FishCookedTuna { // rarest
 		type = "trade_items";
