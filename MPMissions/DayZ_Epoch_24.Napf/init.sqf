@@ -37,8 +37,8 @@ if (dayz_presets == "Custom") then {
 };
 
 //Temp settings
-dayz_DamageMultiplier = 2; //1 - 0 = Disabled, anything over 1 will multiply damage. Damage Multiplier for Zombies.
-dayz_maxGlobalZeds = 500; //Limit the total zeds server wide.
+dayz_DamageMultiplier = 1; //1 - 0 = Disabled, anything over 1 will multiply damage. Damage Multiplier for Zombies.
+dayz_maxGlobalZeds = 350; //Limit the total zeds server wide.
 dayz_temperature_override = false; // Set to true to disable all temperature changes.
 
 enableRadio false;

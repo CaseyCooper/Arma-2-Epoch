@@ -34,22 +34,22 @@ class Category_512 {
 		buy[] = {3,"ItemBriefcase100oz"};
 		sell[] = {2,"ItemBriefcase100oz"};
 	};	
-	class Mi24_D_TK_EP1 {
+	class Mi24_D {
 		type = "trade_any_vehicle";
 		buy[] = {10,"ItemBriefcase100oz"};
 		sell[] = {5,"ItemBriefcase100oz"};
 	};	
-	class AW159_Lynx_BAF {
+	class Mi24_P {
 		type = "trade_any_vehicle";
 		buy[] = {8,"ItemBriefcase100oz"};
 		sell[] = {4,"ItemBriefcase100oz"};
 	};	
-	class Ka137_MG_PMC {
+	class Mi24_V {
 		type = "trade_any_vehicle";
 		buy[] = {3,"ItemBriefcase100oz"};
 		sell[] = {2,"ItemBriefcase100oz"};
 	};	
-	class Mi171Sh_rockets_CZ_EP1 {
+	class AH64D {
 		type = "trade_any_vehicle";
 		buy[] = {15,"ItemBriefcase100oz"};
 		sell[] = {10,"ItemBriefcase100oz"};
