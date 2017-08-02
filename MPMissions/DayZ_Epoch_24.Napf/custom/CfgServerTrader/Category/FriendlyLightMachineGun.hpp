@@ -14,12 +14,17 @@ class Category_486 {
 		buy[] = {1,"ItemGoldBar10oz"};
 		sell[] = {6,"ItemGoldBar"};
 	};
-	class M249_m145_EP1_DZE {
+	class M249_EP1_DZ {
 		type = "trade_weapons";
-		buy[] = {2,"ItemGoldBar10oz"};
-		sell[] = {9,"ItemGoldBar"};
+		buy[] = {1,"ItemGoldBar10oz"};
+		sell[] = {6,"ItemGoldBar"};
 	};
 	class M240_DZ {
+		type = "trade_weapons";
+		buy[] = {1,"ItemGoldBar10oz"};
+		sell[] = {5,"ItemGoldBar"};
+	};
+	class M60A4_EP1_DZE {
 		type = "trade_weapons";
 		buy[] = {1,"ItemGoldBar10oz"};
 		sell[] = {5,"ItemGoldBar"};
@@ -49,10 +54,20 @@ class Category_486 {
 		buy[] = {1,"ItemGoldBar10oz"};
 		sell[] = {5,"ItemGoldBar"};
 	};
-	class Pecheneg_DZ {
+	class MG36 {
 		type = "trade_weapons";
-		buy[] = {2,"ItemGoldBar10oz"};
-		sell[] = {1,"ItemGoldBar10oz"};
+		buy[] = {8,"ItemGoldBar"};
+		sell[] = {4,"ItemGoldBar"};
+	};
+	class MG36_camo {
+		type = "trade_weapons";
+		buy[] = {8,"ItemGoldBar"};
+		sell[] = {4,"ItemGoldBar"};
+	};
+	class m8_SAW {
+		type = "trade_weapons";
+		buy[] = {8,"ItemGoldBar"};
+		sell[] = {4,"ItemGoldBar"};
 	};
 };
 

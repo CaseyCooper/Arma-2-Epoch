@@ -1,4 +1,14 @@
 class Category_519 {
+	class pook_H13_medevac_CDF {
+		type = "trade_any_vehicle";
+		buy[] = {4,"ItemGoldBar10oz"};
+		sell[] = {2,"ItemGoldBar10oz"};
+	};
+	class pook_H13_civ_white {
+		type = "trade_any_vehicle";
+		buy[] = {4,"ItemGoldBar10oz"};
+		sell[] = {2,"ItemGoldBar10oz"};
+	};
 	class CSJ_GyroC {
 		type = "trade_any_vehicle";
 		buy[] = {4,"ItemGoldBar"};
@@ -35,6 +45,11 @@ class Category_519 {
 		sell[] = {1,"ItemBriefcase100oz"};
 	};
 	class BAF_Merlin_DZE {
+		type = "trade_any_vehicle";
+		buy[] = {2,"ItemBriefcase100oz"};
+		sell[] = {1,"ItemBriefcase100oz"};
+	};
+	class CH53_DZE {
 		type = "trade_any_vehicle";
 		buy[] = {2,"ItemBriefcase100oz"};
 		sell[] = {1,"ItemBriefcase100oz"};

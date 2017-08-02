@@ -1,23 +1,33 @@
 class Category_601 {
 	class ItemWaterbottleUnfilled {
 		type = "trade_items";
-		buy[] = {3,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {4,"ItemSilverBar"};
+		sell[] = {1,"ItemSilverBar"};
+	};
+	class ItemWaterbottle {
+		type = "trade_items";
+		buy[] = {4,"ItemSilverBar"};
+		sell[] = {2,"ItemSilverBar"};
+	};
+	class ItemWaterbottleBoiled {
+		type = "trade_items";
+		buy[] = {8,"ItemSilverBar"};
+		sell[] = {3,"ItemSilverBar"};
 	};
 	class ItemSodaCoke {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {4,"ItemSilverBar"};
+		sell[] = {1,"ItemSilverBar"};
 	};
 	class ItemSodaPepsi {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {4,"ItemSilverBar"};
+		sell[] = {1,"ItemSilverBar"};
 	};
 	class ItemSodaMdew {
 		type = "trade_items";
 		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
 	};
 	class ItemSodaMtngreen {
 		type = "trade_items";
@@ -27,7 +37,7 @@ class Category_601 {
 	class ItemSodaR4z0r {
 		type = "trade_items";
 		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
 	};
 	class ItemSodaClays {
 		type = "trade_items";
@@ -51,8 +61,8 @@ class Category_601 {
 	};
 	class ItemSodaLemonade {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {4,"ItemSilverBar"};
+		sell[] = {1,"ItemSilverBar"};
 	};
 	class ItemSodaLirik {
 		type = "trade_items";
@@ -91,8 +101,8 @@ class Category_601 {
 	};
 	class ItemSodaGrapeDrink {
 		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
+		buy[] = {4,"ItemSilverBar"};
+		sell[] = {1,"ItemSilverBar"};
 	};
 	class ItemSherbet {
 		type = "trade_items";
@@ -102,12 +112,12 @@ class Category_601 {
 	class ItemSodaRbull {
 		type = "trade_items";
 		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
 	};
 	class ItemSodaOrangeSherbet {
 		type = "trade_items";
 		buy[] = {6,"ItemGoldBar"};
-		sell[] = {3,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
 	};
 };
 

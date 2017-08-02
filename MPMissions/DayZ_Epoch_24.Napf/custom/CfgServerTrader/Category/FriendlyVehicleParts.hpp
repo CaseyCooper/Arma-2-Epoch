@@ -49,6 +49,11 @@ class Category_677 {
 		buy[] = {2,"ItemSilverBar"};
 		sell[] = {1,"ItemSilverBar"};
 	};
+	class ItemFuelBarrel {
+		type = "trade_items";
+		buy[] = {2,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
+	};
 };
 
 class Category_682 {

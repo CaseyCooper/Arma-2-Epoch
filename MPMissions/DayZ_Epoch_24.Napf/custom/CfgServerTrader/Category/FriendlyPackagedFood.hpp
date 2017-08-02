@@ -174,6 +174,16 @@ class Category_629 {
 		buy[] = {2,"ItemSilverBar"};
 		sell[] = {1,"ItemSilverBar"};
 	};
+	class FoodPumpkin {
+		type = "trade_items";
+		buy[] = {2,"ItemSilverBar"};
+		sell[] = {1,"ItemSilverBar"};
+	};
+	class FoodSunFlowerSeed {
+		type = "trade_items";
+		buy[] = {2,"ItemSilverBar"};
+		sell[] = {1,"ItemSilverBar"};
+	};
 	class FoodMRE {
 		type = "trade_items";
 		buy[] = {1,"ItemSilverBar10oz"};

@@ -19,11 +19,6 @@ class Category_693 {
 		buy[] = {2,"ItemGoldBar"};
 		sell[] = {1,"ItemGoldBar"};
 	};
-	class Attachment_MFL_Pist {
-		type = "trade_items";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
-	};
 	class Attachment_FL {
 		type = "trade_items";
 		buy[] = {2,"ItemGoldBar"};
@@ -31,8 +26,8 @@ class Category_693 {
 	};
 	class Attachment_MFL {
 		type = "trade_items";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {2,"ItemGoldBar"};
+		sell[] = {1,"ItemGoldBar"};
 	};
 	class Attachment_CCO {
 		type = "trade_items";
