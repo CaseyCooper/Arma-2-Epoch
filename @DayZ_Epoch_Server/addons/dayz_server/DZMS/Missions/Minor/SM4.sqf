@@ -16,17 +16,13 @@ _coords = call DZMSFindPos;
 [_coords,_missName] ExecVM DZMSAddMinMarker;
 
 //Add the scenery
-if (DZMSEpoch) then {
-	_crash = createVehicle ["UH60_NAVY_Wreck_burned_DZ", _coords,[], 0, "CAN_COLLIDE"];
-} else {
-	_crash = createVehicle ["CrashSite_US", _coords,[], 0, "CAN_COLLIDE"];
-};
+_crash = createVehicle ["UH60_ARMY_Wreck_burned_DZ", _coords,[], 0, "CAN_COLLIDE"];
 
 //DZMSProtectObj prevents it from disappearing
 [_crash] call DZMSProtectObj;
 
 //We create and fill the crates
-_crate = createVehicle [if (DZMSEpoch) then {"USLaunchersBox"} else {"AmmoBoxBig"},[(_coords select 0) - 6, _coords select 1,0],[], 0, "CAN_COLLIDE"];
+_crate = createVehicle ["USLaunchersBox",[(_coords select 0) - 6, _coords select 1,0],[], 0, "CAN_COLLIDE"];
 [_crate,"weapons"] ExecVM DZMSBoxSetup;
 [_crate] call DZMSProtectObj;
 

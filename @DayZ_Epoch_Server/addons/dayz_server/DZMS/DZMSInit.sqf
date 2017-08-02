@@ -25,7 +25,7 @@ if ( (isnil("DZAI_isActive")) && (isnil("SAR_version")) && (isnil("WAIconfigload
 
 	// They weren't found, so let's set relationships
 	diag_log text format ["[DZMS]: Relations not found! Using DZMS Relations."];
-
+	
 	// Create the groups if they aren't created already
 	createCenter east;
 	// Make AI Hostile to Survivors
@@ -34,7 +34,7 @@ if ( (isnil("DZAI_isActive")) && (isnil("SAR_version")) && (isnil("WAIconfigload
 	// Make AI Hostile to Zeds
 	EAST setFriend [CIVILIAN,0];
 	CIVILIAN setFriend [EAST,0];
-
+	
 } else {
 
 	// Let's inform the user which relations we are using
@@ -58,21 +58,21 @@ if ( (isnil("DZAI_isActive")) && (isnil("SAR_version")) && (isnil("WAIconfigload
 		diag_log text format ["[DZMS]: If Issues Arise, Decide on a Single AI System! (DayZAI, SargeAI, or WickedAI)"];
 	};
 	DZMSRelations = nil; //Destroy the Global Var
-
+	
 };
 
 // Let's Load the Mission Configuration
 call compile preprocessFileLineNumbers "\z\addons\dayz_server\DZMS\DZMSConfig.sqf";
 
 // These are Extended configuration files the user can adjust if wanted
-call compile preprocessFileLineNumbers "\z\addons\dayz_server\DZMS\ExtConfig\DZMSWeaponCrateList.sqf";
+call compile preprocessFileLineNumbers "\z\addons\dayz_server\DZMS\ExtConfig\DZMSCrateConfig.sqf";
 call compile preprocessFileLineNumbers "\z\addons\dayz_server\DZMS\ExtConfig\DZMSAIConfig.sqf";
 
 // Report the version
 diag_log text format ["[DZMS]: Currently Running Version: %1", DZMSVersion];
 
 // Lets check for a copy-pasted config file
-if (DZMSVersion != "1.2") then {
+if (DZMSVersion != "1.1FIN") then {
 	diag_log text format ["[DZMS]: Outdated Configuration Detected! Please Update DZMS!"];
 	diag_log text format ["[DZMS]: Old Versions are not supported by the Mod Author!"];
 };
@@ -95,12 +95,8 @@ if (DZMSEpoch) then {
 call compile preprocessFileLineNumbers "\z\addons\dayz_server\DZMS\DZMSFunctions.sqf";
 
 // these arrays are used to hold units for each mission type
-DZMSUnitsMinor	= [];
-DZMSUnitsMajor	= [];
-DZMSStaticMinor = [];
-DZMSStaticMajor = [];
-DZMSStaticSpawn	= [];
-DZMS50CalSpawn = [];
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
 
 // Let's get the clocks running!
 [] ExecVM DZMSMajTimer;
@@ -110,19 +106,3 @@ DZMSMinDone = false;
 
 // Let's get the Marker Re-setter running for JIPs to stay updated
 [] ExecVM DZMSMarkerLoop;
-
-// Get the static AI spawned (if applicable)
-if (DZMSStaticAI) then {
-	[] spawn {
-		while {true} do {
-			{
-				if !((_x select 0 == 0) && (_x select 1 == 0)) then {
-					[_x,DZMSStaticAICnt,2,"DZMSStaticSpawn",true] call DZMSAISpawn;
-				};
-				sleep 2;
-			} forEach DZMSStaticSpawn;
-
-			sleep DZMSStaticAITime;
-		};
-	};
-};

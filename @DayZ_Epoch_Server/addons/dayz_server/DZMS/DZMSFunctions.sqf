@@ -129,14 +129,12 @@ DZMSFindPos = {
 //Clears the cargo and sets fuel, direction, and orientation
 //Direction stops the awkwardness of every vehicle bearing 0
 DZMSSetupVehicle = {
-	private ["_object","_objectID","_ranFuel","_is50Cal"];
+	private ["_object","_objectID","_ranFuel"];
 	_object = _this select 0;
 
 	_objectID = str(round(random 999999));
 	_object setVariable ["ObjectID", _objectID, true];
 	_object setVariable ["ObjectUID", _objectID, true];	
-	
-	if (typeOf _object == "M2StaticMG") then {_is50Cal = true;}else{_is50Cal = false;};
 	
 	dayz_serverObjectMonitor set [count dayz_serverObjectMonitor, _object];
 	
@@ -147,17 +145,15 @@ DZMSSetupVehicle = {
 	
 	_ranFuel = random 1;
 	if (_ranFuel < .1) then {_ranFuel = .1;};
-	if (!_is50Cal) then {
-		_object setFuel _ranFuel;
-		_object setvelocity [0,0,1];
-		_object setDir (round(random 360));
-		
-		//If saving vehicles to the database is disabled, lets warn players it will disappear
-		if (!(DZMSSaveVehicles)) then {
-			_object addEventHandler ["GetIn",{
-				_nil = [nil,(_this select 2),"loc",rTITLETEXT,"Warning: This vehicle will disappear on server restart!","PLAIN DOWN",5] call RE;
-			}];
-		};
+	_object setFuel _ranFuel;
+	_object setvelocity [0,0,1];
+	_object setDir (round(random 360));
+	
+	//If saving vehicles to the database is disabled, lets warn players it will disappear
+	if (!(DZMSSaveVehicles)) then {
+		_object addEventHandler ["GetIn",{
+			_nil = [nil,(_this select 2),"loc",rTITLETEXT,"Warning: This vehicle will disappear on server restart!","PLAIN DOWN",5] call RE;
+		}];
 	};
 
 	true
@@ -179,7 +175,7 @@ DZMSProtectObj = {
 
 	dayz_serverObjectMonitor set [count dayz_serverObjectMonitor, _object];
 	
-    if (!((typeOf _object) in ["USVehicleBox","USLaunchersBox","DZ_AmmoBoxUS","DZ_AmmoBoxRU","DZ_MedBox","USBasicWeaponsBox","USBasicAmmunitionBox","RULaunchersBox","AmmoBoxBig"]) || DZMSSceneryDespawnLoot) then {
+    if (!((typeOf _object) in ["USVehicleBox","USLaunchersBox","DZ_AmmoBoxUS","DZ_AmmoBoxRU","DZ_MedBox","USBasicWeaponsBox","USBasicAmmunitionBox","RULaunchersBox"]) || DZMSSceneryDespawnLoot) then {
         _object setVariable["DZMSCleanup",true];
     };
 	true
@@ -194,10 +190,10 @@ DZMSGetWeapon = {
 	//diag_log text format ["[DZMS]: AI Skill Func:%1",_skill];
 	
 	switch (_skill) do {
-		case 0: {_aiweapon = DZMSWeps0;};
-		case 1: {_aiweapon = DZMSWeps1;};
-		case 2: {_aiweapon = DZMSWeps2;};
-		case 3: {_aiweapon = DZMSWeps3;};
+		case 0: {_aiweapon = DZMSWeps;};
+		case 1: {_aiweapon = DZMSWeps;};
+		case 2: {_aiweapon = DZMSWeps;};
+		case 3: {_aiweapon = DZMSWeps;};
 	};
 	_weapon = _aiweapon call BIS_fnc_selectRandom;
 	_magazine = getArray (configFile >> "CfgWeapons" >> _weapon >> "magazines") select 0;
