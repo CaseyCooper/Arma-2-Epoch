@@ -21,7 +21,7 @@ while {_run} do
 		deleteMarker "DZMSMajDot";
 		//Re-Add the markers
 		_nul = createMarker ["DZMSMajMarker", DZMSMajCoords];
-		"DZMSMajMarker" setMarkerColor "ColorBlue";
+		"DZMSMajMarker" setMarkerColor "ColorRed";
 		"DZMSMajMarker" setMarkerShape "ELLIPSE";
 		"DZMSMajMarker" setMarkerBrush "Grid";
 		"DZMSMajMarker" setMarkerSize [175,175];
@@ -36,7 +36,7 @@ while {_run} do
 		deleteMarker "DZMSMinDot";
 		//Re-Add the markers
 		_nil = createMarker ["DZMSMinMarker", DZMSMinCoords];
-		"DZMSMinMarker" setMarkerColor "ColorOrange";
+		"DZMSMinMarker" setMarkerColor "ColorRed";
 		"DZMSMinMarker" setMarkerShape "ELLIPSE";
 		"DZMSMinMarker" setMarkerBrush "Grid";
 		"DZMSMinMarker" setMarkerSize [150,150];

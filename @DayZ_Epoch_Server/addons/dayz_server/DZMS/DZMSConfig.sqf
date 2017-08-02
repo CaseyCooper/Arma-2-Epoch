@@ -4,14 +4,11 @@
 */
 
 ///////////////////////////////////////////////////////////////////////
-//If you have ZSC installed then you can set this to true to place money in ai wallets.
-DZMSAICheckWallet = false;
-
 // Do you want your players to gain humanity from killing mission AI?
 DZMSMissHumanity = true;
 
 // How Much Humanity?
-DZMSCntHumanity = 25;
+DZMSCntHumanity = 15;
 
 // Do You Want AI to use NVGs?
 //(They are deleted on death)
@@ -19,7 +16,7 @@ DZMSUseNVG = true;
 
 // Do you want AI to use RPG7V's?
 //(Only one unit per group spawn will have one)
-DZMSUseRPG = false;
+DZMSUseRPG = true;
 
 // Do you want AI kills to count as bandit kills?
 DZMSCntBanditKls = true;
@@ -32,11 +29,11 @@ DZMSCleanDeath = false;
 DZMSRunGear = false;
 
 // How long before bodies disappear? (in seconds) (default = 2400)
-DZMSBodyTime = 2400;
+DZMSBodyTime = 3600;
 
 // Percentage of AI that must be dead before mission completes (default = 0)
 //( 0 is 0% of AI / 0.50 is 50% / 1 is 100% )
-DZMSRequiredKillPercent = 0;
+DZMSRequiredKillPercent = 0.75;
 
 // How long in seconds before mission scenery disappears (default = 1800 / 0 = disabled)
 DZMSSceneryDespawnTimer = 1800;
@@ -56,8 +53,26 @@ DZMSStaticPlc = false;
 
 // Array of static locations. X,Y,Z
 DZMSStatLocs = [
-[0,0,0],
-[0,0,0]
+	[0,0,0],
+	[0,0,0]
+];
+
+//////////////////////////////////////////////////////////////////////////////////////////
+// Do you want to place some static AI in a base or similar?
+// Leave this false unless you know what you are doing.
+DZMSStaticAI = false;
+
+// How long before they respawn? (in seconds) (default 2 hours)
+// If set longer than the amount of time before a server restart, they respawn at restart
+DZMSStaticAITime = 7200;
+
+// How many AI in a group? (Past 6 in a group it's better to just add more positions)
+DZMSStaticAICnt = 4;
+
+// Array of Static AI Locations
+DZMSStaticSpawn = [
+	[0,0,0],
+	[0,0,0]
 ];
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -70,14 +85,14 @@ DZMSSaveVehicles = false;
 // These are arrays of vehicle classnames for the missions.
 // Adjust to your liking.
 
-//Helicopters
-DZMSChoppers = ["UH1H_DZE","Mi17_DZE","UH60M_MEV_EP1_DZ","BAF_Merlin_DZE","UH60M_EP1_DZE"];
+//Armed Choppers (Huey)
+DZMSChoppers = ["UH1H_DZ","Mi17_DZ"];
 
-//Small Vehicles
-DZMSSmallVic = ["hilux1_civil_3_open_DZE","SUV_TK_CIV_EP1","HMMWV_DZ","UAZ_Unarmed_UN_EP1","HMMWV_Ambulance_CZ_DES_EP1","LandRover_TK_CIV_EP1","SUV_Camo"];
+//Small Vehicles (Humvees)
+DZMSSmallVic = ["hilux1_civil_3_open_EP1","SUV_TK_CIV_EP1","HMMWV_DZ","UAZ_Unarmed_UN_EP1"];
 
-//Large Vehicles
-DZMSLargeVic = ["Ural_TK_CIV_EP1","Ural_CDF","Ural_UN_EP1","UralCivil_DZE","UralCivil2_DZE","MTVR_DES_EP1","MTVR","Kamaz_DZE","KamazOpen_DZE"];
+//Large Vehicles (Urals)
+DZMSLargeVic = ["Ural_TK_CIV_EP1","Ural_INS"];
 
 /*///////////////////////////////////////////////////////////////////////////////////////////
 There are two types of missions that run simultaneously on a the server.
@@ -89,8 +104,8 @@ Minor missions have less AI than Major missions, but have crates that reflect th
 Below is the array of mission file names and the minimum and maximum times they run.
 Do not edit the Arrays unless you know what you are doing.
 */
-DZMSMajorArray = ["EM1","SM1","SM2","SM3","SM4","SM5","SM6","SM7","SM9","SM10","SM11","SM12","SM13"];
-DZMSMinorArray = ["SM1","SM2","SM3","SM4","SM5","SM6","SM9"];
+DZMSMajorArray = ["SM1","SM2","SM3","SM4","SM5","SM6"];
+DZMSMinorArray = ["SM1","SM2","SM3","SM4","SM5","SM6"];
 
 /////////////////////////////////////////////////////////////////////////////////////////////
 // The Minumum time in seconds before a major mission will run.
@@ -119,4 +134,4 @@ DZMSBlacklistZones = [
 /*=============================================================================================*/
 // Do Not Edit Below This Line
 /*=============================================================================================*/
-DZMSVersion = "1.1FIN";
+DZMSVersion = "1.2";
