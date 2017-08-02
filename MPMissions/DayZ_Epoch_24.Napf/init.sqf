@@ -175,3 +175,4 @@ if (!isDedicated) then {
 	3 fadeMusic 1;
 	endLoadingScreen;
 };
+[] execvm 'AGN\agn_SafeZoneCommander.sqf';
