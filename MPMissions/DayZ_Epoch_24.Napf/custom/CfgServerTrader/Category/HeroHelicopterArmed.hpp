@@ -34,4 +34,14 @@ class Category_493 {
 		buy[] = {2,"ItemBriefcase100oz"};
 		sell[] = {1,"ItemBriefcase100oz"};
 	};
+	class pook_H13_gunship {
+		type = "trade_any_vehicle";
+		buy[] = {2,"ItemGoldBar10oz"};
+		sell[] = {1,"ItemGoldBar10oz"};
+	};
+	class pook_H13_transport {
+		type = "trade_any_vehicle";
+		buy[] = {2,"ItemGoldBar10oz"};
+		sell[] = {1,"ItemGoldBar10oz"};
+	};
 };

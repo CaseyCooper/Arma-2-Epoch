@@ -20,7 +20,7 @@ menu_US_Delta_Force_AR_EP1 = [
 ];
 // Friendly Vehicles
 menu_GUE_Commander = [
-	[["Bikes and ATV",608],["Buses and Vans",563],["Cargo Trucks",564],["Fuel Trucks",492],["Military Unarmed",491],["Trucks",495],["Used Cars",585],["Utility Vehicles",565]],
+	[["Bikes and ATV",608],["Buses and Vans",563],["Cargo Trucks",564],["Specialty Trucks",492],["Military Unarmed",491],["Trucks",495],["Used Cars",585],["Utility Vehicles",565]],
 	[],
 	"friendly"
 ];
