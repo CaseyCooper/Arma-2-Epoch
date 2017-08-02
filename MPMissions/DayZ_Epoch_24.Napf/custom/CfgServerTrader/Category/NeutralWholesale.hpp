@@ -51,13 +51,33 @@ class Category_675 {
 	};
 	class CinderBlocks {
 		type = "trade_items";
-		buy[] = {1,"ItemGoldBar10oz"};
-		sell[] = {5,"ItemGoldBar"};
+		buy[] = {5,"ItemSilverBar"};
+		sell[] = {5,"ItemSilverBar"};
 	};
 	class MortarBucket {
 		type = "trade_items";
-		buy[] = {1,"ItemGoldBar10oz"};
-		sell[] = {5,"ItemGoldBar"};
+		buy[] = {5,"ItemSilverBar"};
+		sell[] = {5,"ItemSilverBar"};
+	};
+	class half_cinder_wall_kit {
+		type = "trade_items";
+		buy[] = {3,"ItemSilverBar10oz"};
+		sell[] = {3,"ItemSilverBar10oz"};
+	};
+	class cinder_door_kit {
+		type = "trade_items";
+		buy[] = {3,"ItemGoldBar10oz"};
+		sell[] = {3,"ItemGoldBar10oz"};
+	};
+	class cinder_garage_kit {
+		type = "trade_items";
+		buy[] = {3,"ItemGoldBar10oz"};
+		sell[] = {3,"ItemGoldBar10oz"};
+	};
+	class metal_panel_kit {
+		type = "trade_items";
+		buy[] = {3,"ItemGoldBar10oz"};
+		sell[] = {3,"ItemGoldBar10oz"};
 	};
 	class ItemFuelBarrelEmpty {
 		type = "trade_items";

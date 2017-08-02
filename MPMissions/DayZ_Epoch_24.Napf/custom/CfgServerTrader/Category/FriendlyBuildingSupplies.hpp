@@ -1,14 +1,5 @@
 class Category_678 {
-	class CinderBlocks {
-		type = "trade_items";
-		buy[] = {4,"ItemSilverBar10oz"};
-		sell[] = {1,"ItemSilverBar10oz"};
-	};
-	class MortarBucket {
-		type = "trade_items";
-		buy[] = {4,"ItemSilverBar10oz"};
-		sell[] = {1,"ItemSilverBar10oz"};
-	};
+
 	class ItemDesertTent {
 		type = "trade_items";
 		buy[] = {6,"ItemSilverBar10oz"};
@@ -23,6 +14,17 @@ class Category_678 {
 		type = "trade_items";
 		buy[] = {4,"ItemSilverBar10oz"};
 		sell[] = {2,"ItemSilverBar10oz"};
+	};
+//Building Materials 	
+	class CinderBlocks {
+		type = "trade_items";
+		buy[] = {5,"ItemSilverBar"};
+		sell[] = {5,"ItemSilverBar"};
+	};
+	class MortarBucket {
+		type = "trade_items";
+		buy[] = {5,"ItemSilverBar"};
+		sell[] = {5,"ItemSilverBar"};
 	};
 	class ItemLightBulb {
 		type = "trade_items";
@@ -86,23 +88,23 @@ class Category_678 {
 	};
 	class ItemWire {
 		type = "trade_items";
-		buy[] = {6,"ItemSilverBar"};
-		sell[] = {3,"ItemSilverBar"};
+		buy[] = {4,"ItemSilverBar"};
+		sell[] = {2,"ItemSilverBar"};
 	};
 	class ItemSandbag {
 		type = "trade_items";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {2,"ItemGoldBar"};
+		buy[] = {4,"ItemSilverBar"};
+		sell[] = {2,"ItemSilverBar"};
 	};
 	class ItemTankTrap {
 		type = "trade_items";
-		buy[] = {2,"ItemSilverBar10oz"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		buy[] = {4,"ItemSilverBar"};
+		sell[] = {2,"ItemSilverBar"};
 	};
 	class ItemPole {
 		type = "trade_items";
-		buy[] = {1,"ItemSilverBar10oz"};
-		sell[] = {5,"ItemSilverBar"};
+		buy[] = {4,"ItemSilverBar"};
+		sell[] = {2,"ItemSilverBar"};
 	};
 	class ItemCorrugated {
 		type = "trade_items";
@@ -111,8 +113,8 @@ class Category_678 {
 	};
 	class plot_pole_kit {
 		type = "trade_items";
-		buy[] = {6,"ItemGoldBar10oz"};
-		sell[] = {6,"ItemGoldBar10oz"};
+		buy[] = {5,"ItemGoldBar10oz"};
+		sell[] = {5,"ItemGoldBar10oz"};
 	};
 	class ItemComboLock {
 		type = "trade_items";
@@ -121,8 +123,13 @@ class Category_678 {
 	};
 	class ItemVault {
 		type = "trade_items";
-		buy[] = {1,"ItemBriefcase100oz"};
-		sell[] = {1,"ItemBriefcase100oz"};
+		buy[] = {8,"ItemGoldBar10oz"};
+		sell[] = {5,"ItemGoldBar10oz"};
+	};
+	class ItemFuelBarrelEmpty {
+		type = "trade_items";
+		buy[] = {1,"ItemGoldBar"};
+		sell[] = {5,"ItemSilverBar10oz"};
 	};
 	class ItemMixOil {
 		type = "trade_items";
