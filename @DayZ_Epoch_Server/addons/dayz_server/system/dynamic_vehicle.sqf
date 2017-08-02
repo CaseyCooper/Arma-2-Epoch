@@ -65,8 +65,8 @@ AllowedVehiclesList = [
 	["S1203_ambulance_EP1",_Ratio3],
 	["S1203_TK_CIV_EP1",_Ratio3],
 	["Skoda",_Ratio3],
-	["SkodaBlue",_Ratio3],
-	["SkodaGreen",_Ratio3],
+	["SkodaBlue",_Ratio1],
+	["SkodaGreen",_Ratio1],
 	["SkodaRed",_Ratio3],
 	["SUV_Blue",_Ratio1],
 	["SUV_Camo",_Ratio1],
@@ -110,15 +110,11 @@ if (toLower worldName in ["caribou","chernarus","cmr_ovaron","dayznogova","dingo
 	// water map, add boats
 	
 	AllowedVehiclesList = AllowedVehiclesList + [
-		["Fishing_Boat",_Ratio3],
-		["JetSkiYanahui_Case_Blue",_Ratio1],
-		["JetSkiYanahui_Case_Green",_Ratio1],
-		["JetSkiYanahui_Case_Red",_Ratio1],
-		["JetSkiYanahui_Case_Yellow",_Ratio1],
-		["PBX",_Ratio3],
-		["RHIB",_Ratio3],
-		["Smallboat_1",_Ratio3],
-		["Smallboat_2",_Ratio3],
-		["Zodiac",_Ratio3]
+		["Fishing_Boat",_Ratio1],
+		["PBX",_Ratio1],
+		["RHIB",_Ratio1],
+		["Smallboat_1",_Ratio1],
+		["Smallboat_2",_Ratio1],
+		["Zodiac",_Ratio1]
 	];
 };
