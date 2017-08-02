@@ -14,7 +14,7 @@ _coords = call DZMSFindPos;
 [nil,nil,rTitleText,"Bandits have Opened a Medical Camp!\nStop Them from Re-Supplying the Region!", "PLAIN",10] call RE;
 
 //DZMSAddMajMarker is a simple script that adds a marker to the location
-[_coords,_missname] ExecVM DZMSAddMajMarker;
+[_coords,_missName] ExecVM DZMSAddMajMarker;
 
 //Create the scenery
 _base1 = createVehicle ["Land_fort_artillery_nest",[(_coords select 0) - 5.939,(_coords select 1) + 10.0459,0],[], 0, "CAN_COLLIDE"];
@@ -41,12 +41,12 @@ _base4 setDir 59.42643;
 _base4 setVehicleLock "LOCKED";
 _base4 setPos [(_coords select 0) - 11.4253, (_coords select 1) - 7.628,0];
 
-_base5 = createVehicle ["DZ_MedBox",[(_coords select 0) - 7.1519, (_coords select 1) + 1.8144,0],[], 0, "CAN_COLLIDE"];
+/*_base5 = createVehicle ["DZ_MedBox",[(_coords select 0) - 7.1519, (_coords select 1) + 1.8144,0],[], 0, "CAN_COLLIDE"];
 _base5 setDir -29.851013;
 [_base5] call DZMSProtectObj;
 
 _base6 = createVehicle ["DZ_MedBox",[(_coords select 0) - 7.4116, (_coords select 1) + 2.5244,0],[], 0, "CAN_COLLIDE"];
-[_base6] call DZMSProtectObj;
+[_base6] call DZMSProtectObj;*/
 
 _base7 = createVehicle ["WeaponHolder_ItemToolbox",[(_coords select 0) - 7.7041, (_coords select 1) + 3.332,0],[], 0, "CAN_COLLIDE"];
 _base7 setDir -106.46461;
@@ -97,7 +97,7 @@ _vehicle = createVehicle [_veh1,[(_coords select 0) - 17.5078, (_coords select 1
 [_vehicle] call DZMSSetupVehicle;
 
 //Create the loot
-_crate = createVehicle [if (DZMSEpoch) then {"USLaunchersBox"} else {"AmmoBoxBig"},[(_coords select 0) - 6.8277, (_coords select 1) + 5.6748,0],[], 0, "CAN_COLLIDE"];
+_crate = createVehicle ["USLaunchersBox",[(_coords select 0) - 6.8277, (_coords select 1) + 5.6748,0],[], 0, "CAN_COLLIDE"];
 [_crate,"medical"] ExecVM DZMSBoxSetup;
 [_crate] call DZMSProtectObj;
 

@@ -19,4 +19,17 @@ DZMSprimaryList = ["AKM_DZ","AK74_DZ","AK74_Kobra_DZ","AKS74U_DZ","L85_Holo_DZ",
 // Epoch Supplies. If you have Epoch, these are the supplies in the Construction Crates
 DZMSConTools = ["ItemToolbox","ItemCrowbar","ItemKnife","ItemEtool","ItemHatchet","ItemMatchbox"];
 
-DZMSConSupply = ["CinderBlocks","MortarBucket","ItemTankTrap","ItemPole","PartGeneric","PartPlywoodPack","PartPlankPack","ItemTent","ItemDesertTent","ItemDomeTent","ItemSandbag","ItemWire","workbench_kit","ItemGenerator"];
+//Construction Supplies
+DZMSConSupply = ["CinderBlocks","MortarBucket","ItemPole","PartPlywoodPack","PartPlankPack","ItemSandbag","ItemWire"];
+
+//Prefab Buildables
+DZMSBuildables = ["half_cinder_wall_kit","cinder_door_kit","cinder_garage_kit","metal_floor_kit","ItemWoodFloor","ItemWoodStairs","ItemWoodLadder","ItemWoodWall","ItemWoodWallWithDoor","ItemWoodWallGarageDoor","ItemFireBarrel_kit","wood_ramp_kit"];
+
+//Medical Supplies
+DZMSMedicalSupplies = ["ItemBandage","ItemMorphine","ItemEpinephrine","ItemPainkiller","ItemWaterbottle","FoodMRE","ItemAntibiotic","ItemAntibacterialWipe","ItemBloodbag"];
+
+//Backpacks
+DZMSBackPackList = ["DZ_Patrol_Pack_EP1","DZ_Assault_Pack_EP1","DZ_Czech_Vest_Pouch","DZ_ALICE_Pack_EP1","DZ_TK_Assault_Pack_EP1","DZ_British_ACU","DZ_CivilBackpack_EP1","DZ_Backpack_EP1"];
+
+//High Value Items
+DZMSHighValue = ["ItemBriefcase100oz","ItemVault"];

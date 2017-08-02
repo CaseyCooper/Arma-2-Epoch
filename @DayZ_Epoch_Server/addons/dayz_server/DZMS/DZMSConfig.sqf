@@ -85,14 +85,14 @@ DZMSSaveVehicles = false;
 // These are arrays of vehicle classnames for the missions.
 // Adjust to your liking.
 
-//Armed Choppers (Huey)
-DZMSChoppers = ["UH1H_DZ","Mi17_DZ"];
+//Helicopters
+DZMSChoppers = ["UH1H_DZE","Mi17_DZE","UH60M_MEV_EP1_DZ","BAF_Merlin_DZE","UH60M_EP1_DZE"];
 
-//Small Vehicles (Humvees)
-DZMSSmallVic = ["hilux1_civil_3_open_EP1","SUV_TK_CIV_EP1","HMMWV_DZ","UAZ_Unarmed_UN_EP1"];
+//Small Vehicles
+DZMSSmallVic = ["hilux1_civil_3_open_DZE","SUV_TK_CIV_EP1","HMMWV_DZ","UAZ_Unarmed_UN_EP1","HMMWV_Ambulance_CZ_DES_EP1","LandRover_TK_CIV_EP1","SUV_Camo"];
 
-//Large Vehicles (Urals)
-DZMSLargeVic = ["Ural_TK_CIV_EP1","Ural_INS"];
+//Large Vehicles
+DZMSLargeVic = ["Ural_TK_CIV_EP1","Ural_CDF","Ural_UN_EP1","UralCivil_DZE","UralCivil2_DZE","MTVR_DES_EP1","MTVR","Kamaz_DZE","KamazOpen_DZE"];
 
 /*///////////////////////////////////////////////////////////////////////////////////////////
 There are two types of missions that run simultaneously on a the server.
@@ -104,8 +104,8 @@ Minor missions have less AI than Major missions, but have crates that reflect th
 Below is the array of mission file names and the minimum and maximum times they run.
 Do not edit the Arrays unless you know what you are doing.
 */
-DZMSMajorArray = ["SM1","SM2","SM3","SM4","SM5","SM6"];
-DZMSMinorArray = ["SM1","SM2","SM3","SM4","SM5","SM6"];
+DZMSMajorArray = ["EM1","SM1","SM2","SM3","SM4","SM5","SM6","SM7","SM9","SM10","SM11","SM12","SM13"];
+DZMSMinorArray = ["SM1","SM2","SM3","SM4","SM5","SM6","SM9"];
 
 /////////////////////////////////////////////////////////////////////////////////////////////
 // The Minumum time in seconds before a major mission will run.
@@ -114,11 +114,11 @@ DZMSMajorMin = 650;
 
 // Maximum time in seconds before a major mission will run.
 // A major mission will always run before this much time has passed. Default = 2000 (33.33 Minutes)
-DZMSMajorMax = 2000;
+DZMSMajorMax = 120;
 
 // Time in seconds before a minor mission will run.
 // At least this much time will pass between minor missions. Default = 600 (10 Minutes)
-DZMSMinorMin = 600;
+DZMSMinorMin = 120;
 
 // Maximum time in seconds before a minor mission will run.
 // A minor mission will always run before this much time has passed. Default = 990 (16.5 Minutes)
