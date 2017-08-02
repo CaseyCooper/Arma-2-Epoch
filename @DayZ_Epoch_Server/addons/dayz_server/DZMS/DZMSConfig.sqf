@@ -86,13 +86,13 @@ DZMSSaveVehicles = false;
 // Adjust to your liking.
 
 //Helicopters
-DZMSChoppers = ["UH1H_DZE","Mi17_DZE","UH60M_MEV_EP1_DZ","BAF_Merlin_DZE","UH60M_EP1_DZE"];
+DZMSChoppers = ["UH1H_DZE","Mi17_DZE","UH60M_MEV_EP1_DZ","BAF_Merlin_DZE","UH60M_EP1_DZE","AH1Z","Ka52","AH64D_EP1","Ka137_MG_PMC","UH1Y_DZ","MV22"];
 
 //Small Vehicles
-DZMSSmallVic = ["hilux1_civil_3_open_DZE","SUV_TK_CIV_EP1","HMMWV_DZ","UAZ_Unarmed_UN_EP1","HMMWV_Ambulance_CZ_DES_EP1","LandRover_TK_CIV_EP1","SUV_Camo"];
+DZMSSmallVic = ["HMMWV_M998A2_SOV_DES_EP1_DZ","HMMWV_M1151_M2_CZ_DES_EP1_DZ","LandRover_MG_TK_EP1_DZ","BTR90_HQ","BTR90","UAZ_AGS30_CDF","GAZ_Vodnik_DZ","HMMWV_DZ","SUV_Camo"];
 
 //Large Vehicles
-DZMSLargeVic = ["Ural_TK_CIV_EP1","Ural_CDF","Ural_UN_EP1","UralCivil_DZE","UralCivil2_DZE","MTVR_DES_EP1","MTVR","Kamaz_DZE","KamazOpen_DZE"];
+DZMSLargeVic = ["Ural_TK_CIV_EP1","Ural_CDF","Ural_UN_EP1","UralCivil_DZE","UralCivil2_DZE","MTVR_DES_EP1","MTVR","Kamaz_DZE","KamazOpen_DZE","MtvrReammo_DES_EP1","MtvrRepair_DES_EP1","MtvrSupply_DES_EP1"];
 
 /*///////////////////////////////////////////////////////////////////////////////////////////
 There are two types of missions that run simultaneously on a the server.
@@ -114,11 +114,11 @@ DZMSMajorMin = 650;
 
 // Maximum time in seconds before a major mission will run.
 // A major mission will always run before this much time has passed. Default = 2000 (33.33 Minutes)
-DZMSMajorMax = 120;
+DZMSMajorMax = 900;
 
 // Time in seconds before a minor mission will run.
 // At least this much time will pass between minor missions. Default = 600 (10 Minutes)
-DZMSMinorMin = 120;
+DZMSMinorMin = 600;
 
 // Maximum time in seconds before a minor mission will run.
 // A minor mission will always run before this much time has passed. Default = 990 (16.5 Minutes)
@@ -128,7 +128,10 @@ DZMSMinorMax = 990;
 // format: [[x,y,z],radius]
 // Ex: [[06325,07807,0],300] //Starry Sobor
 DZMSBlacklistZones = [
-	[[0,0,0],50]
+	[[8246.3184,15485.867],75] //Lenzburg
+	[[15506.952,13229.368],75] //Emmen
+	[[12399.751,5074.5273],75] //Schratten
+	[[5149.9814,4864.1191],75] //Hero
 ];
 
 /*=============================================================================================*/

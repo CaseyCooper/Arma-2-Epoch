@@ -214,6 +214,16 @@ class Category_485 {
 		buy[] = {8,"ItemGoldBar"};
 		sell[] = {2,"ItemGoldBar"};
 	};
+	class Bizon_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {8,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
+	};
+	class M249_DZ {
+		type = "trade_weapons";
+		buy[] = {8,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
+	};
 };
 class Category_615 {
 	duplicate = 485;

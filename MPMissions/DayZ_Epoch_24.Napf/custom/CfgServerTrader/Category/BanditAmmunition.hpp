@@ -79,4 +79,15 @@ class Category_577 {
 		buy[] = {8,"ItemGoldBar10oz"};
 		sell[] = {2,"ItemGoldBar10oz"};
 	};
+	//Vehicle Ammo 
+		class 50Rnd_127x107_DSHKM {
+		type = "trade_items";
+		buy[] = {8,"ItemGoldBar10oz"};
+		sell[] = {5,"ItemGoldBar10oz"};
+	};
+		class 48Rnd_40mm_MK19 {
+		type = "trade_items";
+		buy[] = {8,"ItemGoldBar10oz"};
+		sell[] = {5,"ItemGoldBar10oz"};
+	};
 };
