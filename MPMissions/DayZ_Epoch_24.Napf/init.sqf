@@ -177,8 +177,4 @@ if (!isDedicated) then {
 };
 
 [] execVM "custom\G_DoubleBridge.sqf";
-[] execVM "custom\G_GhostTown.sqf";
-[] execVM "custom\G_SangenBlind.sqf";
-[] execVM "custom\G_FarmBase.sqf";
-[] execVM "custom\G_BattleBase.sqf";
 [] execVM "custom\G_NorthBridge01.sqf";
