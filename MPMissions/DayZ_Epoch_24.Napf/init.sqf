@@ -61,7 +61,7 @@ DZE_slowZombies = false; // Force zombies to always walk
 DZE_StaticConstructionCount = 1; // Steps required to build. If greater than 0 this applies to all objects.
 DZE_GodModeBase = true; // Make player built base objects indestructible
 DZE_requireplot = 0; // Require a plot pole to build  0 = Off, 1 = On
-DZE_PlotPole = [30,45]; // Radius owned by plot pole [Regular objects,Other plotpoles]. Difference between them is the minimum buffer between bases.
+DZE_PlotPole = [75,75]; // Radius owned by plot pole [Regular objects,Other plotpoles]. Difference between them is the minimum buffer between bases.
 DZE_BuildingLimit = 350; // Max number of built objects allowed in DZE_PlotPole radius
 DZE_SelfTransfuse = true; // Allow players to bloodbag themselves
 DZE_selfTransfuse_Values = [12000,15,120]; // [blood amount given, infection chance %, cooldown in seconds]
