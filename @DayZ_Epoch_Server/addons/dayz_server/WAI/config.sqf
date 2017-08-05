@@ -120,7 +120,7 @@ if(isServer) then {
 
 		wai_mission_fuel			= [5,60];							// fuel inside mission spawned vehicles [min%,max%]
 		wai_vehicle_damage			= [20,70];							// damages to spawn vehicles with [min%,max%]
-		wai_keep_vehicles			= false;								// save vehicles to database and keep them after restart
+		wai_keep_vehicles			= true;								// save vehicles to database and keep them after restart
 		wai_linux_server			= false;							// false = Windows (HiveExt.dll)		true = Linux Server (writer.pl)		has no effect when "wai_keep_vehicles = false;"
 		wai_lock_vehicles			= true;								// lock mission vehicles and add keys to random AI bodies (be careful with ai_clean_dead if this is true
 
@@ -133,7 +133,7 @@ if(isServer) then {
 		wai_kill_percent			= 30;								// percentage of AI players that must be killed at "crate" missions to be able to trigger completion
 
 		wai_high_value				= true;								// enable the possibility of finding a high value item (defined below crate_items_high_value) inside a crate
-		wai_high_value_chance		= 15;								// chance in percent you find above mentioned item
+		wai_high_value_chance		= 25;								// chance in percent you find above mentioned item
 
 		wai_enable_minefield		= true;								// enable minefields to better defend missions
 		wai_use_launchers			= true;								// add a rocket launcher to each spawned AI group
