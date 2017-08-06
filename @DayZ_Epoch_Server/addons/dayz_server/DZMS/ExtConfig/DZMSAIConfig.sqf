@@ -51,16 +51,16 @@ DZMSSkills2 = [
 ];
 
 DZMSSkills3 = [	
-	["aimingAccuracy",0.20,0.25],
-	["aimingShake",0.85,0.95],
-	["aimingSpeed",0.80,0.90],
-	["endurance",0.80,0.90],
-	["spotDistance",0.70,0.85],
-	["spotTime",0.70,0.85],
-	["courage",0.80,1.00],
-	["reloadSpeed",0.80,0.90],
-	["commanding",0.80,0.90],
-	["general",0.80,1.00]
+	["aimingAccuracy",0.15,0.20],
+	["aimingShake",0.75,0.85],
+	["aimingSpeed",0.70,0.80],
+	["endurance",0.70,0.80],
+	["spotDistance",0.60,0.75],
+	["spotTime",0.60,0.75],
+	["courage",0.70,0.90],
+	["reloadSpeed",0.70,0.80],
+	["commanding",0.70,0.90],
+	["general",0.70,0.90]
 ];
 
 //////////////////////////////////////////////////////////////

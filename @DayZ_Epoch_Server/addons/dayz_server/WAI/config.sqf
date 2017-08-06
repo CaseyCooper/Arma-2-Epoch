@@ -30,7 +30,7 @@ if(isServer) then {
 		player_bandit				= -5000;		// this is the amount you declare someone to be a bandit on your server, bandit AI will not attack you if ai_friendly_behaviour is true
 		player_hero					= 5000;			// this is the amount you declare someone to be a hero on your server, hero AI will not attack you if ai_friendly_behaviour is true
 
-		ai_share_info				= true;			// AI share info on player position
+		ai_share_info				= false;			// AI share info on player position
 		ai_share_distance			= 300;			// distance from killed AI for AI to share your rough position
 
 		ai_kills_gain				= true;			// add kill to bandit/human kill score
@@ -39,16 +39,16 @@ if(isServer) then {
 		ai_remove_humanity			= 0;			// amount of humanity lost for killing a hero AI
 		ai_special_humanity			= 0;			// amount of humanity gain or loss for killing a special AI dependant on player alignment
 		
-		ai_skill_extreme			= [["aimingAccuracy",1.00],["aimingShake",1.00],["aimingSpeed",1.00],["endurance",1.00],["spotDistance",1.00],["spotTime",1.00],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",1.00]]; 	// Extreme
-		ai_skill_hard				= [["aimingAccuracy",0.80],["aimingShake",0.80],["aimingSpeed",0.80],["endurance",1.00],["spotDistance",0.80],["spotTime",0.80],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",1.00]]; 	// Hard
-		ai_skill_medium				= [["aimingAccuracy",0.60],["aimingShake",0.60],["aimingSpeed",0.60],["endurance",1.00],["spotDistance",0.60],["spotTime",0.60],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",1.00]];	// Medium
+		ai_skill_extreme			= [["aimingAccuracy",0.50],["aimingShake",0.60],["aimingSpeed",0.60],["endurance",1.00],["spotDistance",0.50],["spotTime",0.50],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",1.00]]; 	// Extreme
+		ai_skill_hard				= [["aimingAccuracy",0.50],["aimingShake",0.60],["aimingSpeed",0.60],["endurance",1.00],["spotDistance",0.50],["spotTime",0.50],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",1.00]]; 	// Hard
+		ai_skill_medium				= [["aimingAccuracy",0.50],["aimingShake",0.60],["aimingSpeed",0.60],["endurance",1.00],["spotDistance",0.50],["spotTime",0.50],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",1.00]];	// Medium
 		ai_skill_easy				= [["aimingAccuracy",0.40],["aimingShake",0.50],["aimingSpeed",0.50],["endurance",1.00],["spotDistance",0.50],["spotTime",0.50],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",1.00]];	// Easy
 		ai_skill_random				= [ai_skill_extreme,ai_skill_hard,ai_skill_hard,ai_skill_hard,ai_skill_hard,ai_skill_medium,ai_skill_medium,ai_skill_medium,ai_skill_medium,ai_skill_easy];
 
 		ai_static_useweapon			= true;	// Allows AI on static guns to have a loadout 	
 		ai_static_weapons			= ["KORD_high_TK_EP1","DSHKM_Ins","M2StaticMG"];	// static guns
 
-		ai_static_skills			= false;	// Allows you to set custom array for AI on static weapons. (true: On false: Off) 
+		ai_static_skills			= true;	// Allows you to set custom array for AI on static weapons. (true: On false: Off) 
 		ai_static_array				= [["aimingAccuracy",0.20],["aimingShake",0.70],["aimingSpeed",0.75],["endurance",1.00],["spotDistance",0.70],["spotTime",0.50],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",1.00]];
 
 		ai_gear0					= [["ItemBandage","ItemBandage","ItemAntibiotic"],["ItemRadio","ItemMachete","ItemCrowbar"]];

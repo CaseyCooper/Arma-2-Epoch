@@ -356,7 +356,7 @@ DZAI_skill1 = [
 
 //AI skill settings level 2 (Skill, Minimum skill, Maximum skill). Baseline skill level: 0.70
 DZAI_skill2 = [	
-	["aimingAccuracy",0.175,0.225],
+	["aimingAccuracy",0.125,0.15],
 	["aimingShake",0.70,0.79],
 	["aimingSpeed",0.70,0.79],
 	["endurance",0.70,0.79],
@@ -370,7 +370,7 @@ DZAI_skill2 = [
 
 //AI skill settings level 3 (Skill, Minimum skill, Maximum skill). Baseline skill level: 0.80
 DZAI_skill3 = [	
-	["aimingAccuracy",0.225,0.250],
+	["aimingAccuracy",0.125,0.15],
 	["aimingShake",0.80,0.89],
 	["aimingSpeed",0.80,0.89],
 	["endurance",0.80,0.89],
