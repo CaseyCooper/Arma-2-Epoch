@@ -1,7 +1,7 @@
 private ["_messages","_timeout"];
 
 _messages = [
-	["DayZ Epoch", "Welcome "+(name player)],
+	["DayZ Epoch", "Welcome To Hell "+(name player)],
 	["World", "Napf Veteran"],
 	//["Teamspeak", "some TS info"],
 	//["Website/Forums", "some website info"],
@@ -12,7 +12,7 @@ _messages = [
 	["Server Features","Adjusted Traders - They Pay More!!!"],
 	["Server Features","WAI DZAI DZMS"],
 	["Server Features","Old Style Tow And Lift"],
-	["Server Features","No Plot Pole Required To Build"],
+	["Server Features","Plot Pole Is REQUIRED To Secure Base BUT Not To Build"],
 	["Server Features","Remember Have Fun And Enjoy Your Time On Beautiful Napf Island"]
 	
 ];
