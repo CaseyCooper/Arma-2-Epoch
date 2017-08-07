@@ -142,10 +142,10 @@ if(isServer) then {
 		// Missions
 		wai_radio_announce			= true;								// Setting this to true will announce the missions to those that hold a radio only
 		wai_hero_limit				= 2;								// define how many hero missions can run at once
-		wai_bandit_limit			= 2;								// define how many bandit missions can run at once
+		wai_bandit_limit			= 0;								// define how many bandit missions can run at once
 
 		wai_hero_missions			= [ 								// ["mission filename",% chance of picking this mission],Make sure the chances add up to 100,or it will not be accurate percentages
-										["patrol",10],
+										//["patrol",10],
 										["black_hawk_crash",11],
 										["armed_vehicle",11],
 										["bandit_base",7],
@@ -155,7 +155,20 @@ if(isServer) then {
 										["disabled_milchopper",9],
 										["mayors_mansion",9],
 										["weapon_cache",10],
-										["bandit_patrol",10]
+										["bandit_patrol",10],
+										["mine_tower",5],
+										["cannibal_cave",5],
+										["crop_raider",5],
+										["drone_pilot",5], 
+										["slaughter_house",5],
+										["drugbust",5],
+										["armybase",5],
+										["abandoned_trader",5],
+										["lumberjack",5],
+										["tankcolumn",5],
+										["macdonald",5],
+										["radioshack",5],
+										["junkyard",5]
 									];
 		wai_bandit_missions			= [
 										["patrol",10],
