@@ -29,7 +29,7 @@ if(isServer) then {
 	],"M2StaticMG","Hard","Bandit","Bandit",1,2,"Random","Random",_mission] call spawn_static;
 
 	//Heli Para Drop
-	[[(_position select 0),(_position select 1),0],[0,0,0],400,"BAF_Merlin_HC3_D",10,"Random","Random",4,"Random","Bandit","Random","Bandit",false,_mission] spawn heli_para;
+	[[(_position select 0),(_position select 1),0],[10234,0,200],400,"Mi17_DZ",10,"Random","Random",4,"Random","Bandit","Random","Bandit",false,_mission] spawn heli_para;
 
 	// Spawn Vehicles
 	_dir 			= floor(round(random 360));
@@ -59,7 +59,7 @@ if(isServer) then {
 	] call mission_winorfail;
 
 	if(_complete) then {
-		[_crate,[1,crate_weapons_buildables],[4,crate_tools_buildable],[30,crate_items_buildables],4] call dynamic_crate;
+		[_crate,[1,crate_weapons_buildables],[4,crate_tools_buildable],[40,crate_items_buildables]] call dynamic_crate;
 	};
 
 	diag_log format["WAI: [Mission:[Hero] Disabled Convoy]: Ended at %1",_position];

@@ -50,7 +50,22 @@ if(isServer) then {
 	] call mission_winorfail;
 
 	if(_complete) then {
-		[_crate,0,0,[80,crate_items_medical],0] call dynamic_crate;
+		_randomCrate = floor(random 100);
+		if (_randomCrate < 20) then {
+			[_crate,10,5,35] call dynamic_crate;
+		};
+		if (_randomCrate >= 20 && _randomCrate < 40) then {
+			[_crate,14,[5,crate_tools_sniper],[2,crate_items_high_value]] call dynamic_crate;
+		};
+		if (_randomCrate >= 40 && _randomCrate < 60) then {
+			[_crate,0,0,[60,crate_items_medical]] call dynamic_crate;
+		};
+		if (_randomCrate >= 60 && _randomCrate < 80) then {
+			[_crate,[6,ai_wep_machine],[5,crate_tools],[8,crate_items_chainbullets]] call dynamic_crate;
+		};	
+		if (_randomCrate >= 80 && _randomCrate <= 100) then {
+			[_crate,[14,ai_wep_assault],[8,crate_tools_sniper],[3,crate_items_high_value]] call dynamic_crate;
+		};			
 	};
 
 	diag_log format["WAI: [Mission:[Hero] Captured MV22]: Ended at %1",_position];

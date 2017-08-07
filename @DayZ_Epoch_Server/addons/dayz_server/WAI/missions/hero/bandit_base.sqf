@@ -39,7 +39,7 @@ if(isServer) then {
 	[[_position select 0,_position select 1,0],4,"Hard","Random",4,"Random","Bandit","Random","Bandit",_mission] call spawn_group;
 
 	//Humvee Patrol
-	[[(_position select 0) + 100, _position select 1, 0],[(_position select 0) + 100, _position select 1, 0],50,2,"HMMWV_Armored","Hard","Bandit","Bandit",_mission] call vehicle_patrol;
+	[[(_position select 0) + 100, _position select 1, 0],[(_position select 0) + 100, _position select 1, 0],50,2,new_ai_vehicle_random_hero,"Hard","Bandit","Bandit",_mission] call vehicle_patrol;
 	 
 	//Static Guns
 	[[[(_position select 0) - 10, (_position select 1) + 10, 0]],"M2StaticMG","Easy","Bandit","Bandit",0,2,"Random","Random",_mission] call spawn_static;
@@ -48,7 +48,7 @@ if(isServer) then {
 	[[[(_position select 0) - 10, (_position select 1) - 10, 0]],"M2StaticMG","Easy","Bandit","Bandit",0,2,"Random","Random",_mission] call spawn_static;
 
 	//Heli Paradrop
-	[[(_position select 0), (_position select 1), 0],[0,0,0],400,"UH1H_DZ",10,"Random","Random",4,"Random","Bandit","Random","Bandit",true,_mission] spawn heli_para;
+	[[(_position select 0), (_position select 1), 0],[10234,0,200],400,"UH1H_DZ",10,"Random","Random",4,"Random","Bandit","Random","Bandit",true,_mission] spawn heli_para;
 
 	//Condition
 	_complete = [
@@ -61,7 +61,22 @@ if(isServer) then {
 	] call mission_winorfail;
 
 	if(_complete) then {
-		[_crate,[16,ai_wep_sniper],[8,crate_tools_sniper],[3,crate_items_high_value],[4,crate_backpacks_large]] call dynamic_crate;
+		_randomCrate = floor(random 100);
+		if (_randomCrate < 20) then {
+			[_crate,10,5,35] call dynamic_crate;
+		};
+		if (_randomCrate >= 20 && _randomCrate < 40) then {
+			[_crate,14,[5,crate_tools_sniper],[2,crate_items_high_value]] call dynamic_crate;
+		};
+		if (_randomCrate >= 40 && _randomCrate < 60) then {
+			[_crate,0,0,[60,crate_items_medical]] call dynamic_crate;
+		};
+		if (_randomCrate >= 60 && _randomCrate < 80) then {
+			[_crate,[6,ai_wep_machine],[5,crate_tools],[8,crate_items_chainbullets]] call dynamic_crate;
+		};	
+		if (_randomCrate >= 80 && _randomCrate <= 100) then {
+			[_crate,[14,ai_wep_assault],[8,crate_tools_sniper],[3,crate_items_high_value]] call dynamic_crate;
+		};			
 	};
 
 	diag_log format["WAI: [Mission:[Hero] Bandit Base]: Ended at %1",_position];
