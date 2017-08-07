@@ -89,6 +89,11 @@ class Category_675 {
 		buy[] = {2,"ItemGoldBar"};
 		sell[] = {1,"ItemGoldBar"};
 	};
+	class PartWoodPile {
+		type = "trade_items";
+		buy[] = {2,"ItemGoldBar"};
+		sell[] = {2,"ItemGoldBar"};
+	};
 };
 
 class Category_636 {
