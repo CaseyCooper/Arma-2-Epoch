@@ -746,6 +746,9 @@ LOG_CFG_CANLIFT=[
 	"uh1h_tk_ep1",
 	"uh1y",
 	"uh1y_dze",
+	"uh60m_ep1",
+	"uh60m_ep1_dz",
+	"uh60m_mev_ep1_dz",
 	"uh60m_ep1_dze"
 ];
 

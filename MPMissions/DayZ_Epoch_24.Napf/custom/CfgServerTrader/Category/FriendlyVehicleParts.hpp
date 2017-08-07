@@ -17,7 +17,7 @@ class Category_677 {
 	class PartEngine {
 		type = "trade_items";
 		buy[] = {5,"ItemGoldBar"};
-		sell[] = {1,"ItemSilverBar10oz"};
+		sell[] = {5,"ItemSilverBar"};
 	};
 	class PartVRotor {
 		type = "trade_items";
@@ -48,11 +48,6 @@ class Category_677 {
 		type = "trade_items";
 		buy[] = {2,"ItemSilverBar"};
 		sell[] = {1,"ItemSilverBar"};
-	};
-	class ItemFuelBarrel {
-		type = "trade_items";
-		buy[] = {2,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
 	};
 };
 
