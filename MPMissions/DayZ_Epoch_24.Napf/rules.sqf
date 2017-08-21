@@ -8,12 +8,14 @@ _messages = [
 	["Server Rules", "Duping, glitching or using any<br />exploit will result in a<br />permanent ban."],
 	["Server Rules", "PVE Only"],
 	["Server Rules", "Hackers will be banned permanently<br />Respect others"],
-	["Server Features","Indestructable Bases"],
+	["Server Features","Indestructible Bases"],
+	["Server Features","Plot Pole Is REQUIRED To Secure Base BUT Not To Build"],
 	["Server Features","Adjusted Traders - They Pay More!!!"],
 	["Server Features","WAI DZAI DZMS"],
-	["Server Features","Old Style Tow And Lift"],
-	["Server Features","Plot Pole Is REQUIRED To Secure Base BUT Not To Build"],
-	["Server Features","Remember Have Fun And Enjoy Your Time On Beautiful Napf Island"]
+	["Server Features","55 Missions In Total"],
+	["Server Features","Old Style Tow And Lift System"],
+	["Server Features","Remember Have Fun And Enjoy Your Time On Beautiful Napf Island"],
+	["Server Features","Where The Sun Always Shines And the AI Are Accurate"]
 	
 ];
  
