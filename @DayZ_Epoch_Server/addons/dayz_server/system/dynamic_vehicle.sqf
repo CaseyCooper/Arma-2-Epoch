@@ -116,8 +116,6 @@ AllowedVehiclesList = [
 	["Lada2_TK_CIV_EP1",_Ratio3],
 	["LadaLM",_Ratio3],
 	["M1030_US_DES_EP1",_Ratio3],
-	["MMT_Civ",(_Ratio3 * 2)],	
-	["Old_bike_TK_INS_EP1",_Ratio3],
 	["Old_moto_TK_Civ_EP1",_Ratio3],
 	["S1203_TK_CIV_EP1",_Ratio3],
 	["Skoda",_Ratio3],
