@@ -29,6 +29,19 @@ class Header
 aiKills = 1;
 diagRadio = 1;
 diagHit = 1;
+class CfgSounds
+	{
+		sounds[] =
+		{
+			Radio_Message_Sound
+		};
+		class Radio_Message_Sound
+		{
+			name = "Radio_Message_Sound";
+			sound[] = {custom\remote\radio.ogg,0.4,1};
+			titles[] = {};
+		};
+	};
 #include "\z\addons\dayz_code\gui\description.hpp"
 #include "\z\addons\dayz_code\Configs\CfgLoot\CfgLoot.hpp"
 #include "custom\CfgServerTrader\CfgServerTrader.hpp"
