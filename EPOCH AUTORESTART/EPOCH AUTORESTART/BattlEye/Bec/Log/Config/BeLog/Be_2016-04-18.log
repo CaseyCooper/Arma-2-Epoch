@@ -1,0 +1,438 @@
+﻿00:00:01 : Lost Connection!
+﻿00:00:01 : Closing socket & exiting!
+﻿00:01:39 : Rcon client logging in
+﻿00:01:39 : RCon admin #1 (127.0.0.1:52576) logged in
+﻿00:02:25 : Player #0 juandayz (190.226.78.51:2304) connected
+﻿00:02:27 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿00:02:27 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿00:02:27 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿00:02:48 : Player #1 Alan (190.31.33.235:2304) connected
+﻿00:03:23 : Player #1 Alan - GUID: 0f58f0f7cbcc27bdd669ddb2ba67dec1 (unverified)
+﻿00:03:23 : Player #1 Alan - Legacy GUID: e4693e16704daa1c5c15a058786df292
+﻿00:03:24 : Verified GUID (0f58f0f7cbcc27bdd669ddb2ba67dec1) of player #1 Alan
+﻿00:08:40 : Player #2 JF (190.185.192.18:26512) connected
+﻿00:08:41 : Player #2 JF - GUID: 93a2a9d9bc7acb34122becec3305fde7 (unverified)
+﻿00:08:42 : Verified GUID (93a2a9d9bc7acb34122becec3305fde7) of player #2 JF
+﻿00:08:42 : Player #2 JF - Legacy GUID: 1e3460faa1452299ec3b5f220fe797e0
+﻿00:30:38 : RCon admin #2 (127.0.0.1:54461) logged in
+﻿00:31:24 : RCon admin #2: (Global) [juandayz] las estoy cambiando a las acciones, para q se puedan comprar 1 vez x hora. por ahora no estan funcionando
+﻿00:31:33 : RCon admin #2: (Global) [juandayz] pero podes comprar bonos
+﻿00:31:47 : RCon admin #2: (Global) [juandayz] que te los liqida en 10 minutos
+﻿00:32:41 : RCon admin #2: (Global) [juandayz] se venden solos los bonos
+﻿00:33:20 : RCon admin #2: (Global) [juandayz] por ej si compras uno de 10 podes ganar 20 30 y hasta 40 . una unica vez con ese unico bono en 10 min.
+﻿00:34:02 : RCon admin #2: (Global) [juandayz] las acciones, son fijas, cada 20 minutos te paga 5 mil.. hasta q mueras , deslogues o reinicie el server
+﻿00:34:41 : RCon admin #2: (Global) [juandayz] pero tengo q modificar q se pueda comprar uno x por hora. si no te compras 10 acciones seguidas y en 20 min sos milllonario
+﻿00:35:34 : RCon admin #2: (Global) [juandayz] no, el libro es la licencia
+﻿00:35:46 : RCon admin #2: (Global) [juandayz] si lo perdes tenes q comprar otra licencia
+﻿00:39:07 : RCon admin #2: (Global) [juandayz] claro, una vez q tenes la licencia compras el bono
+﻿00:43:08 : RCon admin #2: (Global) [juandayz] los looteas jf
+﻿00:43:19 : RCon admin #2: (Global) [juandayz] -generalmente aparecen en las barracas
+﻿01:09:08 : Player #0 juandayz (d603844e2f77196bf616245ae360213b) has been kicked by BattlEye: Client not responding
+﻿01:15:33 : Player #1 Alan disconnected
+﻿01:53:06 : Player #0 Alan (190.31.33.235:2304) connected
+﻿01:53:07 : Player #0 Alan - GUID: 0f58f0f7cbcc27bdd669ddb2ba67dec1 (unverified)
+﻿01:53:08 : Verified GUID (0f58f0f7cbcc27bdd669ddb2ba67dec1) of player #0 Alan
+﻿01:53:08 : Player #0 Alan - Legacy GUID: e4693e16704daa1c5c15a058786df292
+﻿01:53:11 : Player #0 Alan disconnected
+﻿02:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿02:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿02:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿03:00:01 : Lost Connection!
+﻿03:00:01 : Closing socket & exiting!
+﻿03:01:15 : Rcon client logging in
+﻿03:01:15 : RCon admin #2 (127.0.0.1:56095) logged in
+﻿03:01:57 : Player #0 JF (190.185.192.18:26512) connected
+﻿03:01:58 : Player #0 JF - GUID: 93a2a9d9bc7acb34122becec3305fde7 (unverified)
+﻿03:01:58 : Verified GUID (93a2a9d9bc7acb34122becec3305fde7) of player #0 JF
+﻿03:01:58 : Player #0 JF - Legacy GUID: 1e3460faa1452299ec3b5f220fe797e0
+﻿03:32:19 : Player #1 MaxBraian (181.229.193.90:2304) connected
+﻿03:32:21 : Player #1 MaxBraian - GUID: cdc618df2d54ca997288fcc87121f76b (unverified)
+﻿03:32:21 : Verified GUID (cdc618df2d54ca997288fcc87121f76b) of player #1 MaxBraian
+﻿03:32:22 : Player #1 MaxBraian - Legacy GUID: c895084244afc06486ae6d81b381fd7e
+﻿04:59:48 : Player #1 MaxBraian disconnected
+﻿05:45:00 : RCon admin #2: (Global) BEC : This server will restart in 15 minutes
+﻿05:45:07 : Player #0 JF disconnected
+﻿05:55:00 : RCon admin #2: (Global) BEC : This server will restart in 5 minutes
+﻿05:59:00 : RCon admin #2: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿06:00:01 : Lost Connection!
+﻿06:00:01 : Closing socket & exiting!
+﻿06:01:15 : Rcon client logging in
+﻿06:01:15 : RCon admin #1 (127.0.0.1:53855) logged in
+﻿08:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿08:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿08:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿09:00:01 : Lost Connection!
+﻿09:00:01 : Closing socket & exiting!
+﻿09:01:07 : Rcon client logging in
+﻿09:01:07 : RCon admin #1 (127.0.0.1:64047) logged in
+﻿09:50:27 : Lost Connection!
+﻿09:50:27 : Closing socket & exiting!
+﻿14:52:06 : Rcon client logging in
+﻿14:52:06 : RCon admin #0 (127.0.0.1:60456) logged in
+﻿14:53:26 : Player #0 juandayz (200.117.60.89:2304) connected
+﻿14:53:27 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿14:53:28 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿14:53:28 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿14:55:00 : RCon admin #0: (Global) BEC : This server will restart in 5 minutes
+﻿14:59:00 : RCon admin #0: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿15:00:01 : Lost Connection!
+﻿15:00:01 : Closing socket & exiting!
+﻿15:01:15 : Rcon client logging in
+﻿15:01:15 : RCon admin #0 (127.0.0.1:60458) logged in
+﻿15:13:11 : Player #0 juandayz (200.117.60.89:2304) connected
+﻿15:13:13 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿15:13:14 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿15:13:15 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿15:24:30 : Player #0 juandayz disconnected
+﻿15:24:34 : Player #0 juandayz (200.117.60.89:2304) connected
+﻿15:24:36 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿15:24:36 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿15:24:36 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿15:43:31 : Player #1 Papurri (190.189.130.218:2304) connected
+﻿15:43:35 : Player #1 Papurri disconnected
+﻿15:43:43 : Player #1 Papurri (190.189.130.218:2304) connected
+﻿15:43:46 : Player #1 Papurri disconnected
+﻿15:44:27 : Player #1 Papurri (190.189.130.218:2304) connected
+﻿15:44:30 : Player #1 Papurri disconnected
+﻿15:45:05 : Player #1 Papurri (190.189.130.218:2304) connected
+﻿15:45:08 : Player #1 Papurri disconnected
+﻿15:48:49 : RCon admin #0: (To juandayz) BEC : You have about 60 seconds left to join the mission.
+﻿15:49:10 : Player #1 Papurri (190.189.130.218:2304) connected
+﻿15:49:13 : Player #1 Papurri disconnected
+﻿15:49:20 : RCon admin #0: (To juandayz) BEC : You have about 30 seconds left to join the mission.
+﻿15:49:34 : RCon admin #0: (To juandayz) BEC : You have about 15 seconds left to join the mission.
+﻿15:49:49 : Player #0 juandayz (d603844e2f77196bf616245ae360213b) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿15:53:48 : RCon admin #1 (179.26.212.142:53110) logged in
+﻿15:54:41 : Player #0 juandayz (200.117.60.89:2304) connected
+﻿15:54:42 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿15:54:43 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿15:54:43 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿16:08:25 : Rcon client logging in
+﻿16:08:42 : RCon admin #1 (127.0.0.1:62723) logged in
+﻿16:09:18 : Player #1 Papurri (190.189.130.218:2304) connected
+﻿16:09:21 : Player #1 Papurri disconnected
+﻿16:29:10 : Player #0 juandayz disconnected
+﻿16:37:25 : Rcon client logging in
+﻿16:37:25 : RCon admin #1 (127.0.0.1:62725) logged in
+﻿16:40:20 : RCon admin #2 (179.26.212.142:64175) logged in
+﻿16:53:14 : Player #0 MaxBraian (181.229.193.90:2304) connected
+﻿16:53:16 : Player #0 MaxBraian - GUID: cdc618df2d54ca997288fcc87121f76b (unverified)
+﻿16:53:16 : Verified GUID (cdc618df2d54ca997288fcc87121f76b) of player #0 MaxBraian
+﻿16:53:16 : Player #0 MaxBraian - Legacy GUID: c895084244afc06486ae6d81b381fd7e
+﻿16:53:59 : Player #0 MaxBraian disconnected
+﻿17:10:44 : Player #0 Papurri (190.189.130.218:2304) connected
+﻿17:10:47 : Player #0 Papurri disconnected
+﻿17:10:53 : Player #0 Papurri (190.189.130.218:2304) connected
+﻿17:10:56 : Player #0 Papurri disconnected
+﻿17:11:02 : Player #0 Papurri (190.189.130.218:2304) connected
+﻿17:11:06 : Player #0 Papurri disconnected
+﻿17:11:10 : Player #0 Papurri (190.189.130.218:2304) connected
+﻿17:11:13 : Player #0 Papurri disconnected
+﻿17:16:35 : Player #0 sebastian (152.172.201.85:2304) connected
+﻿17:16:36 : Player #0 sebastian - GUID: c953df4744f2f6840b5bc2cde9ebfd50 (unverified)
+﻿17:16:37 : Verified GUID (c953df4744f2f6840b5bc2cde9ebfd50) of player #0 sebastian
+﻿17:16:37 : Player #0 sebastian - Legacy GUID: 5759984b6184489b63a98879c9bcf268
+﻿17:18:25 : Rcon client logging in
+﻿17:20:26 : Rcon client logging in
+﻿17:20:28 : RCon admin #1 (127.0.0.1:53912) logged in
+﻿17:29:57 : Rcon client logging in
+﻿17:29:57 : RCon admin #1 (127.0.0.1:53914) logged in
+﻿17:30:54 : Player #0 juandayz (190.226.87.208:2304) connected
+﻿17:30:55 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿17:30:55 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿17:30:55 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿17:35:10 : Lost Connection!
+﻿17:35:10 : Closing socket & exiting!
+﻿17:37:19 : Rcon client logging in
+﻿17:37:34 : RCon admin #1 (127.0.0.1:63595) logged in
+﻿17:41:31 : Player #0 juandayz (d603844e2f77196bf616245ae360213b) has been kicked by BattlEye: Client not responding
+﻿17:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿17:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿17:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿18:00:02 : Lost Connection!
+﻿18:00:02 : Closing socket & exiting!
+﻿18:01:15 : Rcon client logging in
+﻿18:01:15 : RCon admin #1 (127.0.0.1:63597) logged in
+﻿18:25:18 : Rcon client logging in
+﻿18:25:18 : RCon admin #1 (127.0.0.1:63599) logged in
+﻿18:26:32 : Player #0 juandayz (190.226.87.208:2304) connected
+﻿18:26:34 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿18:26:35 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿18:26:35 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿18:30:28 : Lost Connection!
+﻿18:30:28 : Closing socket & exiting!
+﻿18:31:52 : Rcon client logging in
+﻿18:31:52 : RCon admin #1 (127.0.0.1:59546) logged in
+﻿18:34:31 : Player #0 juandayz (190.226.87.208:2304) connected
+﻿18:34:32 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿18:34:32 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿18:34:32 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿18:35:28 : Player #1 Juan (190.18.65.228:2304) connected
+﻿18:35:30 : Player #1 Juan - GUID: 93ec5561bccfebb468c17db46ae3eef0 (unverified)
+﻿18:35:31 : Player #1 Juan - Legacy GUID: 7c47c6a574b7dccc3603961b7ae85e6d
+﻿18:36:25 : No Valid response. Trying to reconnect.!
+﻿18:36:25 : Rcon client logging in
+﻿18:36:25 : RCon admin #1 (127.0.0.1:59546) logged in
+﻿18:39:02 : Lost Connection!
+﻿18:39:02 : Closing socket & exiting!
+﻿18:40:09 : Rcon client logging in
+﻿18:40:09 : RCon admin #1 (127.0.0.1:59548) logged in
+﻿18:40:40 : Player #0 juandayz (190.226.87.208:2304) connected
+﻿18:40:41 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿18:40:42 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿18:40:42 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿18:41:51 : Player #1 Totoasd (190.190.107.90:2304) connected
+﻿18:41:52 : Player #1 Totoasd - GUID: 7a51fa2e7de439e4cacdb83c08cdabab (unverified)
+﻿18:41:53 : Verified GUID (7a51fa2e7de439e4cacdb83c08cdabab) of player #1 Totoasd
+﻿18:41:53 : Player #1 Totoasd - Legacy GUID: b69609a893669d87ed97c35ff833edf5
+﻿18:42:16 : Player #2 Juan (190.18.65.228:2304) connected
+﻿18:42:17 : Player #2 Juan - GUID: 93ec5561bccfebb468c17db46ae3eef0 (unverified)
+﻿18:42:17 : Verified GUID (93ec5561bccfebb468c17db46ae3eef0) of player #2 Juan
+﻿18:42:18 : Player #2 Juan - Legacy GUID: 7c47c6a574b7dccc3603961b7ae85e6d
+﻿18:58:09 : RCon admin #2 (127.0.0.1:59550) logged in
+﻿19:11:18 : Player #3 Loly (186.183.114.217:2304) connected
+﻿19:11:19 : Player #3 Loly - GUID: d54c56b3fbf6cf811669c09204356e51 (unverified)
+﻿19:11:20 : Verified GUID (d54c56b3fbf6cf811669c09204356e51) of player #3 Loly
+﻿19:11:20 : Player #3 Loly - Legacy GUID: 103cf7cba156b13401d8aede66d3fcc1
+﻿19:22:33 : Player #4 Maxer (200.16.144.238:2304) connected
+﻿19:22:34 : Player #4 Maxer - GUID: b7c2472664de44ed5ca5550ebf1ea15d (unverified)
+﻿19:22:35 : Verified GUID (b7c2472664de44ed5ca5550ebf1ea15d) of player #4 Maxer
+﻿19:22:35 : Player #4 Maxer - Legacy GUID: c874e272801776e39eff8f8b1df5fac0
+﻿19:22:40 : Player #4 Maxer disconnected
+﻿19:28:24 : Player #4 Alan (190.225.9.32:2504) connected
+﻿19:28:25 : Player #4 Alan - GUID: 0f58f0f7cbcc27bdd669ddb2ba67dec1 (unverified)
+﻿19:28:26 : Verified GUID (0f58f0f7cbcc27bdd669ddb2ba67dec1) of player #4 Alan
+﻿19:28:26 : Player #4 Alan - Legacy GUID: e4693e16704daa1c5c15a058786df292
+﻿19:34:14 : Player #3 Loly disconnected
+﻿19:39:48 : Player #3 Loly (186.183.114.217:2304) connected
+﻿19:39:50 : Player #3 Loly - GUID: d54c56b3fbf6cf811669c09204356e51 (unverified)
+﻿19:39:50 : Verified GUID (d54c56b3fbf6cf811669c09204356e51) of player #3 Loly
+﻿19:39:51 : Player #3 Loly - Legacy GUID: 103cf7cba156b13401d8aede66d3fcc1
+﻿19:51:15 : Player #5 tomyemiliomk (200.104.62.4:2304) connected
+﻿19:51:16 : Player #5 tomyemiliomk - GUID: a9457c320150d033c622b7826d09f821 (unverified)
+﻿19:51:17 : Verified GUID (a9457c320150d033c622b7826d09f821) of player #5 tomyemiliomk
+﻿19:51:17 : Player #5 tomyemiliomk - Legacy GUID: a094cfe3a4502aabe66c9cea23a0a188
+﻿19:51:17 : Player #5 tomyemiliomk disconnected
+﻿19:52:40 : Player #0 juandayz (d603844e2f77196bf616245ae360213b) has been kicked by BattlEye: Client not responding
+﻿20:03:06 : Player #0 juandayz (190.226.87.208:2304) connected
+﻿20:03:07 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿20:03:08 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿20:03:08 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿20:09:20 : Player #5 JF (190.185.192.18:26512) connected
+﻿20:09:21 : Player #5 JF - GUID: 93a2a9d9bc7acb34122becec3305fde7 (unverified)
+﻿20:09:22 : Verified GUID (93a2a9d9bc7acb34122becec3305fde7) of player #5 JF
+﻿20:09:22 : Player #5 JF - Legacy GUID: 1e3460faa1452299ec3b5f220fe797e0
+﻿20:12:34 : Player #2 Juan (93ec5561bccfebb468c17db46ae3eef0) has been kicked by BattlEye: Ping too high (873)
+﻿20:13:13 : Player #2 Juan (190.18.65.228:2304) connected
+﻿20:13:15 : Player #2 Juan - GUID: 93ec5561bccfebb468c17db46ae3eef0 (unverified)
+﻿20:13:15 : Player #2 Juan - Legacy GUID: 7c47c6a574b7dccc3603961b7ae85e6d
+﻿20:13:16 : Verified GUID (93ec5561bccfebb468c17db46ae3eef0) of player #2 Juan
+﻿20:14:14 : RCon admin #3 (179.26.212.142:54743) logged in
+﻿20:17:36 : Player #6 Juan (2) (181.29.50.163:2304) connected
+﻿20:17:38 : Player #6 Juan (2) - GUID: 8c0882e5bc1314737bd6688562c8f6f9 (unverified)
+﻿20:17:38 : Player #6 Juan (2) - Legacy GUID: 21609d9aece603847f622d1b61cd0c47
+﻿20:17:38 : Verified GUID (8c0882e5bc1314737bd6688562c8f6f9) of player #6 Juan (2)
+﻿20:17:39 : Player #6 Juan (2) disconnected
+﻿20:20:01 : Player #6 Juan (2) (181.29.50.163:2304) connected
+﻿20:20:02 : Player #6 Juan (2) - GUID: 8c0882e5bc1314737bd6688562c8f6f9 (unverified)
+﻿20:20:02 : Verified GUID (8c0882e5bc1314737bd6688562c8f6f9) of player #6 Juan (2)
+﻿20:20:03 : Player #6 Juan (2) - Legacy GUID: 21609d9aece603847f622d1b61cd0c47
+﻿20:24:43 : RCon admin #2: (To Juan (2)) [juandayz] bienvenido
+﻿20:25:25 : RCon admin #2: (To Juan (2)) [juandayz] cualquier duda tenes un menu de ayuda en el scroll menu o si no pregunta :)
+﻿20:28:53 : Player #7 Pablo (190.211.10.160:2404) connected
+﻿20:28:54 : Player #7 Pablo - GUID: 6df0200e63ff5f53268910459dd7979f (unverified)
+﻿20:28:54 : Verified GUID (6df0200e63ff5f53268910459dd7979f) of player #7 Pablo
+﻿20:28:55 : Player #7 Pablo disconnected
+﻿20:30:05 : Player #7 Zabala (181.165.32.59:2304) connected
+﻿20:30:07 : Player #7 Zabala - GUID: 3dcd5da8db4b14b08d200c3536dbdfcc (unverified)
+﻿20:30:07 : Verified GUID (3dcd5da8db4b14b08d200c3536dbdfcc) of player #7 Zabala
+﻿20:30:07 : Player #7 Zabala - Legacy GUID: c6f0de16f7bf157c3e4a29c5631f5d1e
+﻿20:30:19 : Player #7 Zabala disconnected
+﻿20:31:07 : Player #7 Pablo (190.211.10.160:2304) connected
+﻿20:31:08 : Player #7 Pablo - GUID: 6df0200e63ff5f53268910459dd7979f (unverified)
+﻿20:31:09 : Verified GUID (6df0200e63ff5f53268910459dd7979f) of player #7 Pablo
+﻿20:31:09 : Player #7 Pablo - Legacy GUID: 375de8b540fba74e9be156229c047c74
+﻿20:32:03 : Player #8 Polaco86 (186.158.214.31:2304) connected
+﻿20:32:05 : Player #8 Polaco86 - GUID: 360db09649bb288cc773570b310c2689 (unverified)
+﻿20:32:05 : Player #8 Polaco86 - Legacy GUID: aedec632013fae29a2eaca7d0f1301d7
+﻿20:32:05 : Verified GUID (360db09649bb288cc773570b310c2689) of player #8 Polaco86
+﻿20:33:13 : Player #9 EL CANTINFLÁ (181.165.32.59:2304) connected
+﻿20:33:14 : Player #9 EL CANTINFLÁ - GUID: 3dcd5da8db4b14b08d200c3536dbdfcc (unverified)
+﻿20:33:14 : Verified GUID (3dcd5da8db4b14b08d200c3536dbdfcc) of player #9 EL CANTINFLÁ
+﻿20:33:15 : Player #9 EL CANTINFLÁ - Legacy GUID: c6f0de16f7bf157c3e4a29c5631f5d1e
+﻿20:33:50 : Player #8 Polaco86 (360db09649bb288cc773570b310c2689) has been kicked by BattlEye: Ping too high (421)
+﻿20:35:29 : RCon admin #2: (To EL CANTINFLÁ) [admin#2] bienvenido
+﻿20:36:06 : Player #8 Polaco86 (186.158.214.31:2304) connected
+﻿20:36:08 : Player #8 Polaco86 - GUID: 360db09649bb288cc773570b310c2689 (unverified)
+﻿20:36:09 : Verified GUID (360db09649bb288cc773570b310c2689) of player #8 Polaco86
+﻿20:36:10 : Player #8 Polaco86 - Legacy GUID: aedec632013fae29a2eaca7d0f1301d7
+﻿20:37:37 : Player #8 Polaco86 (360db09649bb288cc773570b310c2689) has been kicked by BattlEye: Ping too high (359)
+﻿20:40:07 : Player #4 Alan disconnected
+﻿20:44:03 : RCon admin #0 (179.26.248.103:61673) logged in
+﻿20:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿20:45:03 : RCon admin #2: (To Juan (2)) [admin#2] si le haces click derecho a tu cja de herramientas podes armar una bici, en vez de andar corriendo como loco
+﻿20:45:53 : RCon admin #2: (To Juan (2)) [admin#2] apreta space para armarla, cuando termine te subis
+﻿20:47:47 : RCon admin #2: (To Juan (2)) [admin#2] space, ahora. cuando termine te subis
+﻿20:48:44 : RCon admin #2: (To Pablo) [admin#2] hola pablo
+﻿20:50:19 : Player #3 Loly (d54c56b3fbf6cf811669c09204356e51) has been kicked by BattlEye: Ping too high (1513)
+﻿20:53:25 : Player #3 Loly (186.183.114.217:2304) connected
+﻿20:53:27 : Player #3 Loly - GUID: d54c56b3fbf6cf811669c09204356e51 (unverified)
+﻿20:53:27 : Player #3 Loly - Legacy GUID: 103cf7cba156b13401d8aede66d3fcc1
+﻿20:53:27 : Verified GUID (d54c56b3fbf6cf811669c09204356e51) of player #3 Loly
+﻿20:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿20:56:38 : Player #2 Juan disconnected
+﻿20:57:46 : Player #6 Juan (2) disconnected
+﻿20:58:16 : Player #3 Loly disconnected
+﻿20:59:00 : RCon admin #1: (Global) BEC : Server restart in 1 minute, Log out NOW!
+﻿20:59:32 : Player #1 Totoasd disconnected
+﻿21:00:02 : Lost Connection!
+﻿21:00:02 : Closing socket & exiting!
+﻿21:04:57 : Rcon client logging in
+﻿21:05:29 : Player #3 Juan (190.18.65.228:2304) connected
+﻿21:05:29 : Player #2 Totoasd - GUID: 7a51fa2e7de439e4cacdb83c08cdabab (unverified)
+﻿21:05:29 : RCon admin #2 (127.0.0.1:60085) logged in
+﻿21:05:29 : Player #2 Totoasd - Legacy GUID: b69609a893669d87ed97c35ff833edf5
+﻿21:05:29 : Verified GUID (7a51fa2e7de439e4cacdb83c08cdabab) of player #2 Totoasd
+﻿21:05:30 : Player #3 Juan - GUID: 93ec5561bccfebb468c17db46ae3eef0 (unverified)
+﻿21:05:31 : Verified GUID (93ec5561bccfebb468c17db46ae3eef0) of player #3 Juan
+﻿21:05:32 : Player #3 Juan - Legacy GUID: 7c47c6a574b7dccc3603961b7ae85e6d
+﻿21:05:33 : Player #4 Juan (2) (181.29.50.163:2304) connected
+﻿21:05:35 : Player #4 Juan (2) - GUID: 8c0882e5bc1314737bd6688562c8f6f9 (unverified)
+﻿21:05:37 : Verified GUID (8c0882e5bc1314737bd6688562c8f6f9) of player #4 Juan (2)
+﻿21:05:37 : Player #4 Juan (2) - Legacy GUID: 21609d9aece603847f622d1b61cd0c47
+﻿21:06:34 : Player #4 Juan (2) disconnected
+﻿21:07:03 : Player #4 Juan (2) (181.29.50.163:2304) connected
+﻿21:07:04 : Player #4 Juan (2) - GUID: 8c0882e5bc1314737bd6688562c8f6f9 (unverified)
+﻿21:07:05 : Verified GUID (8c0882e5bc1314737bd6688562c8f6f9) of player #4 Juan (2)
+﻿21:07:06 : Player #4 Juan (2) - Legacy GUID: 21609d9aece603847f622d1b61cd0c47
+﻿21:10:08 : Player #5 Unknown (186.135.22.238:17720) connected
+﻿21:10:11 : Player #5 Unknown - Legacy GUID: d7639dceb9588d3b0ab85f82e92ff8de
+﻿21:10:11 : Player #5 Unknown - GUID: 927032c3d7c1139aff0ff09424d46da1 (unverified)
+﻿21:10:11 : Verified GUID (927032c3d7c1139aff0ff09424d46da1) of player #5 Unknown
+﻿21:10:34 : Player #6 magfag69 (181.165.32.59:2304) connected
+﻿21:10:35 : Player #6 magfag69 - GUID: 3dcd5da8db4b14b08d200c3536dbdfcc (unverified)
+﻿21:10:36 : Player #6 magfag69 - Legacy GUID: c6f0de16f7bf157c3e4a29c5631f5d1e
+﻿21:10:38 : Verified GUID (3dcd5da8db4b14b08d200c3536dbdfcc) of player #6 magfag69
+﻿21:10:40 : Player #7 Loly (186.183.114.217:2304) connected
+﻿21:10:42 : Player #7 Loly - GUID: d54c56b3fbf6cf811669c09204356e51 (unverified)
+﻿21:10:42 : Player #7 Loly - Legacy GUID: 103cf7cba156b13401d8aede66d3fcc1
+﻿21:10:42 : Verified GUID (d54c56b3fbf6cf811669c09204356e51) of player #7 Loly
+﻿21:14:51 : Player #5 Unknown disconnected
+﻿21:15:36 : Player #5 Leodagos (186.135.22.238:17720) connected
+﻿21:15:37 : Player #5 Leodagos - GUID: 927032c3d7c1139aff0ff09424d46da1 (unverified)
+﻿21:15:37 : Verified GUID (927032c3d7c1139aff0ff09424d46da1) of player #5 Leodagos
+﻿21:15:38 : Player #5 Leodagos - Legacy GUID: d7639dceb9588d3b0ab85f82e92ff8de
+﻿21:35:40 : RCon admin #2: (To Juan) BEC : You have about 60 seconds left to join the mission.
+﻿21:36:11 : RCon admin #2: (To Juan) BEC : You have about 30 seconds left to join the mission.
+﻿21:36:26 : RCon admin #2: (To Juan) BEC : You have about 15 seconds left to join the mission.
+﻿21:36:40 : Player #3 Juan (93ec5561bccfebb468c17db46ae3eef0) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿21:39:15 : Player #3 Alan (190.225.9.32:2504) connected
+﻿21:39:17 : Player #3 Alan - GUID: 0f58f0f7cbcc27bdd669ddb2ba67dec1 (unverified)
+﻿21:39:18 : Verified GUID (0f58f0f7cbcc27bdd669ddb2ba67dec1) of player #3 Alan
+﻿21:39:19 : Player #3 Alan - Legacy GUID: e4693e16704daa1c5c15a058786df292
+﻿21:48:44 : Player #8 Juan (190.18.65.228:2304) connected
+﻿21:48:45 : Player #8 Juan - GUID: 93ec5561bccfebb468c17db46ae3eef0 (unverified)
+﻿21:48:46 : Verified GUID (93ec5561bccfebb468c17db46ae3eef0) of player #8 Juan
+﻿21:48:46 : Player #8 Juan - Legacy GUID: 7c47c6a574b7dccc3603961b7ae85e6d
+﻿21:51:56 : Player #5 Leodagos disconnected
+﻿22:06:59 : Player #5 pelado (201.252.211.132:2304) connected
+﻿22:07:01 : Player #5 pelado - GUID: 3990a4c2b5be89b3a5c31c659a6ee2fb (unverified)
+﻿22:07:01 : Player #5 pelado - Legacy GUID: 4aab0b5e87a5cb787ed2219e0187358a
+﻿22:07:03 : RCon admin #0: (Global) [adm#2] un puesto de control del ejercito
+﻿22:07:04 : Verified GUID (3990a4c2b5be89b3a5c31c659a6ee2fb) of player #5 pelado
+﻿22:07:30 : RCon admin #1: (Global) [ChukyN] pa k kieres saber eso jaja saludos
+﻿22:07:48 : RCon admin #0: (Global) [adm#2] nop, es como los demas puestos de control
+﻿22:08:32 : Player #9 Upham (190.57.227.106:2304) connected
+﻿22:08:33 : Player #9 Upham - GUID: 9ab38253a3545ecb04c926dde5fb3bd6 (unverified)
+﻿22:08:34 : Verified GUID (9ab38253a3545ecb04c926dde5fb3bd6) of player #9 Upham
+﻿22:08:34 : Player #9 Upham - Legacy GUID: 228bc0f78af76d9b04c09c5635ea3222
+﻿22:08:53 : RCon admin #1: (Global) [ChukyN] El proximo que pida ayuda por aca lo kickeo, para eso esta el TS
+﻿22:09:13 : RCon admin #1: (Global) [ChukyN] Yo siempre estoy, me veas o no
+﻿22:09:17 : RCon admin #0: (Global) [adm#2] adm ortiva mode on :D
+﻿22:09:48 : RCon admin #1: (Global) [ChukyN] Pero si no van a la sala de ayuda imposible que yo me entere que precisan algo
+﻿22:10:22 : RCon admin #0: (Global) [adm#2] inminente :D
+﻿22:10:47 : RCon admin #1: (Global) [ChukyN] Salgo del canal si vos vas al Esperando Ayuda, me avisa automaticamente que hay alguien ahi esperando
+﻿22:11:51 : RCon admin #1: (Global) [ChukyN] HAY UN PUTO CANAL QUE DICE ESPERANDO AYUDA, NUNCA TE VI AHI
+﻿22:12:44 : RCon admin #1: (Global) [ChukyN] Estaria Juan de guarda, te ignora
+﻿22:13:09 : RCon admin #1: (Global) [ChukyN] La mujer le pega
+﻿22:13:10 : Player #10 fdgfdgfgfd (181.162.239.155:2304) connected
+﻿22:13:11 : Player #10 fdgfdgfgfd - GUID: 2ac96efc883934a765f7207e6d39c49d (unverified)
+﻿22:13:12 : Verified GUID (2ac96efc883934a765f7207e6d39c49d) of player #10 fdgfdgfgfd
+﻿22:13:12 : Player #10 fdgfdgfgfd - Legacy GUID: 2f78ce6fd37e1769dc386c56601f985f
+﻿22:13:13 : Player #10 fdgfdgfgfd disconnected
+﻿22:13:14 : RCon admin #1: (Global) [ChukyN] Si se pone los auriculares
+﻿22:13:25 : Player #10 fdgfdgfgfd (181.162.239.155:2304) connected
+﻿22:13:26 : Player #10 fdgfdgfgfd - GUID: 2ac96efc883934a765f7207e6d39c49d (unverified)
+﻿22:13:27 : Verified GUID (2ac96efc883934a765f7207e6d39c49d) of player #10 fdgfdgfgfd
+﻿22:13:27 : Player #10 fdgfdgfgfd - Legacy GUID: 2f78ce6fd37e1769dc386c56601f985f
+﻿22:13:28 : Player #10 fdgfdgfgfd disconnected
+﻿22:13:57 : RCon admin #1: (Global) [ChukyN] Hasta los tobillos tiene la pollera
+﻿22:15:07 : RCon admin #1: (Global) [ChukyN] Te voy a dar feminismo por la cotorra a vos
+﻿22:15:24 : RCon admin #1: (Global) [ChukyN] Que sos una lesbiana llamada Juan de pelo corto y 120 kilos
+﻿22:15:42 : RCon admin #1: (Global) [ChukyN] Te las violaste vos a todas
+﻿22:16:42 : RCon admin #1: (Global) [ChukyN] Kick en 3, 2, 1
+﻿22:18:07 : RCon admin #1: (Global) [ChukyN] Tpealo a la isla
+﻿22:18:10 : RCon admin #1: (Global) [ChukyN] y dejalo ahi Juan
+﻿22:18:13 : RCon admin #1: (Global) [ChukyN] Por confianzudo
+﻿22:18:15 : RCon admin #0: (Global) [adm#2] hola upham bienvenido
+﻿22:23:15 : RCon admin #1: (Global) [ChukyN] Do u even english
+﻿22:23:28 : RCon admin #1: (Global) [ChukyN] i see
+﻿22:35:33 : Player #10 Negroqueroba (167.58.196.72:2304) connected
+﻿22:35:35 : Player #10 Negroqueroba - GUID: 659d892f2c8ec6e83fcca18068f0aa8e (unverified)
+﻿22:35:35 : Verified GUID (659d892f2c8ec6e83fcca18068f0aa8e) of player #10 Negroqueroba
+﻿22:35:36 : Player #10 Negroqueroba - Legacy GUID: 662624c0497eac260db32482b57893ea
+﻿22:40:20 : RCon admin #0: (To Negroqueroba) [adm#3] bienvenido
+﻿22:40:24 : Player #11 Indio (190.97.13.128:2304) connected
+﻿22:40:26 : Player #11 Indio - GUID: 8f4e09caba2594897dc024283dd51ea1 (unverified)
+﻿22:40:26 : Player #11 Indio - Legacy GUID: 0d4f2e23e4d2d96e0980866224c657c1
+﻿22:40:28 : Verified GUID (8f4e09caba2594897dc024283dd51ea1) of player #11 Indio
+﻿22:40:40 : Player #11 Indio disconnected
+﻿22:51:52 : RCon admin #2: (To Negroqueroba) BEC : You have about 60 seconds left to join the mission.
+﻿22:52:23 : RCon admin #2: (To Negroqueroba) BEC : You have about 30 seconds left to join the mission.
+﻿22:52:38 : RCon admin #2: (To Negroqueroba) BEC : You have about 15 seconds left to join the mission.
+﻿22:52:52 : Player #10 Negroqueroba (659d892f2c8ec6e83fcca18068f0aa8e) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿23:01:10 : Player #10 ChukyN (179.26.248.103:2304) connected
+﻿23:01:11 : Player #10 ChukyN - GUID: 7722b37782b63ac5e8d338480fc6e78d (unverified)
+﻿23:01:11 : Verified GUID (7722b37782b63ac5e8d338480fc6e78d) of player #10 ChukyN
+﻿23:01:12 : Player #10 ChukyN - Legacy GUID: 927c488179d03fcf9aa55e882ca86653
+﻿23:01:53 : RCon admin #0: (To pelado) [adm#3] fijatte q tenes un menu de ayuda en el scroll menu
+﻿23:03:10 : RCon admin #0: (To pelado) [adm#3] todos los traders estan en Mercado Central. cuando vayan ahi van a entender un poco mas el seerver
+﻿23:04:37 : RCon admin #0: (To pelado) [adm#3] de nada, cualquier duda pregunta tranquilo
+﻿23:06:48 : RCon admin #0: (Global) [adm#3] habran echo la mision?
+﻿23:07:16 : RCon admin #0: (Global) [adm#3] en cual mision juan?
+﻿23:08:04 : RCon admin #0: (Global) [adm#3] calculo q esta echa por q no la veo en el map
+﻿23:08:45 : RCon admin #0: (Global) [adm#3] alguno q la hizo y la dejo por la mitad
+﻿23:09:05 : RCon admin #0: (Global) [adm#3] no se matan entre ellos los bots de las misiones esas
+﻿23:09:37 : RCon admin #0: (Global) [adm#3] supongo q algun colgado como alan q mata a todos y siempre le falta 1 :D la dejo asi
+﻿23:16:11 : Player #11 Negroqueroba (167.58.196.72:2304) connected
+﻿23:16:12 : Player #11 Negroqueroba - GUID: 659d892f2c8ec6e83fcca18068f0aa8e (unverified)
+﻿23:16:12 : Verified GUID (659d892f2c8ec6e83fcca18068f0aa8e) of player #11 Negroqueroba
+﻿23:16:13 : Player #11 Negroqueroba - Legacy GUID: 662624c0497eac260db32482b57893ea
+﻿23:20:52 : RCon admin #0: (To Negroqueroba) [adm#3] bienvenido negro! cualquier duda la consultas dale?
+﻿23:33:31 : Player #12 RyvenX (190.31.238.179:2304) connected
+﻿23:33:32 : Player #12 RyvenX - GUID: 2c9f4c512d7751b6615d3c16567ab65f (unverified)
+﻿23:33:33 : Verified GUID (2c9f4c512d7751b6615d3c16567ab65f) of player #12 RyvenX
+﻿23:33:33 : Player #12 RyvenX - Legacy GUID: 00dc59199f6e899e17a17801807c36c1
+﻿23:38:36 : Player #9 Upham disconnected
+﻿23:38:49 : Player #1 juandayz (d603844e2f77196bf616245ae360213b) has been kicked by BattlEye: Client not responding
+﻿23:39:29 : Player #1 Upham (190.57.227.106:2304) connected
+﻿23:39:30 : Player #4 Juan (2) disconnected
+﻿23:39:31 : Player #1 Upham - GUID: 9ab38253a3545ecb04c926dde5fb3bd6 (unverified)
+﻿23:39:32 : Verified GUID (9ab38253a3545ecb04c926dde5fb3bd6) of player #1 Upham
+﻿23:39:33 : Player #1 Upham - Legacy GUID: 228bc0f78af76d9b04c09c5635ea3222
+﻿23:40:33 : Player #10 ChukyN disconnected
+﻿23:41:32 : Player #4 usuario (181.44.80.96:2304) connected
+﻿23:41:33 : Player #4 usuario - GUID: 84baebbbadca54b09464d06e7568cb58 (unverified)
+﻿23:41:34 : Verified GUID (84baebbbadca54b09464d06e7568cb58) of player #4 usuario
+﻿23:41:34 : Player #4 usuario - Legacy GUID: cbf8d65ef9e52db5417650424760e043
+﻿23:41:35 : Player #4 usuario disconnected
+﻿23:41:54 : Player #4 usuario (181.44.80.96:2304) connected
+﻿23:41:55 : Player #4 usuario - GUID: 84baebbbadca54b09464d06e7568cb58 (unverified)
+﻿23:41:56 : Verified GUID (84baebbbadca54b09464d06e7568cb58) of player #4 usuario
+﻿23:41:56 : Player #4 usuario - Legacy GUID: cbf8d65ef9e52db5417650424760e043
+﻿23:41:57 : Player #4 usuario disconnected
+﻿23:45:00 : RCon admin #2: (Global) BEC : This server will restart in 15 minutes
+﻿23:55:00 : RCon admin #2: (Global) BEC : This server will restart in 5 minutes
+﻿23:55:48 : Player #3 Alan disconnected
+﻿23:59:00 : RCon admin #2: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿23:59:57 : Player #12 RyvenX disconnected

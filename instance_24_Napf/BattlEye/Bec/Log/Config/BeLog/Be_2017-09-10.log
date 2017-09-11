@@ -1,0 +1,149 @@
+﻿00:02:11 : Rcon client logging in
+﻿00:02:11 : RCon admin #0 (127.0.0.1:54017) logged in
+﻿00:08:11 : RCon admin #0: (Global) CRFT Survival Servers
+﻿00:08:11 : RCon admin #0: (Global) Epoch Napf Veteran 
+﻿00:59:39 : Player #0 Jaak (122.61.59.251:2304) connected
+﻿00:59:40 : Player #0 Jaak - GUID: ba5faf667481b1e0107986aea5dc35d3 (unverified)
+﻿00:59:41 : Verified GUID (ba5faf667481b1e0107986aea5dc35d3) of player #0 Jaak
+﻿00:59:41 : Player #0 Jaak - Legacy GUID: 1852153e1bfcc855efc3e123538b9573
+﻿01:04:49 : Player #1 Justin (122.58.28.183:2304) connected
+﻿01:04:50 : Player #1 Justin - GUID: 93bb08f6d7e530fec25cc37511f0cddc (unverified)
+﻿01:04:51 : Verified GUID (93bb08f6d7e530fec25cc37511f0cddc) of player #1 Justin
+﻿01:04:51 : Player #1 Justin - Legacy GUID: 393f9fd63b2985221d83be678ca94445
+﻿01:10:30 : Player #2 Tiadashi (47.142.195.93:2304) connected
+﻿01:10:31 : Player #2 Tiadashi - GUID: ba7597fbd587ece9e807face23916950 (unverified)
+﻿01:10:32 : Verified GUID (ba7597fbd587ece9e807face23916950) of player #2 Tiadashi
+﻿01:10:32 : Player #2 Tiadashi - Legacy GUID: 8b4506e86dff8826a189c6a07436a687
+﻿01:55:18 : Player #2 Tiadashi disconnected
+﻿02:15:07 : Player #1 Justin disconnected
+﻿02:15:16 : Player #0 Jaak disconnected
+﻿04:32:55 : Player #0 Tiadashi (47.142.195.93:2304) connected
+﻿04:32:56 : Player #0 Tiadashi - GUID: ba7597fbd587ece9e807face23916950 (unverified)
+﻿04:32:57 : Verified GUID (ba7597fbd587ece9e807face23916950) of player #0 Tiadashi
+﻿04:32:57 : Player #0 Tiadashi - Legacy GUID: 8b4506e86dff8826a189c6a07436a687
+﻿05:24:19 : Player #0 Tiadashi disconnected
+﻿05:30:00 : RCon admin #0: (Global) This server will restart in 30 minutes
+﻿05:45:00 : RCon admin #0: (Global) This server will restart in 15 minutes
+﻿05:55:00 : RCon admin #0: (Global) This server will restart in 5 minute, log out now to prevent item loss!
+﻿05:59:00 : RCon admin #0: (Global) This server will restart in 1 minute, Log out now!
+﻿06:02:01 : Rcon client logging in
+﻿06:02:01 : RCon admin #0 (127.0.0.1:60963) logged in
+﻿06:08:02 : RCon admin #0: (Global) CRFT Survival Servers
+﻿06:08:02 : RCon admin #0: (Global) Epoch Napf Veteran 
+﻿08:21:41 : Player #0 ABJr (179.159.217.206:2304) connected
+﻿08:21:42 : Player #0 ABJr - GUID: e9ff5802211557bba9be4d8b03cead1b (unverified)
+﻿08:21:42 : Verified GUID (e9ff5802211557bba9be4d8b03cead1b) of player #0 ABJr
+﻿08:21:43 : Player #0 ABJr - Legacy GUID: d6a63e834a525e55fff33e0fcb65954c
+﻿08:27:38 : Player #0 ABJr disconnected
+﻿08:28:52 : Player #0 ABJr (179.159.217.206:2304) connected
+﻿08:28:53 : Player #0 ABJr - GUID: e9ff5802211557bba9be4d8b03cead1b (unverified)
+﻿08:28:53 : Verified GUID (e9ff5802211557bba9be4d8b03cead1b) of player #0 ABJr
+﻿08:28:54 : Player #0 ABJr - Legacy GUID: d6a63e834a525e55fff33e0fcb65954c
+﻿10:11:01 : Could not connect to BE Master
+﻿10:11:01 : Update attempt failed
+﻿10:12:56 : Failed to receive from BE Master (2)
+﻿10:12:57 : Update attempt failed
+﻿10:14:52 : Failed to receive from BE Master (2)
+﻿10:14:52 : Update attempt failed
+﻿10:16:47 : Failed to receive from BE Master (2)
+﻿10:16:47 : Update attempt failed
+﻿10:18:42 : Failed to receive from BE Master (2)
+﻿10:18:42 : Update attempt failed
+﻿10:20:37 : Failed to receive from BE Master (2)
+﻿10:20:37 : Update attempt failed
+﻿10:22:32 : Failed to receive from BE Master (2)
+﻿10:22:32 : Update attempt failed
+﻿10:24:27 : Failed to receive from BE Master (2)
+﻿10:24:27 : Update attempt failed
+﻿10:26:22 : Failed to receive from BE Master (2)
+﻿10:26:22 : Update attempt failed
+﻿10:28:38 : Could not connect to BE Master
+﻿10:28:39 : Update attempt failed
+﻿10:30:55 : Could not connect to BE Master
+﻿10:30:55 : Update attempt failed
+﻿10:33:11 : Could not connect to BE Master
+﻿10:33:11 : Update attempt failed
+﻿10:35:27 : Could not connect to BE Master
+﻿10:35:27 : Update attempt failed
+﻿10:37:43 : Could not connect to BE Master
+﻿10:37:43 : Update attempt failed
+﻿10:39:59 : Could not connect to BE Master
+﻿10:39:59 : Update attempt failed
+﻿10:42:15 : Could not connect to BE Master
+﻿10:42:15 : Update attempt failed
+﻿10:44:31 : Could not connect to BE Master
+﻿10:44:31 : Update attempt failed
+﻿10:46:47 : Could not connect to BE Master
+﻿10:46:47 : Update attempt failed
+﻿10:49:03 : Could not connect to BE Master
+﻿10:49:03 : Update attempt failed
+﻿10:51:19 : Could not connect to BE Master
+﻿10:51:19 : Update attempt failed
+﻿10:53:35 : Could not connect to BE Master
+﻿10:53:35 : Update attempt failed
+﻿10:55:51 : Could not connect to BE Master
+﻿10:55:51 : Update attempt failed
+﻿10:58:07 : Could not connect to BE Master
+﻿10:58:07 : Update attempt failed
+﻿11:00:23 : Could not connect to BE Master
+﻿11:00:23 : Update attempt failed
+﻿11:02:39 : Could not connect to BE Master
+﻿11:02:39 : Update attempt failed
+﻿11:04:55 : Could not connect to BE Master
+﻿11:04:55 : Update attempt failed
+﻿11:07:11 : Could not connect to BE Master
+﻿11:07:11 : Update attempt failed
+﻿11:09:27 : Could not connect to BE Master
+﻿11:09:27 : Update attempt failed
+﻿11:11:43 : Could not connect to BE Master
+﻿11:11:43 : Update attempt failed
+﻿11:13:59 : Could not connect to BE Master
+﻿11:13:59 : Update attempt failed
+﻿11:16:15 : Could not connect to BE Master
+﻿11:16:15 : Update attempt failed
+﻿11:18:31 : Could not connect to BE Master
+﻿11:18:31 : Update attempt failed
+﻿11:20:47 : Could not connect to BE Master
+﻿11:20:47 : Update attempt failed
+﻿11:23:03 : Could not connect to BE Master
+﻿11:23:03 : Update attempt failed
+﻿11:25:19 : Could not connect to BE Master
+﻿11:25:19 : Update attempt failed
+﻿11:27:16 : Could not connect to BE Master
+﻿11:27:16 : Update attempt failed
+﻿11:30:00 : RCon admin #0: (Global) This server will restart in 30 minutes
+﻿11:34:46 : Player #0 ABJr disconnected
+﻿11:45:00 : RCon admin #0: (Global) This server will restart in 15 minutes
+﻿11:55:00 : RCon admin #0: (Global) This server will restart in 5 minute, log out now to prevent item loss!
+﻿11:59:00 : RCon admin #0: (Global) This server will restart in 1 minute, Log out now!
+﻿12:02:11 : Rcon client logging in
+﻿12:02:11 : RCon admin #0 (127.0.0.1:53589) logged in
+﻿12:08:11 : RCon admin #0: (Global) CRFT Survival Servers
+﻿12:08:11 : RCon admin #0: (Global) Epoch Napf Veteran 
+﻿17:25:49 : Player #0 Tiadashi (47.142.195.93:2304) connected
+﻿17:25:51 : Player #0 Tiadashi - GUID: ba7597fbd587ece9e807face23916950 (unverified)
+﻿17:25:51 : Verified GUID (ba7597fbd587ece9e807face23916950) of player #0 Tiadashi
+﻿17:25:52 : Player #0 Tiadashi - Legacy GUID: 8b4506e86dff8826a189c6a07436a687
+﻿17:30:00 : RCon admin #0: (Global) This server will restart in 30 minutes
+﻿17:37:13 : Player #0 Tiadashi disconnected
+﻿17:45:00 : RCon admin #0: (Global) This server will restart in 15 minutes
+﻿17:55:00 : RCon admin #0: (Global) This server will restart in 5 minute, log out now to prevent item loss!
+﻿17:59:00 : RCon admin #0: (Global) This server will restart in 1 minute, Log out now!
+﻿18:02:11 : Rcon client logging in
+﻿18:02:11 : RCon admin #0 (127.0.0.1:50225) logged in
+﻿18:08:11 : RCon admin #0: (Global) CRFT Survival Servers
+﻿18:08:11 : RCon admin #0: (Global) Epoch Napf Veteran 
+﻿22:14:09 : Player #0 ABJr (179.159.217.206:2304) connected
+﻿22:14:10 : Player #0 ABJr - GUID: e9ff5802211557bba9be4d8b03cead1b (unverified)
+﻿22:14:10 : Verified GUID (e9ff5802211557bba9be4d8b03cead1b) of player #0 ABJr
+﻿22:14:11 : Player #0 ABJr - Legacy GUID: d6a63e834a525e55fff33e0fcb65954c
+﻿22:23:16 : Player #1 harri (71.14.96.158:2304) connected
+﻿22:23:18 : Player #1 harri - GUID: 0f5d4b536414a371dc294176d23654b9 (unverified)
+﻿22:23:18 : Verified GUID (0f5d4b536414a371dc294176d23654b9) of player #1 harri
+﻿22:23:18 : Player #1 harri - Legacy GUID: 4c733f7a01ab3208518f3a74157e69be
+﻿22:23:19 : Player #1 harri disconnected
+﻿22:47:40 : Player #0 ABJr disconnected
+﻿23:30:00 : RCon admin #0: (Global) This server will restart in 30 minutes
+﻿23:45:00 : RCon admin #0: (Global) This server will restart in 15 minutes
+﻿23:55:00 : RCon admin #0: (Global) This server will restart in 5 minute, log out now to prevent item loss!
+﻿23:59:00 : RCon admin #0: (Global) This server will restart in 1 minute, Log out now!

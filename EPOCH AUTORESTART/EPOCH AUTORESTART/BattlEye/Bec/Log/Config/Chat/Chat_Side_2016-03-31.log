@@ -1,0 +1,372 @@
+16:01:47 : Side: LarzuK: buenas
+16:02:02 : Side: LarzuK: che y ese avion que se escucha pasar a veces ?
+16:03:22 : Side: JF: UN CAZA QUE SUELE TIRAR BOMBAS EN ALGUNAS CIUDADES
+16:03:52 : Side: LarzuK: ta re locou
+16:03:59 : Side: LarzuK: ajja , pero te ve y te ataca ?
+16:04:02 : Side: LarzuK: o no ?
+16:07:28 : Side: juandayz: hola larz
+16:07:34 : Side: juandayz: jf
+16:07:34 : Side: LarzuK: hola juan
+16:07:45 : Side: LarzuK: jf quien seria ?
+16:07:52 : Side: LarzuK: o sea , que nick 
+16:08:19 : Side: JF: Hola como estas Juan 
+16:08:37 : Side: juandayz: un chico q siempre esta :D  no se  jhon fitzgerald? :D
+16:09:13 : Side: JF: jaja!!
+16:10:04 : Side: juandayz: estoy inventado un sistema de granja
+16:10:16 : Side: LarzuK: como seria eso ?
+16:10:29 : Side: juandayz: agregue la pala viste al trade?
+16:10:32 : Side: JF: barbaro
+16:10:48 : Side: juandayz: con click derecho a la pala podes hacer varias cosas
+16:11:09 : Side: juandayz: por ejemplo para sembrar, necesitas un espantapajaros cerca. q lo podes hacer
+16:11:43 : Side: juandayz: despues podes sembrar, zapallo, maiz, y te por ahora.
+16:12:18 : Side: juandayz: de esas 3 cosas obtenes 1 lata de sopa de zapallo, 1 lata de maiz, una lata de te.. cuando las cosechas
+16:12:47 : Side: juandayz: despues, con un corral cerca, podes criar animales y comerlos
+16:13:04 : Side: LarzuK: criar animales ?
+16:13:06 : Side: LarzuK: zarpado
+16:13:08 : Side: juandayz: si
+16:13:21 : Side: LarzuK: pero de donde sacaste para hacer estas cosas ?
+16:13:30 : Side: juandayz: las invente :D
+16:13:30 : Side: LarzuK: yo nunca las vi , al menos en el epoch
+16:13:36 : Side: juandayz: no no existen
+16:13:52 : Side: juandayz: osea me queme el cerebro toda la noche
+16:14:01 : Side: LarzuK: aguantaaahh!
+16:14:09 : Side: juandayz: jjaja que?
+16:14:30 : Side: LarzuK: jajaj , nada , dije aguantah ! , una expresion
+16:14:41 : Side: LarzuK: asi que el servidor tiene scripts propios
+16:14:46 : Side: LarzuK: toma vos
+16:14:46 : Side: juandayz: si
+16:14:52 : Side: LarzuK: y no hay que descargarse nada
+16:14:56 : Side: LarzuK: aparte
+16:14:57 : Side: juandayz: no
+16:15:11 : Side: LarzuK: jaja , te felicito juan
+16:15:11 : Side: juandayz: no viste el otro sistema de trabajo made in universe tambien?
+16:15:31 : Side: LarzuK: vi que estan los puntos en el mapa , pero no fui a probarlo todavia , cuando me pase por ahi
+16:15:48 : Side: juandayz: que revolves en la basura, trabajas en la cantera, en el chatarrero, en el arsenal. en el acerradero
+16:16:03 : Side: LarzuK: sisi , vi el video
+16:16:23 : Side: juandayz: perate q te transporto y t muestro como es lo de la granja mas o menos
+16:16:33 : Side: LarzuK: bancaw
+16:19:21 : Side: LarzuK: listo
+16:19:25 : Side: juandayz: ah y le agregue plantar bandera pornoo :D ajaj
+16:19:47 : Side: juandayz: mira
+16:19:53 : Side: LarzuK: ah si la vi a la bandera
+16:19:58 : Side: juandayz: ahh ok
+16:20:06 : Side: juandayz: toma
+16:20:25 : Side: LarzuK: zombie parts seria la semilla ?
+16:20:29 : Side: juandayz: si
+16:21:01 : Side: LarzuK: ah me dice que necesito plot
+16:21:19 : Side: juandayz: perate q saco este
+16:21:51 : Side: juandayz: ahi ta la pala de afianzar
+16:21:58 : Side: LarzuK: estoy viendo la caja , no saco nada eh
+16:22:12 : Side: LarzuK: tiene todos los objetos del juego ,ajaja
+16:22:20 : Side: juandayz: si de ahi saco los ids
+16:22:24 : Side: juandayz: de los q no estan
+16:23:14 : Side: juandayz: creo q eran 2 partes de zombies, 1 botella de agua y un tronco para sembrar
+16:23:54 : Side: juandayz: eso despues, tengo q agregar por click derecho a un libro para que llame las instrucciones de sembradio y cria
+16:24:10 : Side: juandayz: asi se hace mas facil
+16:24:13 : Side: LarzuK: y la botella ?
+16:24:42 : Side: juandayz: ahi ta
+16:24:51 : Side: LarzuK: no la veo por el pasto
+16:25:02 : Side: juandayz: ahi hay otra
+16:26:22 : Side: juandayz: en 1 minuto o 2 crece la planta
+16:26:33 : Side: LarzuK: dijo 1 minuto y ya spawneo
+16:26:36 : Side: LarzuK: jajaa como es
+16:26:41 : Side: juandayz: es el base eso
+16:26:50 : Side: juandayz: ahora se va a convertir en lo q sembraste
+16:26:55 : Side: LarzuK: ahhh
+16:27:07 : Side: juandayz: lo tengo q cambiar por un monton de tierra a eso
+16:27:11 : Side: juandayz: asi qeda mas real
+16:27:58 : Side: juandayz: q plantaste mariguana no?
+16:28:15 : Side: juandayz: detras
+16:28:27 : Side: LarzuK: nope
+16:28:32 : Side: juandayz: aca esta
+16:28:44 : Side: juandayz: click derecho al cuchillo
+16:28:46 : Side: LarzuK: boggieman creo que pusea
+16:29:08 : Side: juandayz: clik derecho al hemp
+16:29:11 : Side: juandayz: smoke
+16:29:28 : Side: LarzuK: ah , vos sabes que le di a cosechar semillasa
+16:29:47 : Side: LarzuK: ah , es lo mismo no ?
+16:29:59 : Side: juandayz: cut drugs flowers seria
+16:30:01 : Side: LarzuK: la droga y la semilla es lo mismo , la podes fumar o plantar
+16:30:25 : Side: juandayz: no tenes un hemp en el inventario?
+16:30:32 : Side: LarzuK: sese
+16:30:39 : Side: juandayz: hacele click derecho
+16:30:47 : Side: juandayz: eso es la cosecha de la droga
+16:30:52 : Side: LarzuK: ja mira un heli crash alla
+16:31:04 : Side: LarzuK: todos de colores
+16:31:15 : Side: LarzuK: hue,  y no tiene musica o algo ?
+16:31:20 : Side: juandayz: jjaja no
+16:31:27 : Side: juandayz: igual eso de la droga ya existia
+16:31:37 : Side: juandayz: yo solamente le cambie q se pueda plantar
+16:31:48 : Side: LarzuK: jaja , ta
+16:31:58 : Side: LarzuK: en un server te ponian smoke weed every day
+16:32:39 : Side: juandayz: ahi ta el zapallo
+16:32:45 : Side: LarzuK: y lo del portugues esta puesto a proposito ?
+16:32:54 : Side: LarzuK: en español y en portugues ?
+16:32:59 : Side: juandayz: si, para los brazucas, esp y por
+16:33:16 : Side: juandayz: habia tres q entraban y me pidieron por q no entendian las cosas
+16:33:21 : Side: LarzuK: ah  copado, yo tengo un grupo de rust de 1300 personas , jaja , la mitad son brazucas
+16:33:50 : Side: juandayz: con el machete se cosecha el zapallo y el maiz
+16:34:08 : Side: juandayz: ahora tengo que meter la cosina esa tipo salamandra viste?
+16:34:16 : Side: LarzuK: para que ?
+16:34:24 : Side: juandayz: para q metiendo carne se pueda cocinar
+16:34:31 : Side: juandayz: seria lo mismo q la fogata
+16:34:41 : Side: LarzuK: claro , pero no necesitarias fuegow
+16:34:46 : Side: LarzuK: ni firebarrel
+16:34:47 : Side: juandayz: cosecha
+16:34:50 : Side: LarzuK: eso esta muy bueno
+16:34:57 : Side: juandayz: toma el machete
+16:35:03 : Side: LarzuK: para quen o te vean mientras cocinas
+16:35:30 : Side: juandayz: claro aparte ya te queda armada en tu  base
+16:35:52 : Side: juandayz: no tenes q andar haciendo fgata cada vez
+16:35:56 : Side: LarzuK: ja pedazo de zappallo
+16:36:03 : Side: juandayz: click derecho al machete
+16:36:11 : Side: juandayz: harvestpumpkins
+16:36:29 : Side: juandayz: te dio una lata de sopa?
+16:36:37 : Side: LarzuK: estaria copado que tengan buen precio estas sopas
+16:36:41 : Side: LarzuK: sisi
+16:36:52 : Side: LarzuK: no te digo carisimo , pero un precio razonable
+16:36:55 : Side: juandayz: si despues voy a agregar un trade solamente granjero
+16:36:56 : Side: LarzuK: cosa que se puedan vender
+16:37:08 : Side: juandayz: q venda el martillo, la pala, y las demas cosas
+16:37:12 : Side: LarzuK: o sea , que el trabajo que te tomo todo , lo puedas ganar en plata
+16:37:36 : Side: juandayz: ah tengo ahi a medio hacer tambien el estanque para criar pescados :D
+16:37:48 : Side: LarzuK: ese esta bueno tambien
+16:38:01 : Side: LarzuK: che, y cuando pones la planta te dura despues  del restart ?
+16:38:08 : Side: juandayz: despues, tambien podes armar un pozo de agua en tu base
+16:38:16 : Side: juandayz: pero necesitas cinder
+16:38:21 : Side: juandayz: y otras cosas
+16:38:38 : Side: juandayz: de ahi tenes agua en la base de por vida :P
+16:39:33 : Side: LarzuK: alta ecocasa se hacia
+16:39:56 : Side: LarzuK: jajaj porque estas asi ?
+16:40:04 : Side: juandayz: jaja le tengo q cambiar la animacion :D
+16:40:12 : Side: LarzuK: ajjaa parece todo drogado
+16:40:14 : Side: juandayz: estaba probando animaciones para esto
+16:40:25 : Side: juandayz: jajajajajaaj
+16:40:31 : Side: LarzuK: ajaja un mono pareced
+16:40:50 : Side: juandayz: ahi crecio la gallina :D
+16:41:08 : Side: LarzuK: podes crer que yo no la veo
+16:41:15 : Side: LarzuK: veo la opcion achurar animal
+16:41:17 : Side: juandayz: achurar y despues la carne se puede cocinar
+16:41:23 : Side: LarzuK: pero la gallina no la vi
+16:41:33 : Side: juandayz: ahi mismo esta
+16:41:36 : Side: LarzuK: ah para , si , ahi esta
+16:41:59 : Side: juandayz: despues s pueden criar jabalies, conejos y vacas
+16:42:24 : Side: juandayz: pero para eso necesitas un galponsito de animales en vez del espantapajaros
+16:43:20 : Side: LarzuK: pero
+16:43:25 : Side: LarzuK: el galpon
+16:43:30 : Side: LarzuK: que galpon es ? de los grandes ?
+16:43:38 : Side: juandayz: no no, chiquito
+16:43:49 : Side: juandayz: como para q entre en el area del plot
+16:43:56 : Side: LarzuK: ah
+16:44:01 : Side: juandayz: viste como el sheed storage?
+16:44:06 : Side: LarzuK: se
+16:44:11 : Side: juandayz: un poco mas chico
+16:44:31 : Side: juandayz: te doy el martillo
+16:44:51 : Side: juandayz: jajaaj 5 as50 jajaja
+16:44:54 : Side: LarzuK: xd
+16:44:58 : Side: LarzuK: la tentacion
+16:45:06 : Side: juandayz: agarra el martillo
+16:45:14 : Side: LarzuK: igual quedas re en evidencia si tenes esa arma
+16:45:22 : Side: LarzuK: te aparece a la izquierda arriba 
+16:45:24 : Side: juandayz: ensima la termica es :D
+16:45:35 : Side: juandayz: tenes el martillo?
+16:45:48 : Side: LarzuK: en la mochila no
+16:45:53 : Side: juandayz: aca en el piso
+16:46:00 : Side: LarzuK: esta como arma
+16:46:01 : Side: juandayz: en la mochi no te entra mas nada :D
+16:46:22 : Side: juandayz: -
+16:46:27 : Side: LarzuK: ahi
+16:46:28 : Side: juandayz: vamo a la cantera
+16:46:29 : Side: LarzuK: listo
+16:46:35 : Side: juandayz: ponete el martillo en la mano
+16:47:41 : Side: juandayz: ahi
+16:47:45 : Side: juandayz: no no para
+16:47:50 : Side: LarzuK: ah si con la ruedita
+16:47:52 : Side: juandayz: usa el scrol
+16:47:55 : Side: LarzuK: a este lo vi en un server
+16:48:02 : Side: LarzuK: ta bueno
+16:48:17 : Side: juandayz: esta basado en el mining pero modificado para conseguir otros materiales
+16:48:32 : Side: LarzuK: ah , los ladrillos
+16:48:54 : Side: LarzuK: ah , pero tenes menos chances de conseguir
+16:48:55 : Side: juandayz: y chuky le cambio las probabilidades para que sea mas dificil de conseguir
+16:48:57 : Side: LarzuK:  o no ?
+16:49:02 : Side: LarzuK: ta bien
+16:49:14 : Side: juandayz: si aca esta 100/600
+16:49:22 : Side: LarzuK: seria como , fabricar ladrillos , pero mas real
+16:49:25 : Side: juandayz: en el basurero 100/1000
+16:49:44 : Side: juandayz: en el aserradero 100/300
+16:49:46 : Side: LarzuK: en el basurero necesitas algo ?
+16:49:47 : Side: juandayz: y asi
+16:49:57 : Side: juandayz: en el basurero pala y barreta
+16:50:10 : Side: juandayz: en el aserradero, hacha y machete
+16:50:22 : Side: juandayz: en el chatarrero barreta y toolbox
+16:50:22 : Side: LarzuK: con cualquiera de las 2 ? o las 2 si o si ?
+16:50:29 : Side: juandayz: las 2 si o si
+16:50:37 : Side: juandayz: una en mano y la otra en el inventario
+16:50:50 : Side: juandayz: y en el arsenal fabricas municion
+16:50:52 : Side: LarzuK: ah ta
+16:51:33 : Side: juandayz: aca es barreta en mano
+16:52:10 : Side: LarzuK: y aca que probabilidad es ?
+16:52:18 : Side: juandayz: 100/1000
+16:52:38 : Side: LarzuK: 1/8 creo que estaria mas accesible
+16:52:42 : Side: juandayz: el mining era 100/100 jaaj
+16:52:50 : Side: juandayz: demaciadas joyas salian
+16:52:55 : Side: LarzuK: jajaj
+16:53:29 : Side: juandayz: sa58 x 30 arme :D
+16:54:03 : Side: juandayz: basurero
+16:54:11 : Side: juandayz: barreta en mano y pala
+16:54:34 : Side: LarzuK: mmm , estos zombis , jajaja
+16:55:08 : Side: LarzuK: mango de la maza
+16:55:11 : Side: juandayz: aca encontras pilas, libros
+16:55:13 : Side: LarzuK: jeje
+16:55:18 : Side: juandayz: todos los items raros
+16:55:26 : Side: LarzuK: pilas para que ?
+16:55:28 : Side: LarzuK: jjeje
+16:55:35 : Side: juandayz: se puede armar cargas explosivas
+16:55:44 : Side: LarzuK: chaaa
+16:55:50 : Side: LarzuK: con las pilas ? y que mas ?
+16:55:54 : Side: juandayz: granadas+pilas+maletin vacio+radio + reloj
+16:56:09 : Side: LarzuK: muy piola
+16:56:41 : Side: juandayz: en vez de comprarlas en el trade a 250 000 las venis a cirujear aca para armarlas :D
+16:57:21 : Side: juandayz: vamo al chatarrero
+16:57:40 : Side: LarzuK: tenes que cirujear entre varios 
+16:57:52 : Side: juandayz: claro
+16:58:00 : Side: juandayz: tendria q haber uno cubriendo ademas
+16:58:08 : Side: juandayz: por q te pueden cagar un tiro
+16:59:20 : Side: juandayz: despues habia agregado q se le pueda sacar aceite a los vehiculos rotos estos.. pero lo saque a la mierda
+16:59:25 : Side: LarzuK: jaja pero te metes en uno de estos edificios y la campeas
+16:59:42 : Side: juandayz: jajaj y si,, es zona sin safe
+16:59:55 : Side: LarzuK: el aceite 2t estaria bueno encontrar
+17:01:07 : Side: LarzuK: che y el naufragio pesquero le quedo algo al final ?
+17:01:37 : Side: juandayz: hay una caja de armas ahi
+17:01:43 : Side: juandayz: aveces esta aveeces no
+17:01:48 : Side: LarzuK: aahh
+17:01:50 : Side: LarzuK: ajaja
+17:02:55 : Side: juandayz: ah me falta el machete
+17:02:57 : Side: LarzuK: me tira cadena roja cada 2 por 3 , porque sera ?a
+17:03:45 : Side: LarzuK: aca hay zapallos ,ajaja
+17:04:05 : Side: juandayz: si los puse el otro dia cuanddo hize la primer prueba
+17:04:15 : Side: juandayz: ahora necesitas el espantapajaros
+17:04:27 : Side: LarzuK: ah pero te deja construir en las fabricas ?
+17:04:31 : Side: LarzuK: en estas zonas ?
+17:04:42 : Side: juandayz: no, por q necesitas el espantapajaros
+17:04:55 : Side: juandayz: a menos qu pppppongas un plot en la fabrica
+17:04:56 : Side: LarzuK: pero digo , te deja poner plot aca ?
+17:05:16 : Side: juandayz: si no esta reestringido en ciudades la construccion del plot
+17:05:34 : Side: juandayz: si vos quisieras podes tomar el aserradero
+17:05:41 : Side: LarzuK: ah mira
+17:05:49 : Side: LarzuK: y eso estaria bueno o seria medio choto ¡?
+17:06:24 : Side: juandayz: y q se yo, yo lo deje asi por q por ej en el sobreviventes me rompia las bolas tenerq estar a 1000 de una ciudad para poder hacer base
+17:06:46 : Side: LarzuK: ah si , tenes razon
+17:07:09 : Side: juandayz: igual, se puede resstringir solo en estas areas
+17:07:19 : Side: LarzuK: pero igual solo habria que permitir construir con madera en las fabricas
+17:07:33 : Side: LarzuK: o restringirlas directamente 
+17:07:35 : Side: juandayz: el script esta echo para q te tome como area de trabajo cuando te acercas a esa bandera
+17:07:58 : Side: juandayz: seria cuestion de agregar Flag_blabla  a la reestriccion
+17:08:20 : Side: LarzuK: ta
+17:09:18 : Side: LarzuK: ja tengo otro teclado y a la tecla esa no la tengo
+17:09:21 : Side: LarzuK: xd
+17:09:36 : Side: LarzuK: lo tengo que configurar
+17:09:49 : Side: juandayz: ajajaj re pajeros eram se sentaban a contemplar la bandera porno
+17:09:58 : Side: LarzuK: jaja
+17:10:38 : Side: LarzuK: che  me llevas al mercado central ?
+17:10:47 : Side: LarzuK: me da paja ir  jajaj
+17:11:06 : Side: LarzuK: ah te queria preguntar
+17:11:13 : Side: LarzuK: va , avisar
+17:11:18 : Side: LarzuK: estos autos se pueden towear
+17:11:19 : Side: edgar: Holaa
+17:11:24 : Side: juandayz: no ya no
+17:11:30 : Side: LarzuK: ah joya
+17:11:32 : Side: juandayz: hola edgar
+17:12:18 : Side: edgar: ya se puede aser mantenimiento alas bases?
+17:12:31 : Side: juandayz: los vehiculos cerrados, no se pueden liftear ni remolcar ahora
+17:12:37 : Side: juandayz: y van con god mode
+17:13:03 : Side: LarzuK: las bases con que se mantienen ? con oro o coins ?
+17:13:42 : Side: juandayz: no se mantienen, le saque el damage, por q estaba desapareciendo, hay q ver si lo tomoooooo.
+17:14:05 : Side: LarzuK: las bases van a ser indestructibles ?
+17:14:05 : Side: edgar: la mia se esta desapariciendo
+17:14:40 : Side: juandayz: jaja se te caen los pisos :D
+17:15:04 : Side: edgar: si seme ban a caer los helis
+19:01:46 : Side: Alan: HOLAA
+19:02:08 : Side: edgar: Hola
+19:02:18 : Side: LarzuK: hola
+19:02:18 : Side: Alan: ehh soy nuevo en el juegoo
+19:02:25 : Side: Alan: no entiendo nadaa
+19:03:07 : Side: Alan: QUIEN ES ESTO
+19:03:09 : Side: Alan: ESTE
+19:03:12 : Side: edgar: soy yo
+19:03:18 : Side: Alan: ahh jaja
+19:03:23 : Side: Alan: como subo los fps
+19:03:25 : Side: Alan: 13 fps q mierda
+19:03:30 : Side: edgar: xD
+19:03:38 : Side: edgar: bajale los graficos
+19:04:46 : Side: Alan: 15 fps q mierda, jaja los tengo en normal
+19:04:52 : Side: Alan: y este juego tendria q andarme bien xd
+19:05:07 : Side: edgar: entonces bajale a minimo
+19:05:20 : Side: juandayz: yo lo uso todo en bajo si no es imposible.. esta re mal renderizado el arma2
+19:05:45 : Side: juandayz: larz
+19:05:48 : Side: Alan: si bastante mal, 20 fps
+19:05:56 : Side: LarzuK: estoy 
+19:06:08 : Side: juandayz: tenes idea que es "motton" ? :S
+19:06:11 : Side: Alan: que tengo q hacer en este juego
+19:06:22 : Side: LarzuK: motton ?
+19:06:27 : Side: LarzuK: en el arma "? 
+19:06:37 : Side: Alan: si soy nuevo en este juego
+19:06:38 : Side: juandayz: si o en ingles
+19:06:41 : Side: Alan: recien acabo de descargarlo
+19:06:51 : Side: juandayz: tenes q sobrevivir en el juego alan
+19:07:02 : Side: Alan: ahh, pero donde consigo armas
+19:07:06 : Side: Alan: y esas cosas, vi videos
+19:07:12 : Side: juandayz: de los zombies, de los jugadores, del hambre, el frio, la falta de sangre
+19:07:15 : Side: Alan: pero ni se donde estoy en el mapa jaja
+19:07:19 : Side: juandayz: apreta m
+19:07:28 : Side: juandayz: y te va a salir un "IM HERE"ç
+19:07:52 : Side: Alan: ahhh venite asi me llevas a algunos lugares jaja
+19:08:16 : Side: LarzuK: ?
+19:08:53 : Side: juandayz: este edgar hace plata negociando con los traders en movimiento.. ¬¬ como 5 suv artilladas tiene
+19:09:01 : Side: edgar: xD
+19:09:07 : Side: edgar: tenia 5m
+19:09:10 : Side: Alan: veni edgarr vengan jaja
+20:13:16 : Side: JF: hola !!
+20:13:29 : Side: edgar: Hola
+20:29:39 : Side: LarzuK: dale edgar
+20:31:24 : Side: LarzuK: dale edgar
+20:31:38 : Side: LarzuK: media pila
+20:31:50 : Side: edgar: espera
+20:31:58 : Side: LarzuK: te asustaste y empezaste a disparar _
+20:32:01 : Side: LarzuK: ?
+20:32:04 : Side: edgar: no
+20:32:10 : Side: edgar: te quise matar pero
+20:32:17 : Side: edgar: no pude apuntar bien
+20:32:35 : Side: LarzuK: estaba haciendo la base, somos 5 en todo el server
+20:32:43 : Side: LarzuK: jaja , espera a que la termine al menos
+20:34:35 : Side: edgar: andas cerca de tu base_
+20:34:41 : Side: LarzuK: se
+20:34:42 : Side: edgar: ?
+20:34:48 : Side: edgar: yo estoy dentro
+20:34:51 : Side: edgar: xD
+20:34:54 : Side: LarzuK: te dejo llevar tu cuerpo
+22:09:53 : Side: Alan: q joraca paso
+22:10:04 : Side: Mades: ?
+22:10:08 : Side: Vassili ZaitseV: ?
+22:10:16 : Side: Alan: juan
+22:10:22 : Side: Mades: Two
+22:10:53 : Side: Alan: por q tiembla mi pantalla ?
+22:11:01 : Side: Mades: Painkillers?
+22:15:27 : Side: Alan: juann
+22:18:07 : Side: Alan: como me fijo los jugadores q estan conectados ?
+22:18:13 : Side: Mades: Con la P
+22:18:50 : Side: Alan: ahh gracias
+22:19:02 : Side: Mades: de nada
+22:37:17 : Side: Alan: juan estas ?
+22:41:43 : Side: Alan: asd
+22:41:46 : Side: Alan: Juann
+22:42:23 : Side: Alan: por q se me puso un microfono en celestito
+22:42:33 : Side: Alan: alado del muñeco
+22:42:39 : Side: Mades: Hablaste por el chat
+22:58:15 : Side: Alan: JUANNN
+22:58:22 : Side: Alan: no volvio juan ? jaja
+22:58:26 : Side: Mades: TWOOOOO
+22:58:28 : Side: Mades: No parece
+23:01:57 : Side: Alan: que les paso ? xd
+23:03:26 : Side: Alan: que les paso ?

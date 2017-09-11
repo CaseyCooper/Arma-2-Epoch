@@ -1,0 +1,887 @@
+16:01:47 : Side: LarzuK: buenas
+16:02:02 : Side: LarzuK: che y ese avion que se escucha pasar a veces ?
+16:03:22 : Side: JF: UN CAZA QUE SUELE TIRAR BOMBAS EN ALGUNAS CIUDADES
+16:03:52 : Side: LarzuK: ta re locou
+16:03:59 : Side: LarzuK: ajja , pero te ve y te ataca ?
+16:04:02 : Side: LarzuK: o no ?
+16:07:28 : Side: juandayz: hola larz
+16:07:34 : Side: juandayz: jf
+16:07:34 : Side: LarzuK: hola juan
+16:07:45 : Side: LarzuK: jf quien seria ?
+16:07:52 : Side: LarzuK: o sea , que nick 
+16:08:19 : Side: JF: Hola como estas Juan 
+16:08:37 : Side: juandayz: un chico q siempre esta :D  no se  jhon fitzgerald? :D
+16:09:13 : Side: JF: jaja!!
+16:10:04 : Side: juandayz: estoy inventado un sistema de granja
+16:10:16 : Side: LarzuK: como seria eso ?
+16:10:29 : Side: juandayz: agregue la pala viste al trade?
+16:10:32 : Side: JF: barbaro
+16:10:48 : Side: juandayz: con click derecho a la pala podes hacer varias cosas
+16:11:09 : Side: juandayz: por ejemplo para sembrar, necesitas un espantapajaros cerca. q lo podes hacer
+16:11:43 : Side: juandayz: despues podes sembrar, zapallo, maiz, y te por ahora.
+16:12:18 : Side: juandayz: de esas 3 cosas obtenes 1 lata de sopa de zapallo, 1 lata de maiz, una lata de te.. cuando las cosechas
+16:12:47 : Side: juandayz: despues, con un corral cerca, podes criar animales y comerlos
+16:13:04 : Side: LarzuK: criar animales ?
+16:13:06 : Side: LarzuK: zarpado
+16:13:08 : Side: juandayz: si
+16:13:21 : Side: LarzuK: pero de donde sacaste para hacer estas cosas ?
+16:13:30 : Side: juandayz: las invente :D
+16:13:30 : Side: LarzuK: yo nunca las vi , al menos en el epoch
+16:13:36 : Side: juandayz: no no existen
+16:13:52 : Side: juandayz: osea me queme el cerebro toda la noche
+16:14:01 : Side: LarzuK: aguantaaahh!
+16:14:09 : Side: juandayz: jjaja que?
+16:14:30 : Side: LarzuK: jajaj , nada , dije aguantah ! , una expresion
+16:14:41 : Side: LarzuK: asi que el servidor tiene scripts propios
+16:14:46 : Side: LarzuK: toma vos
+16:14:46 : Side: juandayz: si
+16:14:52 : Side: LarzuK: y no hay que descargarse nada
+16:14:56 : Side: LarzuK: aparte
+16:14:57 : Side: juandayz: no
+16:15:11 : Side: LarzuK: jaja , te felicito juan
+16:15:11 : Side: juandayz: no viste el otro sistema de trabajo made in universe tambien?
+16:15:31 : Side: LarzuK: vi que estan los puntos en el mapa , pero no fui a probarlo todavia , cuando me pase por ahi
+16:15:48 : Side: juandayz: que revolves en la basura, trabajas en la cantera, en el chatarrero, en el arsenal. en el acerradero
+16:16:03 : Side: LarzuK: sisi , vi el video
+16:16:23 : Side: juandayz: perate q te transporto y t muestro como es lo de la granja mas o menos
+16:16:33 : Side: LarzuK: bancaw
+16:19:21 : Side: LarzuK: listo
+16:19:25 : Side: juandayz: ah y le agregue plantar bandera pornoo :D ajaj
+16:19:47 : Side: juandayz: mira
+16:19:53 : Side: LarzuK: ah si la vi a la bandera
+16:19:58 : Side: juandayz: ahh ok
+16:20:06 : Side: juandayz: toma
+16:20:25 : Side: LarzuK: zombie parts seria la semilla ?
+16:20:29 : Side: juandayz: si
+16:21:01 : Side: LarzuK: ah me dice que necesito plot
+16:21:19 : Side: juandayz: perate q saco este
+16:21:51 : Side: juandayz: ahi ta la pala de afianzar
+16:21:58 : Side: LarzuK: estoy viendo la caja , no saco nada eh
+16:22:12 : Side: LarzuK: tiene todos los objetos del juego ,ajaja
+16:22:20 : Side: juandayz: si de ahi saco los ids
+16:22:24 : Side: juandayz: de los q no estan
+16:23:14 : Side: juandayz: creo q eran 2 partes de zombies, 1 botella de agua y un tronco para sembrar
+16:23:54 : Side: juandayz: eso despues, tengo q agregar por click derecho a un libro para que llame las instrucciones de sembradio y cria
+16:24:10 : Side: juandayz: asi se hace mas facil
+16:24:13 : Side: LarzuK: y la botella ?
+16:24:42 : Side: juandayz: ahi ta
+16:24:51 : Side: LarzuK: no la veo por el pasto
+16:25:02 : Side: juandayz: ahi hay otra
+16:26:22 : Side: juandayz: en 1 minuto o 2 crece la planta
+16:26:33 : Side: LarzuK: dijo 1 minuto y ya spawneo
+16:26:36 : Side: LarzuK: jajaa como es
+16:26:41 : Side: juandayz: es el base eso
+16:26:50 : Side: juandayz: ahora se va a convertir en lo q sembraste
+16:26:55 : Side: LarzuK: ahhh
+16:27:07 : Side: juandayz: lo tengo q cambiar por un monton de tierra a eso
+16:27:11 : Side: juandayz: asi qeda mas real
+16:27:58 : Side: juandayz: q plantaste mariguana no?
+16:28:15 : Side: juandayz: detras
+16:28:27 : Side: LarzuK: nope
+16:28:32 : Side: juandayz: aca esta
+16:28:44 : Side: juandayz: click derecho al cuchillo
+16:28:46 : Side: LarzuK: boggieman creo que pusea
+16:29:08 : Side: juandayz: clik derecho al hemp
+16:29:11 : Side: juandayz: smoke
+16:29:28 : Side: LarzuK: ah , vos sabes que le di a cosechar semillasa
+16:29:47 : Side: LarzuK: ah , es lo mismo no ?
+16:29:59 : Side: juandayz: cut drugs flowers seria
+16:30:01 : Side: LarzuK: la droga y la semilla es lo mismo , la podes fumar o plantar
+16:30:25 : Side: juandayz: no tenes un hemp en el inventario?
+16:30:32 : Side: LarzuK: sese
+16:30:39 : Side: juandayz: hacele click derecho
+16:30:47 : Side: juandayz: eso es la cosecha de la droga
+16:30:52 : Side: LarzuK: ja mira un heli crash alla
+16:31:04 : Side: LarzuK: todos de colores
+16:31:15 : Side: LarzuK: hue,  y no tiene musica o algo ?
+16:31:20 : Side: juandayz: jjaja no
+16:31:27 : Side: juandayz: igual eso de la droga ya existia
+16:31:37 : Side: juandayz: yo solamente le cambie q se pueda plantar
+16:31:48 : Side: LarzuK: jaja , ta
+16:31:58 : Side: LarzuK: en un server te ponian smoke weed every day
+16:32:39 : Side: juandayz: ahi ta el zapallo
+16:32:45 : Side: LarzuK: y lo del portugues esta puesto a proposito ?
+16:32:54 : Side: LarzuK: en español y en portugues ?
+16:32:59 : Side: juandayz: si, para los brazucas, esp y por
+16:33:16 : Side: juandayz: habia tres q entraban y me pidieron por q no entendian las cosas
+16:33:21 : Side: LarzuK: ah  copado, yo tengo un grupo de rust de 1300 personas , jaja , la mitad son brazucas
+16:33:50 : Side: juandayz: con el machete se cosecha el zapallo y el maiz
+16:34:08 : Side: juandayz: ahora tengo que meter la cosina esa tipo salamandra viste?
+16:34:16 : Side: LarzuK: para que ?
+16:34:24 : Side: juandayz: para q metiendo carne se pueda cocinar
+16:34:31 : Side: juandayz: seria lo mismo q la fogata
+16:34:41 : Side: LarzuK: claro , pero no necesitarias fuegow
+16:34:46 : Side: LarzuK: ni firebarrel
+16:34:47 : Side: juandayz: cosecha
+16:34:50 : Side: LarzuK: eso esta muy bueno
+16:34:57 : Side: juandayz: toma el machete
+16:35:03 : Side: LarzuK: para quen o te vean mientras cocinas
+16:35:30 : Side: juandayz: claro aparte ya te queda armada en tu  base
+16:35:52 : Side: juandayz: no tenes q andar haciendo fgata cada vez
+16:35:56 : Side: LarzuK: ja pedazo de zappallo
+16:36:03 : Side: juandayz: click derecho al machete
+16:36:11 : Side: juandayz: harvestpumpkins
+16:36:29 : Side: juandayz: te dio una lata de sopa?
+16:36:37 : Side: LarzuK: estaria copado que tengan buen precio estas sopas
+16:36:41 : Side: LarzuK: sisi
+16:36:52 : Side: LarzuK: no te digo carisimo , pero un precio razonable
+16:36:55 : Side: juandayz: si despues voy a agregar un trade solamente granjero
+16:36:56 : Side: LarzuK: cosa que se puedan vender
+16:37:08 : Side: juandayz: q venda el martillo, la pala, y las demas cosas
+16:37:12 : Side: LarzuK: o sea , que el trabajo que te tomo todo , lo puedas ganar en plata
+16:37:36 : Side: juandayz: ah tengo ahi a medio hacer tambien el estanque para criar pescados :D
+16:37:48 : Side: LarzuK: ese esta bueno tambien
+16:38:01 : Side: LarzuK: che, y cuando pones la planta te dura despues  del restart ?
+16:38:08 : Side: juandayz: despues, tambien podes armar un pozo de agua en tu base
+16:38:16 : Side: juandayz: pero necesitas cinder
+16:38:21 : Side: juandayz: y otras cosas
+16:38:38 : Side: juandayz: de ahi tenes agua en la base de por vida :P
+16:39:33 : Side: LarzuK: alta ecocasa se hacia
+16:39:56 : Side: LarzuK: jajaj porque estas asi ?
+16:40:04 : Side: juandayz: jaja le tengo q cambiar la animacion :D
+16:40:12 : Side: LarzuK: ajjaa parece todo drogado
+16:40:14 : Side: juandayz: estaba probando animaciones para esto
+16:40:25 : Side: juandayz: jajajajajaaj
+16:40:31 : Side: LarzuK: ajaja un mono pareced
+16:40:50 : Side: juandayz: ahi crecio la gallina :D
+16:41:08 : Side: LarzuK: podes crer que yo no la veo
+16:41:15 : Side: LarzuK: veo la opcion achurar animal
+16:41:17 : Side: juandayz: achurar y despues la carne se puede cocinar
+16:41:23 : Side: LarzuK: pero la gallina no la vi
+16:41:33 : Side: juandayz: ahi mismo esta
+16:41:36 : Side: LarzuK: ah para , si , ahi esta
+16:41:59 : Side: juandayz: despues s pueden criar jabalies, conejos y vacas
+16:42:24 : Side: juandayz: pero para eso necesitas un galponsito de animales en vez del espantapajaros
+16:43:20 : Side: LarzuK: pero
+16:43:25 : Side: LarzuK: el galpon
+16:43:30 : Side: LarzuK: que galpon es ? de los grandes ?
+16:43:38 : Side: juandayz: no no, chiquito
+16:43:49 : Side: juandayz: como para q entre en el area del plot
+16:43:56 : Side: LarzuK: ah
+16:44:01 : Side: juandayz: viste como el sheed storage?
+16:44:06 : Side: LarzuK: se
+16:44:11 : Side: juandayz: un poco mas chico
+16:44:31 : Side: juandayz: te doy el martillo
+16:44:51 : Side: juandayz: jajaaj 5 as50 jajaja
+16:44:54 : Side: LarzuK: xd
+16:44:58 : Side: LarzuK: la tentacion
+16:45:06 : Side: juandayz: agarra el martillo
+16:45:14 : Side: LarzuK: igual quedas re en evidencia si tenes esa arma
+16:45:22 : Side: LarzuK: te aparece a la izquierda arriba 
+16:45:24 : Side: juandayz: ensima la termica es :D
+16:45:35 : Side: juandayz: tenes el martillo?
+16:45:48 : Side: LarzuK: en la mochila no
+16:45:53 : Side: juandayz: aca en el piso
+16:46:00 : Side: LarzuK: esta como arma
+16:46:01 : Side: juandayz: en la mochi no te entra mas nada :D
+16:46:22 : Side: juandayz: -
+16:46:27 : Side: LarzuK: ahi
+16:46:28 : Side: juandayz: vamo a la cantera
+16:46:29 : Side: LarzuK: listo
+16:46:35 : Side: juandayz: ponete el martillo en la mano
+16:47:41 : Side: juandayz: ahi
+16:47:45 : Side: juandayz: no no para
+16:47:50 : Side: LarzuK: ah si con la ruedita
+16:47:52 : Side: juandayz: usa el scrol
+16:47:55 : Side: LarzuK: a este lo vi en un server
+16:48:02 : Side: LarzuK: ta bueno
+16:48:17 : Side: juandayz: esta basado en el mining pero modificado para conseguir otros materiales
+16:48:32 : Side: LarzuK: ah , los ladrillos
+16:48:54 : Side: LarzuK: ah , pero tenes menos chances de conseguir
+16:48:55 : Side: juandayz: y chuky le cambio las probabilidades para que sea mas dificil de conseguir
+16:48:57 : Side: LarzuK:  o no ?
+16:49:02 : Side: LarzuK: ta bien
+16:49:14 : Side: juandayz: si aca esta 100/600
+16:49:22 : Side: LarzuK: seria como , fabricar ladrillos , pero mas real
+16:49:25 : Side: juandayz: en el basurero 100/1000
+16:49:44 : Side: juandayz: en el aserradero 100/300
+16:49:46 : Side: LarzuK: en el basurero necesitas algo ?
+16:49:47 : Side: juandayz: y asi
+16:49:57 : Side: juandayz: en el basurero pala y barreta
+16:50:10 : Side: juandayz: en el aserradero, hacha y machete
+16:50:22 : Side: juandayz: en el chatarrero barreta y toolbox
+16:50:22 : Side: LarzuK: con cualquiera de las 2 ? o las 2 si o si ?
+16:50:29 : Side: juandayz: las 2 si o si
+16:50:37 : Side: juandayz: una en mano y la otra en el inventario
+16:50:50 : Side: juandayz: y en el arsenal fabricas municion
+16:50:52 : Side: LarzuK: ah ta
+16:51:33 : Side: juandayz: aca es barreta en mano
+16:52:10 : Side: LarzuK: y aca que probabilidad es ?
+16:52:18 : Side: juandayz: 100/1000
+16:52:38 : Side: LarzuK: 1/8 creo que estaria mas accesible
+16:52:42 : Side: juandayz: el mining era 100/100 jaaj
+16:52:50 : Side: juandayz: demaciadas joyas salian
+16:52:55 : Side: LarzuK: jajaj
+16:53:29 : Side: juandayz: sa58 x 30 arme :D
+16:54:03 : Side: juandayz: basurero
+16:54:11 : Side: juandayz: barreta en mano y pala
+16:54:34 : Side: LarzuK: mmm , estos zombis , jajaja
+16:55:08 : Side: LarzuK: mango de la maza
+16:55:11 : Side: juandayz: aca encontras pilas, libros
+16:55:13 : Side: LarzuK: jeje
+16:55:18 : Side: juandayz: todos los items raros
+16:55:26 : Side: LarzuK: pilas para que ?
+16:55:28 : Side: LarzuK: jjeje
+16:55:35 : Side: juandayz: se puede armar cargas explosivas
+16:55:44 : Side: LarzuK: chaaa
+16:55:50 : Side: LarzuK: con las pilas ? y que mas ?
+16:55:54 : Side: juandayz: granadas+pilas+maletin vacio+radio + reloj
+16:56:09 : Side: LarzuK: muy piola
+16:56:41 : Side: juandayz: en vez de comprarlas en el trade a 250 000 las venis a cirujear aca para armarlas :D
+16:57:21 : Side: juandayz: vamo al chatarrero
+16:57:40 : Side: LarzuK: tenes que cirujear entre varios 
+16:57:52 : Side: juandayz: claro
+16:58:00 : Side: juandayz: tendria q haber uno cubriendo ademas
+16:58:08 : Side: juandayz: por q te pueden cagar un tiro
+16:59:20 : Side: juandayz: despues habia agregado q se le pueda sacar aceite a los vehiculos rotos estos.. pero lo saque a la mierda
+16:59:25 : Side: LarzuK: jaja pero te metes en uno de estos edificios y la campeas
+16:59:42 : Side: juandayz: jajaj y si,, es zona sin safe
+16:59:55 : Side: LarzuK: el aceite 2t estaria bueno encontrar
+17:01:07 : Side: LarzuK: che y el naufragio pesquero le quedo algo al final ?
+17:01:37 : Side: juandayz: hay una caja de armas ahi
+17:01:43 : Side: juandayz: aveces esta aveeces no
+17:01:48 : Side: LarzuK: aahh
+17:01:50 : Side: LarzuK: ajaja
+17:02:55 : Side: juandayz: ah me falta el machete
+17:02:57 : Side: LarzuK: me tira cadena roja cada 2 por 3 , porque sera ?a
+17:03:45 : Side: LarzuK: aca hay zapallos ,ajaja
+17:04:05 : Side: juandayz: si los puse el otro dia cuanddo hize la primer prueba
+17:04:15 : Side: juandayz: ahora necesitas el espantapajaros
+17:04:27 : Side: LarzuK: ah pero te deja construir en las fabricas ?
+17:04:31 : Side: LarzuK: en estas zonas ?
+17:04:42 : Side: juandayz: no, por q necesitas el espantapajaros
+17:04:55 : Side: juandayz: a menos qu pppppongas un plot en la fabrica
+17:04:56 : Side: LarzuK: pero digo , te deja poner plot aca ?
+17:05:16 : Side: juandayz: si no esta reestringido en ciudades la construccion del plot
+17:05:34 : Side: juandayz: si vos quisieras podes tomar el aserradero
+17:05:41 : Side: LarzuK: ah mira
+17:05:49 : Side: LarzuK: y eso estaria bueno o seria medio choto ¡?
+17:06:24 : Side: juandayz: y q se yo, yo lo deje asi por q por ej en el sobreviventes me rompia las bolas tenerq estar a 1000 de una ciudad para poder hacer base
+17:06:46 : Side: LarzuK: ah si , tenes razon
+17:07:09 : Side: juandayz: igual, se puede resstringir solo en estas areas
+17:07:19 : Side: LarzuK: pero igual solo habria que permitir construir con madera en las fabricas
+17:07:33 : Side: LarzuK: o restringirlas directamente 
+17:07:35 : Side: juandayz: el script esta echo para q te tome como area de trabajo cuando te acercas a esa bandera
+17:07:58 : Side: juandayz: seria cuestion de agregar Flag_blabla  a la reestriccion
+17:08:20 : Side: LarzuK: ta
+17:09:18 : Side: LarzuK: ja tengo otro teclado y a la tecla esa no la tengo
+17:09:21 : Side: LarzuK: xd
+17:09:36 : Side: LarzuK: lo tengo que configurar
+17:09:49 : Side: juandayz: ajajaj re pajeros eram se sentaban a contemplar la bandera porno
+17:09:58 : Side: LarzuK: jaja
+17:10:38 : Side: LarzuK: che  me llevas al mercado central ?
+17:10:47 : Side: LarzuK: me da paja ir  jajaj
+17:11:06 : Side: LarzuK: ah te queria preguntar
+17:11:13 : Side: LarzuK: va , avisar
+17:11:18 : Side: LarzuK: estos autos se pueden towear
+17:11:19 : Side: edgar: Holaa
+17:11:24 : Side: juandayz: no ya no
+17:11:30 : Side: LarzuK: ah joya
+17:11:32 : Side: juandayz: hola edgar
+17:12:18 : Side: edgar: ya se puede aser mantenimiento alas bases?
+17:12:31 : Side: juandayz: los vehiculos cerrados, no se pueden liftear ni remolcar ahora
+17:12:37 : Side: juandayz: y van con god mode
+17:13:03 : Side: LarzuK: las bases con que se mantienen ? con oro o coins ?
+17:13:42 : Side: juandayz: no se mantienen, le saque el damage, por q estaba desapareciendo, hay q ver si lo tomoooooo.
+17:14:05 : Side: LarzuK: las bases van a ser indestructibles ?
+17:14:05 : Side: edgar: la mia se esta desapariciendo
+17:14:40 : Side: juandayz: jaja se te caen los pisos :D
+17:15:04 : Side: edgar: si seme ban a caer los helis
+17:16:39 : Direct: edgar: un fantasme
+17:17:31 : Direct: edgar: no te miro 
+17:20:15 : Direct: edgar: mmm son paredes pequeñas :(
+19:01:46 : Side: Alan: HOLAA
+19:02:08 : Side: edgar: Hola
+19:02:18 : Side: LarzuK: hola
+19:02:18 : Side: Alan: ehh soy nuevo en el juegoo
+19:02:25 : Side: Alan: no entiendo nadaa
+19:03:07 : Side: Alan: QUIEN ES ESTO
+19:03:09 : Side: Alan: ESTE
+19:03:12 : Side: edgar: soy yo
+19:03:18 : Side: Alan: ahh jaja
+19:03:23 : Side: Alan: como subo los fps
+19:03:25 : Side: Alan: 13 fps q mierda
+19:03:30 : Side: edgar: xD
+19:03:38 : Side: edgar: bajale los graficos
+19:04:46 : Side: Alan: 15 fps q mierda, jaja los tengo en normal
+19:04:52 : Side: Alan: y este juego tendria q andarme bien xd
+19:05:07 : Side: edgar: entonces bajale a minimo
+19:05:20 : Side: juandayz: yo lo uso todo en bajo si no es imposible.. esta re mal renderizado el arma2
+19:05:45 : Side: juandayz: larz
+19:05:48 : Side: Alan: si bastante mal, 20 fps
+19:05:56 : Side: LarzuK: estoy 
+19:06:08 : Side: juandayz: tenes idea que es "motton" ? :S
+19:06:11 : Side: Alan: que tengo q hacer en este juego
+19:06:22 : Side: LarzuK: motton ?
+19:06:27 : Side: LarzuK: en el arma "? 
+19:06:37 : Side: Alan: si soy nuevo en este juego
+19:06:38 : Side: juandayz: si o en ingles
+19:06:41 : Side: Alan: recien acabo de descargarlo
+19:06:51 : Side: juandayz: tenes q sobrevivir en el juego alan
+19:07:02 : Side: Alan: ahh, pero donde consigo armas
+19:07:06 : Side: Alan: y esas cosas, vi videos
+19:07:12 : Side: juandayz: de los zombies, de los jugadores, del hambre, el frio, la falta de sangre
+19:07:15 : Side: Alan: pero ni se donde estoy en el mapa jaja
+19:07:19 : Side: juandayz: apreta m
+19:07:28 : Side: juandayz: y te va a salir un "IM HERE"ç
+19:07:52 : Side: Alan: ahhh venite asi me llevas a algunos lugares jaja
+19:08:16 : Side: LarzuK: ?
+19:08:53 : Side: juandayz: este edgar hace plata negociando con los traders en movimiento.. ¬¬ como 5 suv artilladas tiene
+19:09:01 : Side: edgar: xD
+19:09:07 : Side: edgar: tenia 5m
+19:09:10 : Side: Alan: veni edgarr vengan jaja
+19:09:14 : Direct: juandayz: hola alan
+19:09:24 : Direct: Alan: holaa juan
+19:09:27 : Direct: juandayz: esto es el mercado central
+19:09:36 : Direct: Alan: si eso vi pero ni se que compr aca jaja
+19:09:44 : Direct: juandayz: aca podes comprar y vender todo tipo de items
+19:09:46 : Direct: juandayz: veni
+19:09:57 : Direct: juandayz: apuntale a ese
+19:10:02 : Direct: Alan: como
+19:10:04 : Direct: juandayz: gira la rueda del mouse
+19:10:10 : Direct: juandayz: y pone compra rapida
+19:10:14 : Direct: Alan: no me sale eso
+19:10:25 : Direct: juandayz: hace un click dercho
+19:10:50 : Direct: juandayz: sobre el tipo, y gira la rueda del moyue
+19:10:53 : Direct: Alan: me sale arma g17, ocultar estadistica y action menu
+19:11:21 : Direct: juandayz: :D frente al vago te tiene que salir COMPRA RAPIDA EN AZUL
+19:11:42 : Direct: Alan: jaja no me sale, con vos si me sale pero con el no
+19:12:00 : Direct: juandayz: no es cn migo, es con el
+19:12:08 : Direct: juandayz: apreta donde dice compra rapida
+19:12:23 : Direct: Alan: no no me sale
+19:12:25 : Direct: Alan: a ver con otro
+19:12:32 : Direct: Alan: con ella si
+19:12:32 : Direct: juandayz: osea giras la rueda, y cuando estas sobre compra rapida apretas la rueda
+19:12:48 : Direct: juandayz: si pones BUY
+19:12:56 : Direct: juandayz: te muestra todo lo q vende
+19:13:10 : Direct: juandayz: si pones sell te muestra que tenes vos para venderle
+19:13:23 : Direct: juandayz: esta vieja solo vende mochilas
+19:13:29 : Direct: Alan: ahh y donde consigo esos coins
+19:13:36 : Direct: juandayz: vendiendo cosas
+19:13:44 : Direct: juandayz: veni
+19:14:09 : Direct: Alan: a donde te fuiste
+19:14:21 : Direct: juandayz: espera q te voy a dar para q tegnas platas
+19:14:37 : Direct: Alan: a donde estas.. uhh muchisimas gracasi
+19:14:52 : Direct: juandayz: agarra ese maletin
+19:15:03 : Direct: juandayz: pasa la rueda, equipo
+19:15:23 : Direct: Alan: you are not allowed to open gear while near
+19:15:26 : Direct: Alan: eso me dice
+19:15:28 : Direct: juandayz: dale otra ve
+19:15:39 : Direct: Alan: ay esta
+19:15:43 : Direct: juandayz: veni
+19:15:58 : Direct: juandayz: este es el banquero
+19:16:03 : Direct: juandayz: vendele el maletin
+19:16:26 : Direct: Alan: wooo
+19:16:31 : Direct: Alan: 100mil coins
+19:16:33 : Direct: Alan: te amoo xd
+19:16:35 : Direct: juandayz: en la pantalla a la derecha tenes un icono de monedas.. te tiene q marcar 100.000
+19:16:46 : Direct: juandayz: ahora comprate una moto, veni
+19:16:47 : Direct: Alan: sii
+19:16:49 : Direct: Alan: ay lo vi
+19:17:05 : Direct: juandayz: este vende vehiculos
+19:17:13 : Direct: juandayz: no uses compra rapida
+19:17:18 : Direct: juandayz: usa TRADE
+19:17:24 : Direct: juandayz: para comprar vehiculos
+19:17:32 : Direct: Alan: ahh
+19:17:46 : Direct: juandayz: eleji la categoria bikes and atv
+19:17:46 : Direct: Alan: cual compro
+19:17:50 : Direct: Alan: ajam
+19:18:06 : Direct: juandayz: motocicleta
+19:18:41 : Direct: juandayz: eleji moto y pone buy
+19:19:02 : Direct: juandayz: a tu izq va a aparecer una flecha roja
+19:19:12 : Direct: juandayz: y despues la moto, ahi ta la moto
+19:19:23 : Direct: Alan: woo jaja
+19:19:23 : Direct: juandayz: apreta G
+19:19:30 : Direct: Alan: ta
+19:19:32 : Direct: juandayz: abre el inventario la g
+19:19:42 : Direct: juandayz: fijate que te dio una llave para la moto
+19:19:55 : Direct: Alan: no me deja
+19:20:01 : Direct: juandayz: no la pierdas, con eso la abris y la cerras para q no te la robe nadie
+19:20:11 : Direct: juandayz: apuntale a la moto
+19:20:17 : Direct: juandayz: rueda del mouse
+19:20:20 : Direct: Alan: dice q no tengo acceso
+19:20:21 : Direct: juandayz: unlock
+19:20:33 : Direct: Alan: ay esta
+19:20:44 : Direct: Alan: ajaja
+19:20:44 : Direct: juandayz: otra cosa
+19:20:51 : Direct: juandayz: fijate que 
+19:21:03 : Direct: juandayz: cuando giras la rueda sobre cualquier vehiculo
+19:21:16 : Direct: juandayz: tenes la opcion de Equipo y money storage
+19:21:24 : Direct: Alan: se
+19:21:24 : Direct: juandayz: en equipo podes guardar tus cosas
+19:21:30 : Direct: juandayz: dentro de la moto
+19:21:41 : Direct: juandayz: en money storage podes guardar el dinero
+19:21:54 : Direct: juandayz: por q si moris lo perdes todo
+19:22:03 : Direct: Alan: woo q mal eso jaja
+19:22:05 : Direct: Alan: la moto tmb ?
+19:22:08 : Direct: juandayz: no
+19:22:19 : Direct: juandayz: osea, reapareces y tenes q buscar tus cosas
+19:22:31 : Direct: juandayz: anda a comprar una carpa, veni
+19:22:31 : Direct: Alan: la moto no la puedo guardar ?
+19:22:42 : Direct: juandayz: si, tenes  q hacerte una casa
+19:23:12 : Direct: juandayz: aca
+19:23:19 : Direct: juandayz: compra camping tent
+19:23:19 : Direct: Alan: compra rapida o trade menu ?
+19:23:24 : Direct: juandayz: rapida
+19:23:32 : Direct: juandayz: trader menu, solo para vehiculos
+19:23:48 : Direct: Alan: no me sale nada
+19:24:07 : Direct: Alan: ay esta
+19:24:27 : Direct: juandayz: abri tu inventario con G
+19:24:34 : Direct: juandayz: y fijate ssssssi la tene
+19:24:40 : Direct: Alan: otra ves no me deja abrir mi mochila
+19:24:48 : Direct: juandayz: por q estas cerca mio
+19:25:00 : Direct: juandayz: es un anti robo en zonas de comercio eso
+19:25:02 : Direct: Alan: si la tengo
+19:25:07 : Direct: Alan: ahh
+19:25:21 : Direct: juandayz: bueno perate
+19:25:33 : Direct: Alan: ok
+19:25:36 : Direct: Alan: wow
+19:26:03 : Direct: Alan: omgg
+19:26:09 : Direct: juandayz: mira, podes remolcar autos
+19:26:17 : Direct: Alan: q bueno que estaaa jaja
+19:26:27 : Direct: juandayz: pasale la rueda del mouse
+19:26:30 : Direct: juandayz: y pone tow
+19:26:47 : Direct: Alan: ta
+19:26:49 : Direct: Alan: q paso con eso
+19:26:51 : Direct: juandayz: ahora a la moto
+19:27:02 : Direct: Alan: y ahora
+19:27:08 : Direct: juandayz: pera 
+19:27:33 : Direct: juandayz: es al revez
+19:27:47 : Direct: juandayz: primero tow al vehiculo q va a ser remolcado
+19:27:58 : Direct: juandayz: y despues tow, al vehiculo q va a remolcar
+19:28:07 : Direct: juandayz: tow a la moto
+19:28:15 : Direct: juandayz: tow a la camioneta
+19:28:23 : Direct: Alan: ta y ahora
+19:28:30 : Direct: juandayz: esta mal echo :D
+19:28:34 : Direct: Alan: jaja
+19:28:47 : Direct: juandayz: pones TOW en amarilloo eno la moto
+19:29:02 : Direct: juandayz: y tow selected no se que en blanco en la camioneta
+19:29:03 : Direct: Alan: dice sleect the object wich
+19:29:14 : Direct: Alan: is to tow with motocicle
+19:29:29 : Direct: Alan: ay esta
+19:29:30 : Direct: Alan: jajaja
+19:29:34 : Direct: juandayz: ahora si
+19:29:52 : Direct: juandayz: apreta M para abrir el map
+19:29:57 : Direct: Alan: ya
+19:30:02 : Direct: juandayz: ubicate donde estas
+19:30:07 : Direct: Alan: mercado central
+19:30:22 : Direct: juandayz: bien, ahora fijate la ruta que baja
+19:30:31 : Direct: juandayz: que lleva a una ciudad
+19:30:46 : Direct: juandayz: con la rueda del mouse haces zoom+ y zoom-
+19:31:10 : Direct: Alan: como se llama
+19:31:20 : Direct: juandayz: dubrovka
+19:31:40 : Direct: Alan: ahh sisi
+19:31:50 : Direct: juandayz: bueno, con el mapa abierto
+19:31:52 : Direct: Alan: ay me sale una cruz adentro de un redondel q dice aca
+19:32:00 : Direct: juandayz: si te lo marque yo a eso
+19:32:03 : Direct: Alan: ahh
+19:32:28 : Direct: juandayz: deja apretado shift izq  y y hace un click izquierdo sobre esa marca
+19:32:51 : Direct: juandayz: te tiene q aparecer un circulito negro chiquito
+19:32:55 : Direct: Alan: sisi
+19:33:06 : Direct: juandayz: bueno eso es una marca de distancia
+19:33:14 : Direct: juandayz: apreta m de nuevo y cerra el mapa
+19:33:22 : Direct: Alan: ta
+19:33:29 : Direct: Alan: ahh 1100 metros
+19:33:32 : Direct: juandayz: bien
+19:33:36 : Direct: juandayz: vamos ahi
+19:33:42 : Direct: Alan: ok
+19:33:51 : Direct: Alan: wow
+19:33:57 : Direct: Alan: nose como se maneja esto eh jaja
+19:34:04 : Direct: juandayz: w a s d
+19:34:13 : Direct: Alan: wow
+19:34:18 : Direct: juandayz: con shift apretado va un poco mas rapido
+19:34:28 : Direct: Alan: es bien completito el juego
+19:34:34 : Direct: juandayz: demaciado
+19:34:53 : Direct: juandayz: y aca en este servidor hay cosas q en otros no hay
+19:35:17 : Direct: Alan: este es el primer sv q entro
+19:35:22 : Direct: Alan: vi latino y por eso lo eleji jaja
+19:35:23 : Direct: juandayz: :)
+19:35:39 : Direct: juandayz: ahora estoy haciendole un sistema de granja
+19:35:50 : Direct: Alan: ah es tuyo el server ?
+19:35:53 : Direct: juandayz: se va a poder sembrar y criar animales
+19:35:57 : Direct: juandayz: para comer
+19:36:14 : Direct: juandayz: bue ahi hay zombies
+19:36:16 : Direct: Alan: woo q buena onda
+19:36:58 : Direct: juandayz: ahi los saque pa q no joda
+19:37:05 : Direct: juandayz: estas sangrando?
+19:37:05 : Direct: Alan: jaja q carajo, era invencible
+19:37:11 : Direct: Alan: mmm creo q no
+19:37:23 : Direct: juandayz: si sangras, a la derecha de la pantalla
+19:37:37 : Direct: juandayz: donde esta la bolsa de sangre te va  a aparecer una cruz medica
+19:37:44 : Direct: juandayz: cuando eso pasa, te tenes q vendar
+19:37:49 : Direct: Alan: ahh
+19:37:50 : Direct: juandayz: si no moris desangrado
+19:38:09 : Direct: Alan: no tengo vendas eso tendria q comprar
+19:38:12 : Direct: juandayz: tenes
+19:38:16 : Direct: juandayz: apreta la g
+19:38:25 : Direct: juandayz: al lado de la pistola
+19:38:26 : Direct: Alan: ahh tengo 3
+19:38:34 : Direct: juandayz: te voy a dar un tiro asi te vendaas
+19:38:41 : Direct: Alan: ok
+19:38:58 : Direct: Alan: estoy quebrado tmb jaja
+19:38:59 : Direct: juandayz: de paso te quebre
+19:39:10 : Direct: juandayz: pero no sangras todabia
+19:39:15 : Direct: Alan: sisi
+19:39:20 : Direct: Alan: me aparecio la cruz
+19:39:21 : Direct: juandayz: bue fijate que quebrado no podes caminar
+19:39:23 : Direct: Alan: ahora y esta
+19:39:33 : Direct: Alan: ahhh
+19:39:40 : Direct: juandayz: cuando te quebras, tenes q ponerte morfina
+19:39:46 : Direct: juandayz: siempre tenes q llevar una
+19:39:56 : Direct: Alan: ahh pero no tengo
+19:40:07 : Direct: juandayz: ahi tenes
+19:40:29 : Direct: Alan: ahh ay esta
+19:41:00 : Direct: Alan: vamos aprendiendo bien
+19:41:09 : Direct: Alan: asi que recien me acabo de enterar que me esta enseñando un admin
+19:41:12 : Direct: Alan: que buena onda jaja
+19:41:15 : Direct: juandayz: jaaja
+19:41:18 : Direct: juandayz: otra cosa
+19:41:25 : Direct: juandayz: los zombies reacionan al ruido
+19:41:37 : Direct: Alan: eso acabo de ver
+19:41:42 : Direct: juandayz: por lo q si matas a uno con una pistola u arma,, te van a aparecer 10
+19:41:57 : Direct: juandayz: lo mejor es usar un hacha o barreta, o arma silenciada
+19:42:12 : Direct: Alan: ahh eso tendriamos q comprar
+19:42:17 : Direct: Alan: en el mercado donde estabamos
+19:42:25 : Direct: juandayz: agarra el hacha
+19:42:27 : Direct: Alan: por q tengo las cosas con las que apareces
+19:42:48 : Direct: juandayz: hacele click derecho y pone remove from toolbelt
+19:43:10 : Direct: Alan: ta y ahroa
+19:43:22 : Direct: juandayz: no, te tiene q quedar en la mano el hacha
+19:43:35 : Direct: Alan: mm pongo eso y no hace nada
+19:43:41 : Direct: juandayz: ok, gira la rueda
+19:43:49 : Direct: juandayz: y pone hacha en mano
+19:43:55 : Direct: Alan: mm no aparece
+19:44:03 : Direct: juandayz: ahh para tira esa escopeta
+19:44:31 : Direct: juandayz: ahora si, 
+19:44:41 : Direct: Alan: tiro la escopeta esaa ?
+19:44:45 : Direct: juandayz: mira q mas mpodes hacer con el hacha veni
+19:44:49 : Direct: juandayz: si dejala
+19:46:01 : Direct: Alan: la  madera para que sirven
+19:46:07 : Direct: juandayz: bueno, con madera podes hacer mucho
+19:46:16 : Direct: juandayz: una fogata por ejemplo
+19:46:32 : Direct: juandayz: por si cazas un animal y necesitas cocinarlo
+19:46:44 : Direct: juandayz: o una base de madera
+19:46:51 : Direct: juandayz: pero necesitas mucha madera
+19:46:52 : Direct: Alan: ahh hay tengo 3 madera
+19:47:07 : Direct: Alan: pero tengo muy poco espacio
+19:47:08 : Direct: juandayz: la construccion es un capitulo a parte :D tenes muchas opciones
+19:47:17 : Direct: juandayz: apreta la g
+19:47:36 : Direct: juandayz: fijate q podes llevar cosas en la mochila
+19:47:40 : Direct: Alan: como
+19:47:54 : Direct: juandayz: open bag
+19:48:20 : Direct: Alan: ay esta llevo 10 de madera
+19:48:26 : Direct: Alan: mochila llena jaja
+19:48:29 : Direct: juandayz: hay varios tipos de mochilas
+19:48:37 : Direct: juandayz: cada una con mas espacio q otra
+19:48:52 : Direct: Alan: ahh vamos a comprar 1 ?
+19:48:59 : Direct: Alan: va nose si me alcanza
+19:49:00 : Direct: juandayz: podes encontrarla stambien
+19:49:05 : Direct: Alan: con 94k xd
+19:49:09 : Direct: Alan: ah si ?
+19:49:10 : Direct: juandayz: o hacerte una
+19:49:17 : Direct: juandayz: en este server
+19:49:28 : Direct: juandayz: todo podeos enocontrar, casi todo
+19:49:37 : Direct: juandayz: vamos a buscar cosas
+19:49:38 : Direct: Alan: ah buenisimo, a ver busquemos algo
+19:50:22 : Direct: juandayz: fijate q tengas epacio
+19:50:30 : Direct: juandayz: de paso dale click derecho y te la tomas
+19:50:37 : Direct: Alan: ok
+19:50:52 : Direct: juandayz: a la derecha el icono del cafe, te marca la sed
+19:51:02 : Direct: juandayz: el del plato el hambre
+19:51:03 : Direct: Alan: ahora esta lleno
+19:51:23 : Direct: juandayz: aca hau otras cosas
+19:51:29 : Direct: Alan: q es eso
+19:51:41 : Direct: juandayz: para normalizar la temperatura dl cuerpo
+19:51:42 : Direct: Alan: heatpack
+19:52:06 : Direct: juandayz: te puede dar hipotermia si estas mucho bajo la lluvia
+19:52:06 : Direct: Alan: 37°
+19:52:18 : Direct: Alan: wow
+19:52:40 : Direct: juandayz: buneo esta ciudad es una mierda
+19:52:45 : Direct: Alan: jaja
+19:52:49 : Direct: juandayz: hay mejores lugares
+19:53:00 : Direct: Alan: aerodromo militar
+19:53:06 : Direct: Alan: ese se ve que tiene cosas buena jaja
+19:53:12 : Direct: juandayz: como soy adm nos vamos  teletransportar asi ves
+19:53:19 : Direct: Alan: ok
+19:53:23 : Direct: juandayz: pero esto esta prohibido :D
+19:53:43 : Direct: Alan: jaja pero un admin enseñando
+19:53:48 : Direct: Alan: a un nuevo es bastante bueno
+19:54:34 : Direct: juandayz: cuando llegas en un vehiculo a un lugar, las cosas tardan en aparecer
+19:54:44 : Direct: juandayz: es un bug del juego, 
+19:54:55 : Direct: juandayz: pero en 10 seg aparecen
+19:55:00 : Direct: Alan: ahhh ok
+19:55:06 : Direct: juandayz: veni
+19:55:20 : Direct: juandayz: estas son barracas militars
+19:55:30 : Direct: Alan: ajam
+19:55:38 : Direct: juandayz: aca lo mas probable e q aya loot militar
+19:55:43 : Direct: juandayz: abri la puerta
+19:55:44 : Direct: Alan: wow
+19:56:02 : Direct: juandayz: guarda el hacha en el cinturon de nuevo
+19:56:11 : Direct: Alan: como
+19:56:15 : Direct: juandayz: apreta G
+19:56:21 : Direct: juandayz: click derecho al hacha
+19:56:38 : Direct: Alan: ay esta
+19:56:39 : Direct: Alan: wow
+19:56:59 : Direct: Alan: mira esa arma
+19:57:05 : Direct: juandayz: otra cosa, en zonas militares como esta aparecen zombies militares
+19:57:15 : Direct: juandayz: son un poco mas asperos
+19:57:41 : Direct: Alan: ahh
+19:57:57 : Direct: Alan: esto se puso interesantee eh jaja
+19:58:11 : Direct: juandayz: :D
+19:59:20 : Direct: Alan: q carajo
+19:59:28 : Direct: Alan: cambie
+19:59:30 : Direct: Alan: de aspecto
+19:59:39 : Direct: juandayz: te cambiaste de ropa
+20:00:52 : Direct: juandayz: tenes una madera?
+20:01:00 : Direct: Alan: se
+20:01:08 : Direct: juandayz: tirala al piso
+20:01:23 : Direct: Alan: lel un mono
+20:01:32 : Direct: Alan: un mono atras nuestro q carajo
+20:01:40 : Direct: Alan: a es un militar zombie jaja
+20:01:42 : Direct: juandayz: -jajaja un zombi 
+20:01:52 : Direct: Alan: jajaja se parecia un monoo
+20:02:29 : Direct: juandayz: con una ropa un tronquito y un cuchillo hize una mochila medio pelo
+20:02:53 : Direct: Alan: como haces eso xd
+20:03:16 : Direct: juandayz: tenes q tener un tronco, una ropa de superviviente y un chuchillo en el inventario
+20:03:32 : Direct: juandayz: entonces click derecho al cuchillo y pones craft alice pack
+20:03:34 : Direct: Alan: a ver si encuentro
+20:04:12 : Direct: juandayz: en el inventario, las ultimas dos filas, son el cinturon, ahil llevas las herramientas
+20:04:23 : Direct: juandayz: cada herramienta es util para algo
+20:04:30 : Direct: Alan: ahh
+20:04:36 : Direct: juandayz: hasta podes plantar mariguna :P
+20:04:46 : Direct: Alan: wooo jajaja plantemosss
+20:04:48 : Direct: Alan: jaja
+20:04:52 : Direct: juandayz: jaja
+20:05:03 : Direct: juandayz: abri el mapa de nuevo
+20:05:27 : Direct: Alan: ta
+20:05:37 : Direct: juandayz: fijate que hay un circulo rojo grande que dice BANDITS BASE
+20:05:54 : Direct: Alan: se
+20:06:01 : Direct: juandayz: esas son misiones
+20:06:09 : Direct: juandayz: aparecen cada tanto
+20:06:22 : Direct: Alan: ajam y q ganas
+20:06:25 : Direct: Alan: con eso
+20:06:25 : Direct: juandayz: ahi esta lleno de Bots, IA,
+20:06:36 : Direct: juandayz: estan llenos de armas y de items
+20:06:38 : Direct: Alan: no conozconingun bots ningun ia jaja
+20:06:41 : Direct: Alan: woo vamosss
+20:06:42 : Direct: Alan: jaja
+20:06:57 : Direct: juandayz: vamos a ir a ver en un tanque de guerra por q nos van a fusilar
+20:07:07 : Direct: juandayz: pero para q veas
+20:07:12 : Direct: Alan: tan dificil es ?
+20:07:22 : Direct: Alan: k
+20:07:24 : Direct: Alan: q carajo xd
+20:07:34 : Direct: juandayz: esto no esta dentro del juego
+20:07:44 : Direct: Alan: woww
+20:08:06 : Direct: Alan: un helicoptero arriba
+20:08:12 : Direct: juandayz: no le tires
+20:08:17 : Direct: Alan: jaja ok
+20:08:19 : Direct: juandayz: q es un player
+20:08:24 : Direct: Alan: ahh ok
+20:08:30 : Direct: juandayz: si no estubieramos en tanque tirale tranquiiliioi
+20:08:30 : Direct: Alan: mira alla va otro jaja
+20:08:33 : Direct: Alan: son 2
+20:08:45 : Direct: Alan: wooo
+20:08:56 : Direct: Alan: quien carajo nos tiro
+20:08:57 : Direct: juandayz: biue viste lo q son no?
+20:09:06 : Direct: juandayz: y estamos en un tanque jaja
+20:09:08 : Direct: Alan: ajaja eso fue los bandit ?
+20:09:18 : Direct: Alan: o un player ?
+20:09:21 : Direct: juandayz: si, son los Bots de la mision
+20:09:38 : Direct: juandayz: bots, son robots. unidades generadas por lai pc
+20:09:49 : Direct: Alan: tengo poca sangre
+20:10:11 : Direct: juandayz: agarra la bolsa
+20:10:22 : Direct: juandayz: click derecho y transfucion
+20:10:41 : Direct: Alan: ta
+20:10:54 : Direct: juandayz: bueno, hacele click derecjho a la caja de herramientas
+20:11:04 : Direct: Alan: ta
+20:11:11 : Direct: juandayz: deply bici
+20:11:34 : Direct: juandayz: apreta space
+20:11:44 : Direct: Alan: casi te meto un tiro en la cabeza jaja
+20:11:49 : Direct: juandayz: para construirla una vez q elejiste donde ponerla
+20:12:00 : Direct: Alan: espera, estoy en combate
+20:12:09 : Direct: juandayz: ok
+20:12:23 : Direct: Alan: y la moto q compre ?
+20:12:23 : Direct: juandayz: fijate q ya no tenes mas la caja de herramientas
+20:12:30 : Direct: Alan: ahh verdad
+20:12:38 : Direct: juandayz: pasale la rueda a la bici
+20:12:43 : Direct: juandayz: y pone pack bike
+20:12:57 : Direct: juandayz: entonces guardas la bici y te devuelve la caja de herramientas
+20:13:06 : Direct: Alan: ahh ay aparecio de vuelta
+20:13:16 : Side: JF: hola !!
+20:13:20 : Direct: juandayz: bueno, ahora.. lo basico para hacer tu bae
+20:13:22 : Direct: juandayz: base
+20:13:29 : Side: edgar: Hola
+20:14:07 : Direct: juandayz: vamos a elejir un lugar mas o menos
+20:14:11 : Direct: Alan: ok
+20:14:20 : Direct: Alan: armemos una buena base eh jaja
+20:14:29 : Direct: juandayz: jaja es para que veas
+20:14:35 : Direct: juandayz: despues vos eleji un lugarw
+20:14:42 : Direct: Alan: elejilo vos jaja
+20:14:44 : Direct: Alan: yo no tengo ni idea
+20:15:22 : Direct: juandayz: mira, esto se llama plot pole 30mts
+20:15:38 : Direct: Alan: q cosa
+20:15:43 : Direct: juandayz: lo q hace es marcar una parcela que va a ser tuya, y nadie mas va a poder construir en ella
+20:16:05 : Direct: Alan: ahh
+20:16:11 : Direct: juandayz: aprovecha y agarralo q esta carisimo :D
+20:16:25 : Direct: juandayz: hacele click derecho ahora
+20:16:25 : Direct: Alan: ohh muchisimas gracias papaa !!!
+20:16:39 : Direct: Alan: aca entonces armamos ?
+20:16:47 : Direct: juandayz: si despues lo moves
+20:16:54 : Direct: Alan: ahh se puede mover
+20:17:04 : Direct: Alan: missing tool pala afianzar
+20:17:06 : Direct: Alan: dice
+20:17:12 : Direct: juandayz: ok, necesitas una herramienta
+20:17:30 : Direct: juandayz: esa es pala de afianzar (Etool)
+20:17:34 : Direct: Alan: ahh
+20:17:50 : Direct: Alan: ta
+20:17:57 : Direct: juandayz: `pone el plot
+20:17:58 : Direct: Alan: jaja
+20:18:14 : Direct: Alan: q cosa
+20:18:22 : Direct: Alan: dice q no puedo
+20:18:22 : Direct: juandayz: eso, se llama plot pole
+20:18:27 : Direct: juandayz: por?
+20:18:30 : Direct: Alan: es zona resticted 900 m near trades
+20:18:44 : Direct: Alan: and military loot areas
+20:18:46 : Direct: juandayz: ahh estamos cerca de unn trade city o algo parecido
+20:18:46 : Direct: Alan: trader cities
+20:18:51 : Direct: juandayz: vamo a otro lado
+20:18:51 : Direct: Alan: sisi eso
+20:19:25 : Direct: juandayz: aya hay una casita, podes usarla
+20:19:55 : Direct: juandayz: oime, el plot
+20:19:56 : Direct: Alan: aca ?
+20:20:00 : Direct: Alan: ajam
+20:20:08 : Direct: juandayz: tiene q estar en un lugar q no te lo puedan robar
+20:20:19 : Direct: juandayz: lo mejor seria q lo pongas adentro de la casa
+20:20:32 : Direct: juandayz: y q hagas puertas con candado asi no se te meten
+20:20:35 : Direct: Alan: ok
+20:20:45 : Direct: Alan: aca entonces ?
+20:20:50 : Direct: juandayz: si
+20:21:14 : Direct: juandayz: esto te da una parcela de 30mts a la redonda para construir
+20:21:27 : Direct: Alan: ahh
+20:21:31 : Direct: juandayz: asomate por la venta
+20:21:41 : Direct: juandayz: vas a ver unos palos blancos
+20:21:44 : Direct: Alan: ahh
+20:21:45 : Direct: Alan: sisi
+20:21:49 : Direct: juandayz: son el limite del plot
+20:21:58 : Direct: Alan: ahh
+20:22:09 : Direct: juandayz: ahora apuntale al plot y pone remover
+20:22:12 : Direct: juandayz: remove
+20:22:26 : Direct: Alan: maintain area y maintain area preview dice
+20:22:38 : Direct: juandayz: ok, para remover cualquier cosa necesitas una barreta
+20:23:22 : Direct: Alan: ta
+20:23:26 : Direct: juandayz: asi es como vas a mudar la base, si queres
+20:23:40 : Direct: juandayz: pero todo lo q ayas construido te va a quedar aca
+20:23:58 : Direct: Alan: ahh
+20:24:14 : Direct: Alan: la tomo ?
+20:24:19 : Direct: juandayz: pera
+20:24:25 : Direct: juandayz: tira la tuya ante
+20:24:36 : Direct: juandayz: si no perdes todo lo q tenes en la mochila
+20:24:44 : Direct: Alan: pura madera
+20:24:46 : Direct: Alan: ay en esa mochila
+20:24:50 : Direct: juandayz: jaja ok
+20:25:08 : Direct: juandayz: bueno, despues para hacer paredes y eso
+20:25:15 : Direct: juandayz: tenes 3 materiales distinto
+20:25:16 : Direct: juandayz: s
+20:25:25 : Direct: juandayz: madera, metal, ladrillo
+20:25:34 : Direct: juandayz: lo mas barato es la madera
+20:25:38 : Direct: Alan: ajam
+20:25:51 : Direct: juandayz: podes hachar arboles e ir armando tablones de los troncos
+20:26:08 : Direct: juandayz: para los ladrillos,,, tenes 3 opciones
+20:26:23 : Direct: juandayz: vas a una mision q tenga materiales de construccion
+20:26:35 : Direct: juandayz: los buscas por las ciudades
+20:26:46 : Direct: Alan: ajam
+20:26:51 : Direct: juandayz: o vas a trabajar a la cantera, llevando una pala y un martillo
+20:27:08 : Direct: juandayz: o... 4 opciones.. o los coompras en el mercado
+20:27:14 : Direct: juandayz: pero son carisimos
+20:27:20 : Direct: Alan: ahh
+20:27:23 : Direct: Alan: el metal
+20:27:26 : Direct: Alan: es mejor verdad?
+20:27:43 : Direct: juandayz: el metal necesitas algo q se llama Scrap metal
+20:28:02 : Direct: juandayz: y una fogata y un martillo para ir haciendolos
+20:28:21 : Direct: Alan: q dificil
+20:28:21 : Direct: juandayz: lo mas sencillo para arrancar es un hacha o motosierra y tumbar arboles
+20:28:38 : Direct: Alan: motosierra
+20:28:44 : Direct: Alan: donde consigo una motosierra
+20:28:52 : Direct: juandayz: para la motosierra necesitas aceite 2t y nafta aajaj
+20:29:00 : Direct: juandayz: todo en el mercado
+20:29:08 : Direct: Alan: q mierda
+20:29:13 : Direct: Alan: esta caro ?
+20:29:23 : Direct: juandayz: osea es todo asi, para algo siempre necesitas otra cosa
+20:29:39 : Side: LarzuK: dale edgar
+20:29:42 : Direct: juandayz: podes ir al basurero a buscar aceite :P
+20:29:45 : Group: LarzuK: soy friendly
+20:29:53 : Direct: Alan: jaja
+20:29:56 : Direct: juandayz: ahora fijate
+20:30:01 : Direct: Alan: dejame con la hacha por ahora jaja
+20:30:06 : Direct: juandayz: esta casa
+20:30:12 : Direct: juandayz: tiene una sola entrada
+20:30:28 : Direct: juandayz: por lo q solamente necesitas una pared de madera con puerta y candado
+20:30:50 : Direct: juandayz: tenes la carpa todabia?
+20:30:53 : Direct: Alan: se
+20:31:05 : Direct: juandayz: ponela aca
+20:31:24 : Side: LarzuK: dale edgar
+20:31:25 : Direct: juandayz: page up
+20:31:30 : Direct: Alan: q bolu
+20:31:31 : Direct: juandayz: para levantarla un poco
+20:31:38 : Side: LarzuK: media pila
+20:31:43 : Direct: juandayz: pag dow para bajarla
+20:31:50 : Side: edgar: espera
+20:31:52 : Direct: Alan: ok
+20:31:58 : Side: LarzuK: te asustaste y empezaste a disparar _
+20:32:01 : Side: LarzuK: ?
+20:32:04 : Side: edgar: no
+20:32:10 : Side: edgar: te quise matar pero
+20:32:17 : Side: edgar: no pude apuntar bien
+20:32:25 : Direct: juandayz: ahora pone equipo
+20:32:35 : Side: LarzuK: estaba haciendo la base, somos 5 en todo el server
+20:32:38 : Direct: Alan: no me deja
+20:32:43 : Side: LarzuK: jaja , espera a que la termine al menos
+20:32:45 : Direct: Alan: ay esta
+20:32:49 : Direct: juandayz: guarda tu arma
+20:33:06 : Direct: juandayz: y vaciate el inventario, el hacha tenela
+20:33:06 : Direct: Alan: ta
+20:33:16 : Direct: juandayz: q vamos  a cortar madera :P
+20:33:40 : Direct: Alan: joyaaa
+20:33:42 : Direct: Alan: jajaja q grande
+20:33:47 : Direct: Alan: ay esta
+20:33:49 : Direct: juandayz: fijate
+20:33:55 : Direct: juandayz: donde dice tienda de campaña
+20:33:59 : Direct: juandayz: en el equipo
+20:34:12 : Direct: juandayz: tenes 3 numeros 9/28/5
+20:34:25 : Direct: Alan: ajam
+20:34:31 : Direct: Alan: se
+20:34:33 : Direct: juandayz: esa es la capacidad de almacenamiento... el 9 es de armas y herramientas
+20:34:35 : Side: edgar: andas cerca de tu base_
+20:34:41 : Side: LarzuK: se
+20:34:42 : Direct: juandayz: el 28 de items
+20:34:42 : Side: edgar: ?
+20:34:48 : Direct: juandayz: el ultimo de municiones
+20:34:48 : Side: edgar: yo estoy dentro
+20:34:51 : Side: edgar: xD
+20:34:54 : Side: LarzuK: te dejo llevar tu cuerpo
+20:35:02 : Direct: Alan: ahhh
+20:35:10 : Direct: juandayz: no, el ultimo no me acuerdo de q es :S
+22:09:53 : Side: Alan: q joraca paso
+22:10:04 : Side: Mades: ?
+22:10:08 : Side: Vassili ZaitseV: ?
+22:10:16 : Side: Alan: juan
+22:10:22 : Side: Mades: Two
+22:10:53 : Side: Alan: por q tiembla mi pantalla ?
+22:11:01 : Side: Mades: Painkillers?
+22:15:27 : Side: Alan: juann
+22:18:07 : Side: Alan: como me fijo los jugadores q estan conectados ?
+22:18:13 : Side: Mades: Con la P
+22:18:50 : Side: Alan: ahh gracias
+22:19:02 : Side: Mades: de nada
+22:37:17 : Side: Alan: juan estas ?
+22:41:43 : Side: Alan: asd
+22:41:46 : Side: Alan: Juann
+22:42:23 : Side: Alan: por q se me puso un microfono en celestito
+22:42:33 : Side: Alan: alado del muñeco
+22:42:39 : Side: Mades: Hablaste por el chat
+22:58:15 : Side: Alan: JUANNN
+22:58:22 : Side: Alan: no volvio juan ? jaja
+22:58:26 : Side: Mades: TWOOOOO
+22:58:28 : Side: Mades: No parece
+23:01:57 : Side: Alan: que les paso ? xd
+23:03:26 : Side: Alan: que les paso ?

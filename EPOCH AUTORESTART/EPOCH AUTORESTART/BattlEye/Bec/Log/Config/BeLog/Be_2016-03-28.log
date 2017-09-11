@@ -1,0 +1,52 @@
+﻿03:27:27 : Rcon client logging in
+﻿03:27:27 : RCon admin #0 (127.0.0.1:55110) logged in
+﻿03:29:59 : Player #0 juandayz (190.30.169.182:2304) connected
+﻿03:30:00 : Player #0 juandayz - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿03:30:01 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 juandayz
+﻿03:30:02 : Player #0 juandayz - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿03:33:28 : Player #1 Kratos! (201.252.12.39:2304) connected
+﻿03:33:29 : Player #1 Kratos! - GUID: d8a66f329ced709c1b74091db03a1463 (unverified)
+﻿03:33:29 : Verified GUID (d8a66f329ced709c1b74091db03a1463) of player #1 Kratos!
+﻿03:33:30 : Player #1 Kratos! - Legacy GUID: 0e9e1313c97f2fbfd3d6f33b6adea887
+﻿03:33:34 : Player #1 Kratos! disconnected
+﻿04:00:27 : Player #0 juandayz (d603844e2f77196bf616245ae360213b) has been kicked by BattlEye: Client not responding
+﻿04:06:12 : Player #0 Daryl (181.93.14.24:2304) connected
+﻿04:06:13 : Player #0 Daryl - GUID: cf0b984beb695f6a1509c1352c7143e6 (unverified)
+﻿04:06:13 : Verified GUID (cf0b984beb695f6a1509c1352c7143e6) of player #0 Daryl
+﻿04:06:14 : Player #0 Daryl - Legacy GUID: 797dcee85139da3550d13b4b5683dcad
+﻿04:11:49 : Player #0 Daryl disconnected
+﻿05:45:00 : RCon admin #0: (Global) BEC : This server will restart in 15 minutes
+﻿05:55:00 : RCon admin #0: (Global) BEC : This server will restart in 5 minutes
+﻿05:59:00 : RCon admin #0: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿06:00:01 : Lost Connection!
+﻿06:00:01 : Closing socket & exiting!
+﻿06:01:15 : Rcon client logging in
+﻿06:01:15 : RCon admin #0 (127.0.0.1:58088) logged in
+﻿07:04:13 : Player #0 edgar (189.194.23.186:2304) connected
+﻿07:04:16 : Player #0 edgar - GUID: f437a82e55f1e066995fbf75e961723e (unverified)
+﻿07:04:16 : Verified GUID (f437a82e55f1e066995fbf75e961723e) of player #0 edgar
+﻿07:04:17 : Player #0 edgar - Legacy GUID: 34a707cdfc6309ba56617169fdf6b2d9
+﻿07:37:32 : Player #0 edgar disconnected
+﻿08:45:00 : RCon admin #0: (Global) BEC : This server will restart in 15 minutes
+﻿08:55:00 : RCon admin #0: (Global) BEC : This server will restart in 5 minutes
+﻿08:59:00 : RCon admin #0: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿09:00:01 : Lost Connection!
+﻿09:00:01 : Closing socket & exiting!
+﻿09:01:15 : Rcon client logging in
+﻿09:01:15 : RCon admin #0 (127.0.0.1:54333) logged in
+﻿11:45:00 : RCon admin #0: (Global) BEC : This server will restart in 15 minutes
+﻿11:55:00 : RCon admin #0: (Global) BEC : This server will restart in 5 minutes
+﻿11:59:00 : RCon admin #0: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿12:00:01 : Lost Connection!
+﻿12:00:01 : Closing socket & exiting!
+﻿12:01:06 : Rcon client logging in
+﻿12:01:06 : RCon admin #0 (127.0.0.1:52915) logged in
+﻿23:42:06 : Rcon client logging in
+﻿23:42:06 : RCon admin #0 (127.0.0.1:49795) logged in
+﻿23:42:30 : Player #0 JF (190.185.192.18:26512) connected
+﻿23:42:31 : Player #0 JF - GUID: 93a2a9d9bc7acb34122becec3305fde7 (unverified)
+﻿23:42:31 : Verified GUID (93a2a9d9bc7acb34122becec3305fde7) of player #0 JF
+﻿23:42:32 : Player #0 JF - Legacy GUID: 1e3460faa1452299ec3b5f220fe797e0
+﻿23:45:00 : RCon admin #0: (Global) BEC : This server will restart in 15 minutes
+﻿23:55:00 : RCon admin #0: (Global) BEC : This server will restart in 5 minutes
+﻿23:59:00 : RCon admin #0: (Global) BEC : This server will restart in 1 minute, Log out now!

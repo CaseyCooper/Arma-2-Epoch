@@ -1,0 +1,256 @@
+﻿00:00:01 : Lost Connection!
+﻿00:00:01 : Closing socket & exiting!
+﻿00:01:15 : Rcon client logging in
+﻿00:01:15 : RCon admin #1 (127.0.0.1:55025) logged in
+﻿00:03:05 : Player #0 Bad Guy (24.232.71.49:1024) connected
+﻿00:03:07 : Player #0 Bad Guy - GUID: dda8f26d97fcb7ca8899f7f65d8536cf (unverified)
+﻿00:03:07 : Player #0 Bad Guy - Legacy GUID: e63f5403618860de28c9af75ce0b2365
+﻿00:03:07 : Verified GUID (dda8f26d97fcb7ca8899f7f65d8536cf) of player #0 Bad Guy
+﻿00:10:18 : Player #1 Nikyta (190.244.45.71:2304) connected
+﻿00:10:19 : Player #1 Nikyta - GUID: d18bc2163de1a6abe8924f2e0788680b (unverified)
+﻿00:10:20 : Verified GUID (d18bc2163de1a6abe8924f2e0788680b) of player #1 Nikyta
+﻿00:10:20 : Player #1 Nikyta - Legacy GUID: d294364f535d1f02da4e01c50aaec207
+﻿00:12:19 : Player #1 Nikyta disconnected
+﻿00:13:04 : Player #1 Nikyta (190.244.45.71:2304) connected
+﻿00:13:04 : Player #1 Nikyta - GUID: d18bc2163de1a6abe8924f2e0788680b (unverified)
+﻿00:13:05 : Verified GUID (d18bc2163de1a6abe8924f2e0788680b) of player #1 Nikyta
+﻿00:13:06 : Player #1 Nikyta - Legacy GUID: d294364f535d1f02da4e01c50aaec207
+﻿00:13:44 : Player #2 JF (190.185.192.18:26512) connected
+﻿00:13:46 : Player #2 JF - GUID: 93a2a9d9bc7acb34122becec3305fde7 (unverified)
+﻿00:13:46 : Verified GUID (93a2a9d9bc7acb34122becec3305fde7) of player #2 JF
+﻿00:13:47 : Player #2 JF - Legacy GUID: 1e3460faa1452299ec3b5f220fe797e0
+﻿00:17:07 : Player #3 joc22 (190.16.39.104:2304) connected
+﻿00:17:08 : Player #3 joc22 - GUID: b0971574c075bc3f7aaaa355694ae80b (unverified)
+﻿00:17:08 : Verified GUID (b0971574c075bc3f7aaaa355694ae80b) of player #3 joc22
+﻿00:17:09 : Player #3 joc22 - Legacy GUID: 5153893909cf31725a276cd9505e3f55
+﻿00:44:14 : Player #4 Alan (181.90.222.66:6735) connected
+﻿00:44:16 : Player #4 Alan - GUID: 0f58f0f7cbcc27bdd669ddb2ba67dec1 (unverified)
+﻿00:44:16 : Player #4 Alan - Legacy GUID: e4693e16704daa1c5c15a058786df292
+﻿00:44:17 : Verified GUID (0f58f0f7cbcc27bdd669ddb2ba67dec1) of player #4 Alan
+﻿00:44:18 : Player #4 Alan disconnected
+﻿00:56:20 : Player #4 zina (200.175.75.2:2304) connected
+﻿00:56:22 : Player #4 zina - GUID: 69d37cf674da2a2de713c11a14665e83 (unverified)
+﻿00:56:22 : Player #4 zina - Legacy GUID: bb29cc0d5efc53a05ca2c4a25e4b1f99
+﻿00:56:22 : Verified GUID (69d37cf674da2a2de713c11a14665e83) of player #4 zina
+﻿00:56:23 : Player #4 zina disconnected
+﻿01:13:37 : Player #3 joc22 (b0971574c075bc3f7aaaa355694ae80b) has been kicked by BattlEye: Client not responding
+﻿01:16:46 : Player #3 joc22 (190.16.39.104:2304) connected
+﻿01:16:47 : Player #3 joc22 - GUID: b0971574c075bc3f7aaaa355694ae80b (unverified)
+﻿01:16:48 : Verified GUID (b0971574c075bc3f7aaaa355694ae80b) of player #3 joc22
+﻿01:16:48 : Player #3 joc22 - Legacy GUID: 5153893909cf31725a276cd9505e3f55
+﻿01:26:33 : Player #1 Nikyta disconnected
+﻿01:46:04 : Player #0 Bad Guy disconnected
+﻿01:55:47 : Player #0 zina (200.175.75.2:2304) connected
+﻿01:55:50 : Player #0 zina - GUID: 69d37cf674da2a2de713c11a14665e83 (unverified)
+﻿01:55:50 : Verified GUID (69d37cf674da2a2de713c11a14665e83) of player #0 zina
+﻿01:55:51 : Player #0 zina disconnected
+﻿01:56:17 : Player #0 zina (200.175.75.2:2304) connected
+﻿01:56:18 : Player #0 zina - GUID: 69d37cf674da2a2de713c11a14665e83 (unverified)
+﻿01:56:19 : Verified GUID (69d37cf674da2a2de713c11a14665e83) of player #0 zina
+﻿01:56:19 : Player #0 zina - Legacy GUID: bb29cc0d5efc53a05ca2c4a25e4b1f99
+﻿01:56:19 : Player #0 zina disconnected
+﻿02:06:35 : Player #0 Leodagos (186.135.40.24:13357) connected
+﻿02:06:37 : Player #0 Leodagos - GUID: 927032c3d7c1139aff0ff09424d46da1 (unverified)
+﻿02:06:37 : Verified GUID (927032c3d7c1139aff0ff09424d46da1) of player #0 Leodagos
+﻿02:06:38 : Player #0 Leodagos - Legacy GUID: d7639dceb9588d3b0ab85f82e92ff8de
+﻿02:22:21 : Player #0 Leodagos disconnected
+﻿02:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿02:52:06 : Player #3 joc22 disconnected
+﻿02:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿02:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿03:00:01 : Lost Connection!
+﻿03:00:01 : Closing socket & exiting!
+﻿03:01:15 : Rcon client logging in
+﻿03:01:15 : RCon admin #1 (127.0.0.1:62077) logged in
+﻿03:02:57 : Player #0 JF (190.185.192.18:26512) connected
+﻿03:02:59 : Player #0 JF - GUID: 93a2a9d9bc7acb34122becec3305fde7 (unverified)
+﻿03:02:59 : Verified GUID (93a2a9d9bc7acb34122becec3305fde7) of player #0 JF
+﻿03:02:59 : Player #0 JF - Legacy GUID: 1e3460faa1452299ec3b5f220fe797e0
+﻿05:03:54 : Player #0 JF disconnected
+﻿05:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿05:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿05:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿06:00:01 : Lost Connection!
+﻿06:00:01 : Closing socket & exiting!
+﻿06:01:15 : Rcon client logging in
+﻿06:01:15 : RCon admin #1 (127.0.0.1:59924) logged in
+﻿08:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿08:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿08:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿09:00:01 : Lost Connection!
+﻿09:00:01 : Closing socket & exiting!
+﻿09:01:06 : Rcon client logging in
+﻿09:01:06 : RCon admin #1 (127.0.0.1:59408) logged in
+﻿11:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿11:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿11:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿12:00:01 : Lost Connection!
+﻿12:00:01 : Closing socket & exiting!
+﻿12:01:06 : Rcon client logging in
+﻿12:01:06 : RCon admin #1 (127.0.0.1:61811) logged in
+﻿13:09:23 : Player #0 JF (190.185.192.18:26512) connected
+﻿13:09:24 : Player #0 JF - Legacy GUID: 1e3460faa1452299ec3b5f220fe797e0
+﻿13:09:25 : Player #0 JF - GUID: 93a2a9d9bc7acb34122becec3305fde7 (unverified)
+﻿13:09:25 : Verified GUID (93a2a9d9bc7acb34122becec3305fde7) of player #0 JF
+﻿13:40:21 : Player #1 A6AMD (200.89.154.130:4707) connected
+﻿13:40:23 : Player #1 A6AMD - GUID: e84a7c2f0f444a8fa6bff7df557360c8 (unverified)
+﻿13:40:23 : Verified GUID (e84a7c2f0f444a8fa6bff7df557360c8) of player #1 A6AMD
+﻿13:40:24 : Player #1 A6AMD - Legacy GUID: 1db2d3b9de40f70681e8a27940355628
+﻿13:40:35 : Player #1 A6AMD disconnected
+﻿13:52:07 : Player #1 Nikyta (190.244.45.71:2304) connected
+﻿13:52:08 : Player #1 Nikyta - GUID: d18bc2163de1a6abe8924f2e0788680b (unverified)
+﻿13:52:09 : Verified GUID (d18bc2163de1a6abe8924f2e0788680b) of player #1 Nikyta
+﻿13:52:09 : Player #1 Nikyta - Legacy GUID: d294364f535d1f02da4e01c50aaec207
+﻿14:12:46 : RCon admin #0: (Global) [adm#2] JF deja de dar consejos malos jaja, arma la bici nikitia, nada mas no te subas antes de que se termine de armar
+﻿14:15:33 : RCon admin #0: (Global) [adm#2] q raro viciopata con problemas... crei q lo habia baneado a ese 
+﻿14:16:31 : RCon admin #0: (Global) [adm#2] capaz hizo un rollback
+﻿14:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿14:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿14:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿14:59:00 : Player #0 JF disconnected
+﻿14:59:43 : Player #1 Nikyta disconnected
+﻿15:00:01 : Lost Connection!
+﻿15:00:01 : Closing socket & exiting!
+﻿15:01:15 : Rcon client logging in
+﻿15:01:20 : RCon admin #1 (127.0.0.1:54956) logged in
+﻿15:41:51 : Player #1 A6AMD (200.89.154.130:10142) connected
+﻿15:41:53 : Player #1 A6AMD - GUID: e84a7c2f0f444a8fa6bff7df557360c8 (unverified)
+﻿15:41:54 : Player #1 A6AMD - Legacy GUID: 1db2d3b9de40f70681e8a27940355628
+﻿15:41:54 : Verified GUID (e84a7c2f0f444a8fa6bff7df557360c8) of player #1 A6AMD
+﻿15:42:39 : RCon admin #1: (To Nikyta) BEC : You have about 60 seconds left to join the mission.
+﻿15:43:11 : RCon admin #1: (To Nikyta) BEC : You have about 30 seconds left to join the mission.
+﻿15:43:25 : RCon admin #1: (To Nikyta) BEC : You have about 15 seconds left to join the mission.
+﻿15:43:39 : Player #0 Nikyta (d18bc2163de1a6abe8924f2e0788680b) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿15:48:01 : Player #0 Nikyta (190.244.45.71:2304) connected
+﻿15:48:02 : Player #0 Nikyta - GUID: d18bc2163de1a6abe8924f2e0788680b (unverified)
+﻿15:48:03 : Verified GUID (d18bc2163de1a6abe8924f2e0788680b) of player #0 Nikyta
+﻿15:48:03 : Player #0 Nikyta - Legacy GUID: d294364f535d1f02da4e01c50aaec207
+﻿15:51:16 : Player #1 A6AMD disconnected
+﻿16:40:08 : Player #1 [DMN]-Mario (179.60.255.227:2304) connected
+﻿16:40:09 : Player #1 [DMN]-Mario - GUID: 90efe9555b6c518bdd5ab751845d62ac (unverified)
+﻿16:40:09 : Verified GUID (90efe9555b6c518bdd5ab751845d62ac) of player #1 [DMN]-Mario
+﻿16:40:10 : Player #1 [DMN]-Mario - Legacy GUID: 56ac695fcf6c9ba0429307fd875141a4
+﻿16:54:22 : Player #1 [DMN]-Mario (90efe9555b6c518bdd5ab751845d62ac) has been kicked by BattlEye: Ping too high (3030)
+﻿16:58:01 : Player #1 [DMN]-Mario (179.60.255.227:2304) connected
+﻿16:58:03 : Player #1 [DMN]-Mario - GUID: 90efe9555b6c518bdd5ab751845d62ac (unverified)
+﻿16:58:04 : Player #1 [DMN]-Mario - Legacy GUID: 56ac695fcf6c9ba0429307fd875141a4
+﻿16:58:04 : Verified GUID (90efe9555b6c518bdd5ab751845d62ac) of player #1 [DMN]-Mario
+﻿17:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿17:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿17:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿17:59:17 : Player #1 [DMN]-Mario disconnected
+﻿18:00:01 : Lost Connection!
+﻿18:00:01 : Closing socket & exiting!
+﻿18:01:15 : Rcon client logging in
+﻿18:01:15 : RCon admin #1 (127.0.0.1:51460) logged in
+﻿18:06:26 : Player #0 [DMN]-Mario (179.60.255.227:2304) connected
+﻿18:06:28 : Player #0 [DMN]-Mario - GUID: 90efe9555b6c518bdd5ab751845d62ac (unverified)
+﻿18:06:29 : Verified GUID (90efe9555b6c518bdd5ab751845d62ac) of player #0 [DMN]-Mario
+﻿18:06:30 : Player #0 [DMN]-Mario - Legacy GUID: 56ac695fcf6c9ba0429307fd875141a4
+﻿18:23:55 : Player #1 Nikyta (190.244.45.71:2304) connected
+﻿18:23:56 : Player #1 Nikyta - GUID: d18bc2163de1a6abe8924f2e0788680b (unverified)
+﻿18:23:56 : Verified GUID (d18bc2163de1a6abe8924f2e0788680b) of player #1 Nikyta
+﻿18:23:57 : Player #1 Nikyta - Legacy GUID: d294364f535d1f02da4e01c50aaec207
+﻿18:28:44 : Player #2 Dexter (200.89.154.130:22020) connected
+﻿18:28:52 : Player #2 Dexter - GUID: e84a7c2f0f444a8fa6bff7df557360c8 (unverified)
+﻿18:28:52 : Player #2 Dexter - Legacy GUID: 1db2d3b9de40f70681e8a27940355628
+﻿18:28:53 : Verified GUID (e84a7c2f0f444a8fa6bff7df557360c8) of player #2 Dexter
+﻿18:35:00 : Player #2 Dexter disconnected
+﻿18:35:01 : RCon admin #1: (To [DMN]-Mario) BEC : You have about 60 seconds left to join the mission.
+﻿18:35:32 : RCon admin #1: (To [DMN]-Mario) BEC : You have about 30 seconds left to join the mission.
+﻿18:35:46 : RCon admin #1: (To [DMN]-Mario) BEC : You have about 15 seconds left to join the mission.
+﻿18:36:01 : Player #0 [DMN]-Mario (90efe9555b6c518bdd5ab751845d62ac) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿18:46:31 : Player #0 [DMN]-Mario (179.60.255.227:2304) connected
+﻿18:46:33 : Player #0 [DMN]-Mario - GUID: 90efe9555b6c518bdd5ab751845d62ac (unverified)
+﻿18:46:34 : Player #0 [DMN]-Mario - Legacy GUID: 56ac695fcf6c9ba0429307fd875141a4
+﻿18:46:34 : Verified GUID (90efe9555b6c518bdd5ab751845d62ac) of player #0 [DMN]-Mario
+﻿18:51:38 : Player #1 Nikyta disconnected
+﻿18:53:56 : Player #1 juan p (187.250.174.72:2304) connected
+﻿18:53:59 : Player #1 juan p - GUID: eab22850fdd8c03689d3cf62197b27a8 (unverified)
+﻿18:54:00 : Verified GUID (eab22850fdd8c03689d3cf62197b27a8) of player #1 juan p
+﻿18:54:00 : Player #1 juan p - Legacy GUID: 42220cbb688c4a3748630ff8eb1117dd
+﻿19:11:54 : Player #1 juan p disconnected
+﻿19:24:55 : Player #1 Nikyta (190.244.45.71:2304) connected
+﻿19:24:56 : Player #1 Nikyta - GUID: d18bc2163de1a6abe8924f2e0788680b (unverified)
+﻿19:24:56 : Verified GUID (d18bc2163de1a6abe8924f2e0788680b) of player #1 Nikyta
+﻿19:24:57 : Player #1 Nikyta - Legacy GUID: d294364f535d1f02da4e01c50aaec207
+﻿19:40:08 : RCon admin #1: (To Nikyta) BEC : You have about 60 seconds left to join the mission.
+﻿19:40:39 : RCon admin #1: (To Nikyta) BEC : You have about 30 seconds left to join the mission.
+﻿19:40:54 : RCon admin #1: (To Nikyta) BEC : You have about 15 seconds left to join the mission.
+﻿19:41:08 : Player #1 Nikyta (d18bc2163de1a6abe8924f2e0788680b) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿19:46:17 : Player #0 [DMN]-Mario (90efe9555b6c518bdd5ab751845d62ac) has been kicked by BattlEye: Ping too high (390)
+﻿19:46:51 : Player #0 [DMN]-Mario (179.60.255.227:2304) connected
+﻿19:46:54 : Player #0 [DMN]-Mario - GUID: 90efe9555b6c518bdd5ab751845d62ac (unverified)
+﻿19:46:55 : Verified GUID (90efe9555b6c518bdd5ab751845d62ac) of player #0 [DMN]-Mario
+﻿19:46:55 : Player #0 [DMN]-Mario - Legacy GUID: 56ac695fcf6c9ba0429307fd875141a4
+﻿19:47:12 : Player #0 [DMN]-Mario disconnected
+﻿19:47:57 : Player #0 [DMN]-Mario (179.60.255.227:2304) connected
+﻿19:48:00 : Player #0 [DMN]-Mario - GUID: 90efe9555b6c518bdd5ab751845d62ac (unverified)
+﻿19:48:01 : Player #0 [DMN]-Mario - Legacy GUID: 56ac695fcf6c9ba0429307fd875141a4
+﻿19:48:01 : Verified GUID (90efe9555b6c518bdd5ab751845d62ac) of player #0 [DMN]-Mario
+﻿20:03:40 : Player #0 [DMN]-Mario disconnected
+﻿20:11:14 : RCon admin #2 (179.25.117.96:58341) logged in
+﻿20:34:11 : Player #0 Nikyta (190.244.45.71:2304) connected
+﻿20:34:12 : Player #0 Nikyta - GUID: d18bc2163de1a6abe8924f2e0788680b (unverified)
+﻿20:34:13 : Verified GUID (d18bc2163de1a6abe8924f2e0788680b) of player #0 Nikyta
+﻿20:34:13 : Player #0 Nikyta - Legacy GUID: d294364f535d1f02da4e01c50aaec207
+﻿20:41:55 : RCon admin #0: (Global) [adm#2] nikita viciosa
+﻿20:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿20:52:25 : Player #1 ZetstarsS (190.100.234.133:2304) connected
+﻿20:52:26 : Player #1 ZetstarsS - GUID: 70f45993b1f7e7f859d43c185d04b571 (unverified)
+﻿20:52:26 : Verified GUID (70f45993b1f7e7f859d43c185d04b571) of player #1 ZetstarsS
+﻿20:52:27 : Player #1 ZetstarsS - Legacy GUID: 37789d645629616f17208b0685e3aa93
+﻿20:52:29 : Player #1 ZetstarsS disconnected
+﻿20:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿20:55:47 : Player #0 Nikyta disconnected
+﻿20:57:54 : Player #0 Leodagos (186.135.40.24:18054) connected
+﻿20:57:56 : Player #0 Leodagos - GUID: 927032c3d7c1139aff0ff09424d46da1 (unverified)
+﻿20:57:56 : Verified GUID (927032c3d7c1139aff0ff09424d46da1) of player #0 Leodagos
+﻿20:57:56 : Player #0 Leodagos - Legacy GUID: d7639dceb9588d3b0ab85f82e92ff8de
+﻿20:59:00 : RCon admin #1: (Global) BEC : Server restart in 1 minute, Log out NOW!
+﻿20:59:31 : Player #0 Leodagos disconnected
+﻿20:59:37 : Player #0 Leodagos (186.135.40.24:18054) connected
+﻿20:59:38 : Player #0 Leodagos - GUID: 927032c3d7c1139aff0ff09424d46da1 (unverified)
+﻿20:59:38 : Verified GUID (927032c3d7c1139aff0ff09424d46da1) of player #0 Leodagos
+﻿20:59:39 : Player #0 Leodagos - Legacy GUID: d7639dceb9588d3b0ab85f82e92ff8de
+﻿21:00:01 : Lost Connection!
+﻿21:00:01 : Closing socket & exiting!
+﻿21:01:15 : Rcon client logging in
+﻿21:01:15 : RCon admin #1 (127.0.0.1:52496) logged in
+﻿21:27:11 : Player #0 Nikyta (190.244.45.71:2304) connected
+﻿21:27:13 : Player #0 Nikyta - GUID: d18bc2163de1a6abe8924f2e0788680b (unverified)
+﻿21:27:13 : Player #0 Nikyta - Legacy GUID: d294364f535d1f02da4e01c50aaec207
+﻿21:27:13 : Verified GUID (d18bc2163de1a6abe8924f2e0788680b) of player #0 Nikyta
+﻿21:47:12 : Player #0 Nikyta disconnected
+﻿22:07:18 : Player #0 CptPrice (186.49.210.109:2304) connected
+﻿22:07:19 : Player #0 CptPrice - GUID: dad8a88f476920602e0ba8a3ec2233f0 (unverified)
+﻿22:07:20 : Verified GUID (dad8a88f476920602e0ba8a3ec2233f0) of player #0 CptPrice
+﻿22:07:20 : Player #0 CptPrice - Legacy GUID: 323a7f4bd8042e48a12960b923bdf4f4
+﻿22:11:22 : Player #0 CptPrice disconnected
+﻿22:20:55 : Player #0 Bad Guy (24.232.71.49:2304) connected
+﻿22:20:56 : Player #0 Bad Guy - GUID: dda8f26d97fcb7ca8899f7f65d8536cf (unverified)
+﻿22:20:57 : Verified GUID (dda8f26d97fcb7ca8899f7f65d8536cf) of player #0 Bad Guy
+﻿22:20:57 : Player #0 Bad Guy - Legacy GUID: e63f5403618860de28c9af75ce0b2365
+﻿22:27:09 : Player #0 Bad Guy disconnected
+﻿22:30:09 : Player #0 Bad Guy (24.232.71.49:2304) connected
+﻿22:30:11 : Player #0 Bad Guy - GUID: dda8f26d97fcb7ca8899f7f65d8536cf (unverified)
+﻿22:30:11 : Verified GUID (dda8f26d97fcb7ca8899f7f65d8536cf) of player #0 Bad Guy
+﻿22:30:11 : Player #0 Bad Guy - Legacy GUID: e63f5403618860de28c9af75ce0b2365
+﻿22:43:36 : Player #1 Nikyta (190.244.45.71:2304) connected
+﻿22:43:37 : Player #1 Nikyta - GUID: d18bc2163de1a6abe8924f2e0788680b (unverified)
+﻿22:43:38 : Verified GUID (d18bc2163de1a6abe8924f2e0788680b) of player #1 Nikyta
+﻿22:43:38 : Player #1 Nikyta - Legacy GUID: d294364f535d1f02da4e01c50aaec207
+﻿23:10:44 : Player #2 FIN4LShare (187.63.77.182:2304) connected
+﻿23:10:45 : Player #2 FIN4LShare - GUID: d4cd999756c3b7742306dd967dcf9a54 (unverified)
+﻿23:10:46 : Verified GUID (d4cd999756c3b7742306dd967dcf9a54) of player #2 FIN4LShare
+﻿23:10:47 : Player #2 FIN4LShare - Legacy GUID: cbd67b2c90a885cb5aa8bc1280925a58
+﻿23:15:29 : Player #0 Bad Guy disconnected
+﻿23:15:33 : Player #0 Bad Guy (24.232.71.49:2304) connected
+﻿23:15:34 : Player #0 Bad Guy - GUID: dda8f26d97fcb7ca8899f7f65d8536cf (unverified)
+﻿23:15:34 : Verified GUID (dda8f26d97fcb7ca8899f7f65d8536cf) of player #0 Bad Guy
+﻿23:15:35 : Player #0 Bad Guy - Legacy GUID: e63f5403618860de28c9af75ce0b2365
+﻿23:18:15 : Player #2 FIN4LShare disconnected
+﻿23:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿23:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿23:55:49 : Player #0 Bad Guy disconnected
+﻿23:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!

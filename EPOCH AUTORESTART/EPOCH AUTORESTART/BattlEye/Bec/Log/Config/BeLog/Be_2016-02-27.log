@@ -1,0 +1,31 @@
+﻿23:28:44 : Rcon client logging in
+﻿23:28:44 : RCon admin #0 (127.0.0.1:54270) logged in
+﻿23:29:43 : Player #0 jhon wayne (190.137.166.52:2304) connected
+﻿23:29:44 : Player #0 jhon wayne - GUID: d603844e2f77196bf616245ae360213b (unverified)
+﻿23:29:44 : Verified GUID (d603844e2f77196bf616245ae360213b) of player #0 jhon wayne
+﻿23:29:45 : Player #0 jhon wayne - Legacy GUID: a5aa074813dab730e26d67b8a0a0af6c
+﻿23:32:37 : Player #0 jhon wayne disconnected
+﻿23:42:01 : Rcon client logging in
+﻿23:43:39 : Lost Connection!
+﻿23:43:39 : Closing socket & exiting!
+﻿23:45:01 : Rcon client logging in
+﻿23:45:01 : RCon admin #0 (127.0.0.1:50114) logged in
+﻿23:45:02 : RCon admin #0: (Global) BEC : This server will restart in 15 minutes
+﻿23:47:34 : Player #1 USER (190.176.221.60:2304) connected
+﻿23:47:35 : Player #1 USER - GUID: fc9bb4041d9b3feb5340fbad120fe497 (unverified)
+﻿23:47:36 : Verified GUID (fc9bb4041d9b3feb5340fbad120fe497) of player #1 USER
+﻿23:47:37 : Player #1 USER disconnected
+﻿23:47:45 : Player #1 USER (190.176.221.60:2304) connected
+﻿23:47:46 : Player #1 USER - GUID: fc9bb4041d9b3feb5340fbad120fe497 (unverified)
+﻿23:47:47 : Verified GUID (fc9bb4041d9b3feb5340fbad120fe497) of player #1 USER
+﻿23:47:47 : Player #1 USER disconnected
+﻿23:50:23 : Player #1 reconnect (181.31.146.206:2304) connected
+﻿23:50:24 : Player #1 reconnect - GUID: bce9001abea802948b7f28a9f2de533e (unverified)
+﻿23:50:25 : Verified GUID (bce9001abea802948b7f28a9f2de533e) of player #1 reconnect
+﻿23:50:25 : Player #1 reconnect - Legacy GUID: 30e1b7957008270cda72e13e47f13b54
+﻿23:50:56 : Player #2 USER (190.176.221.60:2304) connected
+﻿23:50:57 : Player #2 USER - GUID: fc9bb4041d9b3feb5340fbad120fe497 (unverified)
+﻿23:50:57 : Verified GUID (fc9bb4041d9b3feb5340fbad120fe497) of player #2 USER
+﻿23:50:58 : Player #2 USER disconnected
+﻿23:55:00 : RCon admin #0: (Global) BEC : This server will restart in 5 minutes
+﻿23:59:00 : RCon admin #0: (Global) BEC : This server will restart in 1 minute, Log out now!

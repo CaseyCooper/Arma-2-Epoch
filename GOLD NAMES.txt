@@ -1,0 +1,6 @@
+ItemBriefcase100oz
+ItemGoldBar10oz
+ItemGoldBar
+
+ItemSilverBar
+ItemSilverBar10oz

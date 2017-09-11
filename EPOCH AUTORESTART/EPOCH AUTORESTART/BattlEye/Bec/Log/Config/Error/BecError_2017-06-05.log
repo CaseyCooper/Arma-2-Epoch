@@ -1,0 +1,27 @@
+﻿17:57:32 : Schedule with job id=42 has a invalid file defined
+﻿17:57:57 : Schedule with job id=42 has a invalid file defined
+﻿22:22:53 : Schedule with job id=3 has a invalid file defined
+﻿22:22:53 : Schedule with job id=7 has a invalid file defined
+﻿22:22:53 : Schedule with job id=11 has a invalid file defined
+﻿22:22:53 : Schedule with job id=15 has a invalid file defined
+﻿22:22:53 : Schedule with job id=19 has a invalid file defined
+﻿22:22:53 : Schedule with job id=23 has a invalid file defined
+﻿22:22:53 : Schedule with job id=27 has a invalid file defined
+﻿22:22:53 : Schedule with job id=31 has a invalid file defined
+﻿22:22:53 : Schedule with job id=35 has a invalid file defined
+﻿22:22:53 : Schedule with job id=39 has a invalid file defined
+﻿22:22:53 : Schedule with job id=43 has a invalid file defined
+﻿22:22:53 : Schedule with job id=47 has a invalid file defined
+﻿22:24:56 : Schedule with job id=3 has a invalid file defined
+﻿22:24:56 : Schedule with job id=7 has a invalid file defined
+﻿22:24:56 : Schedule with job id=11 has a invalid file defined
+﻿22:24:56 : Schedule with job id=15 has a invalid file defined
+﻿22:24:56 : Schedule with job id=19 has a invalid file defined
+﻿22:24:56 : Schedule with job id=23 has a invalid file defined
+﻿22:24:56 : Schedule with job id=27 has a invalid file defined
+﻿22:24:56 : Schedule with job id=31 has a invalid file defined
+﻿22:24:56 : Schedule with job id=35 has a invalid file defined
+﻿22:24:56 : Schedule with job id=39 has a invalid file defined
+﻿22:24:56 : Schedule with job id=43 has a invalid file defined
+﻿22:24:56 : Schedule with job id=47 has a invalid file defined
+﻿22:33:27 : Parsing the Schedular File Failed, Recheck The File : not well-formed (invalid token): line 293, column 1

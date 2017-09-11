@@ -1,0 +1,100 @@
+﻿16:10:12 : Rcon client logging in
+﻿16:10:13 : RCon admin #0 (127.0.0.1:60882) logged in
+﻿16:22:04 : RCon admin #1 (127.0.0.1:60388) logged in
+﻿16:48:42 : RCon admin #1 (127.0.0.1:54476) logged in
+﻿16:51:55 : Player #0 Guille-Note (181.230.92.91:2304) connected
+﻿16:52:03 : Player #0 Guille-Note disconnected
+﻿17:45:00 : RCon admin #0: (Global) BEC : This server will restart in 15 minutes
+﻿17:55:00 : RCon admin #0: (Global) BEC : This server will restart in 5 minutes
+﻿17:59:00 : RCon admin #0: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿18:00:00 : Lost Connection!
+﻿18:00:00 : Closing socket & exiting!
+﻿18:01:06 : Rcon client logging in
+﻿18:01:06 : RCon admin #1 (127.0.0.1:49941) logged in
+﻿19:07:04 : Player #0 Dromsito (190.48.144.191:2304) connected
+﻿19:07:06 : Player #0 Dromsito - GUID: a28691e3b8de5b6290cb77c4cf8a4a55 (unverified)
+﻿19:07:06 : Verified GUID (a28691e3b8de5b6290cb77c4cf8a4a55) of player #0 Dromsito
+﻿19:07:07 : Player #0 Dromsito - Legacy GUID: 8916210343111f5bd06931debdd291cb
+﻿19:34:03 : Player #1 Azrael1x (191.80.184.94:2304) connected
+﻿19:34:04 : Player #1 Azrael1x - GUID: f3bbe77e31363319b3378084ddcb86d8 (unverified)
+﻿19:34:04 : Verified GUID (f3bbe77e31363319b3378084ddcb86d8) of player #1 Azrael1x
+﻿19:34:05 : Player #1 Azrael1x - Legacy GUID: 872394ca0b82ad6e77d13dc8f5141d95
+﻿19:38:05 : Player #2 Franco (190.51.184.100:2304) connected
+﻿19:38:07 : Player #2 Franco - GUID: 6bcfb0f975adf2257ee1153aba6bd94d (unverified)
+﻿19:38:08 : Verified GUID (6bcfb0f975adf2257ee1153aba6bd94d) of player #2 Franco
+﻿19:38:09 : Player #2 Franco - Legacy GUID: 9946e045ce25198892a37bc5a67af45c
+﻿19:38:10 : Player #2 Franco disconnected
+﻿19:41:23 : Player #2 Dragons (186.22.173.62:2304) connected
+﻿19:41:24 : Player #2 Dragons - GUID: 3c6c048346652b2441b43e719a05201a (unverified)
+﻿19:41:24 : Verified GUID (3c6c048346652b2441b43e719a05201a) of player #2 Dragons
+﻿19:41:25 : Player #2 Dragons - Legacy GUID: 3913b982b8c60e961ef4fc2d2bc88df7
+﻿19:43:29 : Player #3 RubZombie (181.25.191.111:2304) connected
+﻿19:43:30 : Player #3 RubZombie - GUID: 24ba20d303377d18c9e127e384903bc9 (unverified)
+﻿19:43:31 : Verified GUID (24ba20d303377d18c9e127e384903bc9) of player #3 RubZombie
+﻿19:43:31 : Player #3 RubZombie - Legacy GUID: a83524210a0ef5a6fae83909f2bf7a8d
+﻿19:46:42 : Player #3 RubZombie disconnected
+﻿19:59:46 : Player #3 Tinchon (186.23.169.175:2304) connected
+﻿19:59:48 : Player #3 Tinchon - GUID: 70bf47ca38aa4c29fdd431cd161de7eb (unverified)
+﻿19:59:48 : Player #3 Tinchon - Legacy GUID: b1274725ddc384b369a57288e5a2b274
+﻿19:59:48 : Verified GUID (70bf47ca38aa4c29fdd431cd161de7eb) of player #3 Tinchon
+﻿19:59:50 : Player #3 Tinchon disconnected
+﻿20:00:05 : Player #3 Enzogianno (190.192.9.143:2304) connected
+﻿20:00:06 : Player #3 Enzogianno - GUID: 61e4cc61df385b59e2598855fd2f2fe8 (unverified)
+﻿20:00:07 : Verified GUID (61e4cc61df385b59e2598855fd2f2fe8) of player #3 Enzogianno
+﻿20:00:08 : Player #3 Enzogianno - Legacy GUID: 666543a681cd9b127badd33454b56076
+﻿20:00:08 : Player #3 Enzogianno disconnected
+﻿20:01:40 : Player #1 Azrael1x disconnected
+﻿20:14:53 : Player #1 Enzogianno (190.192.9.143:2304) connected
+﻿20:14:54 : Player #1 Enzogianno - GUID: 61e4cc61df385b59e2598855fd2f2fe8 (unverified)
+﻿20:14:54 : Verified GUID (61e4cc61df385b59e2598855fd2f2fe8) of player #1 Enzogianno
+﻿20:14:55 : Player #1 Enzogianno - Legacy GUID: 666543a681cd9b127badd33454b56076
+﻿20:14:55 : Player #1 Enzogianno disconnected
+﻿20:34:59 : Player #2 Dragons disconnected
+﻿20:35:43 : Player #1 Dragons (186.22.173.62:2304) connected
+﻿20:35:44 : Player #1 Dragons - GUID: 3c6c048346652b2441b43e719a05201a (unverified)
+﻿20:35:45 : Verified GUID (3c6c048346652b2441b43e719a05201a) of player #1 Dragons
+﻿20:35:45 : Player #1 Dragons - Legacy GUID: 3913b982b8c60e961ef4fc2d2bc88df7
+﻿20:37:56 : Player #2 Franco (190.51.184.100:2304) connected
+﻿20:37:57 : Player #2 Franco - GUID: 6bcfb0f975adf2257ee1153aba6bd94d (unverified)
+﻿20:37:58 : Verified GUID (6bcfb0f975adf2257ee1153aba6bd94d) of player #2 Franco
+﻿20:37:59 : Player #2 Franco - Legacy GUID: 9946e045ce25198892a37bc5a67af45c
+﻿20:37:59 : Player #2 Franco disconnected
+﻿20:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿20:47:42 : RCon admin #1: (To Dromsito) BEC : You have about 60 seconds left to join the mission.
+﻿20:48:14 : RCon admin #1: (To Dromsito) BEC : You have about 30 seconds left to join the mission.
+﻿20:48:28 : RCon admin #1: (To Dromsito) BEC : You have about 15 seconds left to join the mission.
+﻿20:48:42 : Player #0 Dromsito (a28691e3b8de5b6290cb77c4cf8a4a55) has been kicked by BattlEye: Admin Kick (BEC : Lobby idling to long)
+﻿20:49:02 : Player #0 Dromsito (190.48.144.191:2304) connected
+﻿20:49:04 : Player #0 Dromsito - GUID: a28691e3b8de5b6290cb77c4cf8a4a55 (unverified)
+﻿20:49:04 : Player #0 Dromsito - Legacy GUID: 8916210343111f5bd06931debdd291cb
+﻿20:49:04 : Verified GUID (a28691e3b8de5b6290cb77c4cf8a4a55) of player #0 Dromsito
+﻿20:49:11 : Player #0 Dromsito disconnected
+﻿20:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿20:59:00 : RCon admin #1: (Global) BEC : Server restart in 1 minute, Log out NOW!
+﻿21:00:01 : Lost Connection!
+﻿21:00:01 : Closing socket & exiting!
+﻿21:01:15 : Rcon client logging in
+﻿21:01:15 : RCon admin #1 (127.0.0.1:61735) logged in
+﻿21:13:08 : Player #0 Mati (190.164.196.45:2304) connected
+﻿21:13:10 : Player #0 Mati - GUID: 1dae6a2fbd2b81647b3700982b5d5d90 (unverified)
+﻿21:13:11 : Verified GUID (1dae6a2fbd2b81647b3700982b5d5d90) of player #0 Mati
+﻿21:13:12 : Player #0 Mati - Legacy GUID: 9d7e94aa9252466dd32fa3fb8b990d25
+﻿21:14:10 : Player #0 Mati disconnected
+﻿22:35:26 : Player #0 Dromsito (190.48.144.191:2304) connected
+﻿22:35:27 : Player #0 Dromsito - GUID: a28691e3b8de5b6290cb77c4cf8a4a55 (unverified)
+﻿22:35:28 : Verified GUID (a28691e3b8de5b6290cb77c4cf8a4a55) of player #0 Dromsito
+﻿22:35:29 : Player #0 Dromsito - Legacy GUID: 8916210343111f5bd06931debdd291cb
+﻿22:52:40 : Player #1 FIN4LShare (177.154.8.238:2304) connected
+﻿22:52:41 : Player #1 FIN4LShare - GUID: d4cd999756c3b7742306dd967dcf9a54 (unverified)
+﻿22:52:42 : Verified GUID (d4cd999756c3b7742306dd967dcf9a54) of player #1 FIN4LShare
+﻿22:52:42 : Player #1 FIN4LShare - Legacy GUID: cbd67b2c90a885cb5aa8bc1280925a58
+﻿23:14:27 : Player #0 Dromsito disconnected
+﻿23:23:14 : Player #0 [WG] SnakeGeneral (191.32.246.103:2304) connected
+﻿23:23:15 : Player #0 [WG] SnakeGeneral - GUID: 181db932e18c373dea58c91a9b7034bf (unverified)
+﻿23:23:16 : Verified GUID (181db932e18c373dea58c91a9b7034bf) of player #0 [WG] SnakeGeneral
+﻿23:23:17 : Player #0 [WG] SnakeGeneral - Legacy GUID: 855ed08988c3abe5e44ce3742718c692
+﻿23:45:00 : RCon admin #1: (Global) BEC : This server will restart in 15 minutes
+﻿23:55:00 : RCon admin #1: (Global) BEC : This server will restart in 5 minutes
+﻿23:59:00 : RCon admin #1: (Global) BEC : This server will restart in 1 minute, Log out now!
+﻿23:59:19 : Player #1 FIN4LShare disconnected
+﻿23:59:28 : Player #0 [WG] SnakeGeneral disconnected

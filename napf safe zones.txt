@@ -1,0 +1,11 @@
+_safezones = [
+	[[8246.3184,15485.867],50, "Lenz"], // Lenzburg
+	[[15506.952,13229.368],100, "Emmen"], // Emmen
+	[[12399.751,5074.5273],75, "Schratten"], // Schratten
+	[[10398.626,8279.4619],50, "Bandit"], // Bandit camp
+	[[5149.9814,4864.1191],50, "Hero"], // Hero vendor
+	[[2122.7954,7807.9878],50, "Wholesaler"], // Wholesaler 1
+	[[5379.0342,16103.187],50, "Wholesaler"], // Wholesaler 2
+	[[6772.8877,16983.27],50, "Boatdealer"], // Boat dealer 1
+	[[16839.973,5264.0566],50, "Boatdealer"] // Boat dealer 2
+];

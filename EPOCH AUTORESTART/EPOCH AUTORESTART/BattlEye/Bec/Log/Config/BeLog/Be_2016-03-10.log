@@ -1,0 +1,71 @@
+﻿13:36:07 : Rcon client logging in
+﻿13:36:07 : RCon admin #0 (127.0.0.1:61985) logged in
+﻿13:50:27 : Lost Connection!
+﻿13:50:27 : Closing socket & exiting!
+﻿18:34:35 : Rcon client logging in
+﻿18:34:35 : RCon admin #0 (127.0.0.1:51749) logged in
+﻿18:45:24 : Player #0 Ariel (186.18.50.27:2304) connected
+﻿18:45:26 : Player #0 Ariel - GUID: c5b74f7036e53b63fbb69767a2d1c503 (unverified)
+﻿18:45:26 : Verified GUID (c5b74f7036e53b63fbb69767a2d1c503) of player #0 Ariel
+﻿18:45:27 : Player #0 Ariel - Legacy GUID: 34a62f101c2878b9f38e63f1164828b8
+﻿18:47:55 : Player #1 BRUNO1 (177.92.175.246:2304) connected
+﻿18:47:56 : Player #1 BRUNO1 - GUID: 871a66ba6bff838946a3e36a69e870bb (unverified)
+﻿18:47:56 : Verified GUID (871a66ba6bff838946a3e36a69e870bb) of player #1 BRUNO1
+﻿18:47:57 : Player #1 BRUNO1 - Legacy GUID: 779adfd875e317efefda6f858ac63113
+﻿18:56:23 : Player #0 Ariel (c5b74f7036e53b63fbb69767a2d1c503) has been kicked by BattlEye: Client not responding
+﻿18:56:24 : Player #1 BRUNO1 (871a66ba6bff838946a3e36a69e870bb) has been kicked by BattlEye: Client not responding
+﻿19:06:56 : Rcon client logging in
+﻿19:06:56 : RCon admin #0 (127.0.0.1:50538) logged in
+﻿20:56:52 : Rcon client logging in
+﻿20:56:52 : RCon admin #0 (127.0.0.1:62628) logged in
+﻿20:59:00 : RCon admin #0: (Global) BEC : Server restart in 1 minute, Log out NOW!
+﻿21:00:02 : Lost Connection!
+﻿21:00:02 : Closing socket & exiting!
+﻿21:01:06 : Rcon client logging in
+﻿21:01:06 : RCon admin #0 (127.0.0.1:62629) logged in
+﻿21:35:00 : Player #0 Ariel (186.18.50.27:2304) connected
+﻿21:35:02 : Player #0 Ariel - GUID: c5b74f7036e53b63fbb69767a2d1c503 (unverified)
+﻿21:35:02 : Player #0 Ariel - Legacy GUID: 34a62f101c2878b9f38e63f1164828b8
+﻿21:35:02 : Verified GUID (c5b74f7036e53b63fbb69767a2d1c503) of player #0 Ariel
+﻿22:02:20 : Player #0 Ariel (c5b74f7036e53b63fbb69767a2d1c503) has been kicked by BattlEye: Ping too high (1264)
+﻿22:03:04 : Player #0 Ariel (186.18.50.27:2304) connected
+﻿22:03:06 : Player #0 Ariel - GUID: c5b74f7036e53b63fbb69767a2d1c503 (unverified)
+﻿22:03:06 : Player #0 Ariel - Legacy GUID: 34a62f101c2878b9f38e63f1164828b8
+﻿22:03:06 : Verified GUID (c5b74f7036e53b63fbb69767a2d1c503) of player #0 Ariel
+﻿22:07:59 : Player #1 Mades (186.136.128.39:2304) connected
+﻿22:08:00 : Player #1 Mades - GUID: 3c5b53000017cc8888b896a16e2bda78 (unverified)
+﻿22:08:01 : Verified GUID (3c5b53000017cc8888b896a16e2bda78) of player #1 Mades
+﻿22:08:01 : Player #1 Mades - Legacy GUID: de309febc01024ceb3453372331d1ec6
+﻿22:08:10 : Player #2 Vassili ZaitseV (190.174.154.173:2304) connected
+﻿22:08:11 : Player #2 Vassili ZaitseV - GUID: 02ea080dbafe11dd0b0e461a17cbf776 (unverified)
+﻿22:08:12 : Verified GUID (02ea080dbafe11dd0b0e461a17cbf776) of player #2 Vassili ZaitseV
+﻿22:08:12 : Player #2 Vassili ZaitseV - Legacy GUID: b16114ecce6c3d748d4432f8bd08e22e
+﻿22:13:22 : Could not connect to BE Master
+﻿22:13:22 : Update attempt failed
+﻿22:13:33 : Player #0 Ariel (c5b74f7036e53b63fbb69767a2d1c503) has been kicked by BattlEye: Client not responding
+﻿22:13:34 : Player #1 Mades (3c5b53000017cc8888b896a16e2bda78) has been kicked by BattlEye: Client not responding
+﻿22:13:35 : Player #2 Vassili ZaitseV (02ea080dbafe11dd0b0e461a17cbf776) has been kicked by BattlEye: Client not responding
+﻿22:14:48 : Player #0 Ariel (186.18.50.27:1024) connected
+﻿22:14:49 : Player #0 Ariel - GUID: c5b74f7036e53b63fbb69767a2d1c503 (unverified)
+﻿22:14:50 : Verified GUID (c5b74f7036e53b63fbb69767a2d1c503) of player #0 Ariel
+﻿22:14:50 : Player #0 Ariel - Legacy GUID: 34a62f101c2878b9f38e63f1164828b8
+﻿22:15:15 : Player #1 Mades (186.136.128.39:1024) connected
+﻿22:15:16 : Player #1 Mades - GUID: 3c5b53000017cc8888b896a16e2bda78 (unverified)
+﻿22:15:16 : Verified GUID (3c5b53000017cc8888b896a16e2bda78) of player #1 Mades
+﻿22:15:17 : Player #1 Mades - Legacy GUID: de309febc01024ceb3453372331d1ec6
+﻿22:17:57 : Player #0 Ariel (c5b74f7036e53b63fbb69767a2d1c503) has been kicked by BattlEye: Client not responding
+﻿22:18:01 : Player #1 Mades (3c5b53000017cc8888b896a16e2bda78) has been kicked by BattlEye: Client not responding
+﻿22:20:31 : Player #0 Ariel (186.18.50.27:2304) connected
+﻿22:20:33 : Player #0 Ariel - GUID: c5b74f7036e53b63fbb69767a2d1c503 (unverified)
+﻿22:20:33 : Verified GUID (c5b74f7036e53b63fbb69767a2d1c503) of player #0 Ariel
+﻿22:20:33 : Player #0 Ariel - Legacy GUID: 34a62f101c2878b9f38e63f1164828b8
+﻿22:25:14 : Player #0 Ariel disconnected
+﻿22:41:17 : Player #0 Ariel (186.18.50.27:2304) connected
+﻿22:41:23 : Player #0 Ariel - GUID: c5b74f7036e53b63fbb69767a2d1c503 (unverified)
+﻿22:41:23 : Player #0 Ariel - Legacy GUID: 34a62f101c2878b9f38e63f1164828b8
+﻿22:41:23 : Verified GUID (c5b74f7036e53b63fbb69767a2d1c503) of player #0 Ariel
+﻿22:44:30 : Player #0 Ariel disconnected
+﻿23:32:20 : RCon admin #1 (179.26.220.8:56850) logged in
+﻿23:45:00 : RCon admin #0: (Global) BEC : This server will restart in 15 minutes
+﻿23:55:00 : RCon admin #0: (Global) BEC : This server will restart in 5 minutes
+﻿23:59:00 : RCon admin #0: (Global) BEC : This server will restart in 1 minute, Log out now!

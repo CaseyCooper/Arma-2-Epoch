@@ -1,0 +1,73 @@
+﻿00:02:11 : Rcon client logging in
+﻿00:02:11 : RCon admin #0 (127.0.0.1:65199) logged in
+﻿00:08:11 : RCon admin #0: (Global) CRFT Survival Servers
+﻿00:08:11 : RCon admin #0: (Global) Epoch Napf Veteran 
+﻿00:56:52 : Player #0 Tiadashi (47.142.195.93:2304) connected
+﻿00:56:53 : Player #0 Tiadashi - GUID: ba7597fbd587ece9e807face23916950 (unverified)
+﻿00:56:54 : Verified GUID (ba7597fbd587ece9e807face23916950) of player #0 Tiadashi
+﻿00:56:54 : Player #0 Tiadashi - Legacy GUID: 8b4506e86dff8826a189c6a07436a687
+﻿01:25:12 : Player #1 Bolter (24.254.82.124:2304) connected
+﻿01:25:14 : Player #1 Bolter - GUID: e8f5735790cf4f62671dfdce3a1e973b (unverified)
+﻿01:25:14 : Verified GUID (e8f5735790cf4f62671dfdce3a1e973b) of player #1 Bolter
+﻿01:25:14 : Player #1 Bolter - Legacy GUID: 8db1f0e0d6922af8f4e536d5ef737a4d
+﻿03:29:36 : Player #1 Bolter disconnected
+﻿03:30:50 : Player #0 Tiadashi disconnected
+﻿05:30:00 : RCon admin #0: (Global) This server will restart in 30 minutes
+﻿05:45:00 : RCon admin #0: (Global) This server will restart in 15 minutes
+﻿05:55:00 : RCon admin #0: (Global) This server will restart in 5 minute, log out now to prevent item loss!
+﻿05:59:00 : RCon admin #0: (Global) This server will restart in 1 minute, Log out now!
+﻿06:02:00 : Rcon client logging in
+﻿06:02:01 : RCon admin #0 (127.0.0.1:51539) logged in
+﻿06:08:01 : RCon admin #0: (Global) CRFT Survival Servers
+﻿06:08:01 : RCon admin #0: (Global) Epoch Napf Veteran 
+﻿11:30:00 : RCon admin #0: (Global) This server will restart in 30 minutes
+﻿11:45:00 : RCon admin #0: (Global) This server will restart in 15 minutes
+﻿11:55:00 : RCon admin #0: (Global) This server will restart in 5 minute, log out now to prevent item loss!
+﻿11:59:00 : RCon admin #0: (Global) This server will restart in 1 minute, Log out now!
+﻿12:02:11 : Rcon client logging in
+﻿12:02:11 : RCon admin #0 (127.0.0.1:63154) logged in
+﻿12:08:11 : RCon admin #0: (Global) CRFT Survival Servers
+﻿12:08:11 : RCon admin #0: (Global) Epoch Napf Veteran 
+﻿14:48:47 : Player #0 Bolter (24.254.82.124:2304) connected
+﻿14:48:49 : Player #0 Bolter - Legacy GUID: 8db1f0e0d6922af8f4e536d5ef737a4d
+﻿14:48:49 : Player #0 Bolter - GUID: e8f5735790cf4f62671dfdce3a1e973b (unverified)
+﻿14:48:49 : Verified GUID (e8f5735790cf4f62671dfdce3a1e973b) of player #0 Bolter
+﻿15:12:20 : Player #0 Bolter disconnected
+﻿17:30:00 : RCon admin #0: (Global) This server will restart in 30 minutes
+﻿17:45:00 : RCon admin #0: (Global) This server will restart in 15 minutes
+﻿17:46:18 : Player #0 Tiadashi (47.142.195.93:2304) connected
+﻿17:46:19 : Player #0 Tiadashi - GUID: ba7597fbd587ece9e807face23916950 (unverified)
+﻿17:46:19 : Verified GUID (ba7597fbd587ece9e807face23916950) of player #0 Tiadashi
+﻿17:46:20 : Player #0 Tiadashi - Legacy GUID: 8b4506e86dff8826a189c6a07436a687
+﻿17:55:00 : RCon admin #0: (Global) This server will restart in 5 minute, log out now to prevent item loss!
+﻿17:55:33 : Player #0 Tiadashi disconnected
+﻿17:59:00 : RCon admin #0: (Global) This server will restart in 1 minute, Log out now!
+﻿18:02:12 : Rcon client logging in
+﻿18:02:12 : RCon admin #0 (127.0.0.1:58096) logged in
+﻿18:02:52 : Player #0 Tiadashi (47.142.195.93:2304) connected
+﻿18:02:53 : Player #0 Tiadashi - GUID: ba7597fbd587ece9e807face23916950 (unverified)
+﻿18:02:53 : Verified GUID (ba7597fbd587ece9e807face23916950) of player #0 Tiadashi
+﻿18:02:53 : Player #0 Tiadashi - Legacy GUID: 8b4506e86dff8826a189c6a07436a687
+﻿18:08:12 : RCon admin #0: (Global) CRFT Survival Servers
+﻿18:08:12 : RCon admin #0: (Global) Epoch Napf Veteran 
+﻿19:40:25 : Failed to receive from BE Master (2)
+﻿19:40:25 : Update attempt failed
+﻿19:42:20 : Failed to receive from BE Master (2)
+﻿19:42:20 : Update attempt failed
+﻿19:44:15 : Failed to receive from BE Master (2)
+﻿19:44:15 : Update attempt failed
+﻿19:46:11 : Failed to receive from BE Master (2)
+﻿19:46:11 : Update attempt failed
+﻿19:48:06 : Failed to receive from BE Master (2)
+﻿19:48:06 : Update attempt failed
+﻿19:50:01 : Failed to receive from BE Master (2)
+﻿19:50:01 : Update attempt failed
+﻿19:51:56 : Failed to receive from BE Master (2)
+﻿19:51:56 : Update attempt failed
+﻿19:53:51 : Failed to receive from BE Master (2)
+﻿19:53:51 : Update attempt failed
+﻿19:54:39 : Player #0 Tiadashi disconnected
+﻿23:30:00 : RCon admin #0: (Global) This server will restart in 30 minutes
+﻿23:45:00 : RCon admin #0: (Global) This server will restart in 15 minutes
+﻿23:55:00 : RCon admin #0: (Global) This server will restart in 5 minute, log out now to prevent item loss!
+﻿23:59:00 : RCon admin #0: (Global) This server will restart in 1 minute, Log out now!
